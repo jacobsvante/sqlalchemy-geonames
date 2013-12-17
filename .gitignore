@@ -5,6 +5,7 @@ MANIFEST
 .tox
 .python-version
 .env
+.vagrant
 .venv
 .coverage
 .coveralls.yml
