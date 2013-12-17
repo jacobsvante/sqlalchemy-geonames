@@ -27,14 +27,11 @@ before_script:
   # Create database "sqla_geonames"
   - psql -c 'CREATE DATABASE sqla_geonames;' -U postgres
 
-  # Create schema "sqla_geonames" into database "sqla_geonames"
-  - psql -d sqla_geonames -c 'CREATE SCHEMA sqla_geonames;' -U postgres
-
   # Grant CREATE permission on database "sqla_geonames" to role "sqla_geonames"
   - psql -c 'GRANT CREATE ON DATABASE sqla_geonames TO "sqla_geonames";' -U postgres
 
   # Grant USAGE and CREATE permission on schema "sqla_geonames" to role "sqla_geonames"
-  - psql -d sqla_geonames -c 'GRANT USAGE,CREATE ON SCHEMA sqla_geonames TO "sqla_geonames";' -U postgres
+  - psql -d sqla_geonames -c 'GRANT USAGE, CREATE ON SCHEMA public TO "sqla_geonames";' -U postgres
 
   # Add PostGIS extension to "sqla_geonames" database
   - psql -d sqla_geonames -U postgres -c "CREATE EXTENSION postgis;"
