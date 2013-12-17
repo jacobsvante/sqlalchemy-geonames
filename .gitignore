@@ -6,6 +6,7 @@ MANIFEST
 .python-version
 .env
 .venv
+.coverage
 *.DS_Store
 *.pyc
 *.sublime-project
