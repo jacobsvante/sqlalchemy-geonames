@@ -1,0 +1,1000 @@
+3460901	Itaguaçu	Itaguacu	Boa Familia,Bôa Familia,Itaguassu,Itaguassú	-19.80194	-40.85556	P	PPL	BR		08	3202702			8201		134	America/Sao_Paulo	2012-08-03
+3530907	Chignautla	Chignautla	Chignautla	19.8207	-97.38778	P	PPL	MX		21				9259		1960	America/Mexico_City	2012-09-06
+2280995	Tanda	Tanda	Tan N'Da,Tan N’Da,Tanda,Tanga	7.80336	-3.16832	P	PPL	CI		92				20161		274	Africa/Abidjan	2012-02-28
+510899	Pervomayskiy	Pervomayskiy	Pervomajskij,Pervomayskiy,Verob'yevka,Verob’yevka,Первомайский	54.04482	37.50875	P	PPLX	RU		76				10885		239	Europe/Moscow	2012-01-17
+3667579	Tadó	Tado	Tado,Tadó	5.26598	-76.56487	P	PPL	CO		11				10095		75	America/Bogota	2012-01-19
+3375941	Skeldon	Skeldon	Number 80,SKM,Skeldon,Skeldon Place	5.88333	-57.13333	P	PPL	GY		13				5859		0	America/Guyana	2012-01-18
+7306518	Utrik	Utrik	Utirik,Utrik,Utrok,Utrōk	11.22778	169.84739	P	PPLA	MH		410				409		10	Pacific/Majuro	2013-08-09
+2634569	Wells	Wells	Uehls,Wellae,Wells,u~eruzu,wei er si,wlz,wlz, anglstan,Уэлс,ولز,ولز، انگلستان,ウェルズ,韋爾斯	51.20794	-2.64896	P	PPL	GB		ENG	M3	40UB		10638		42	Europe/London	2011-03-03
+1273265	Deoband	Deoband	Deoband,Deobande,Деобанде	29.69291	77.67778	P	PPL	IN		36				88171		267	Asia/Kolkata	2012-09-06
+2300379	Ho	Ho	Ho,Hohoe,Kho,Хо	6.60084	0.4713	P	PPLA	GH		08				69998		171	Africa/Accra	2012-06-05
+1657819	Champasak	Champasak	Basak,Bassac,Bassak,Champasak,Champassac,Champassak,Чампасак	14.89162	105.87818	P	PPL	LA		02				12994		104	Asia/Vientiane	2013-01-10
+618120	Căuşeni	Causeni	Causani-Novi,Causanii-Noui,Causeni,Căuşani-Novi,Căuşanii-Noui,Căuşeni,Căușeni,Kaushani,Kaushani-Noui,Kaushany,Kehushan',Noui Causanii,Noui Căuşanii,Novo Kaushani,Novyye Kaushany,Novyye Keushani,Каушаны,Кэушань	46.64417	29.41389	P	PPLA	MD		67				21690		12	Europe/Chisinau	2013-12-01
+4779999	Portsmouth	Portsmouth	Portsmouth,Portsmut,pocheumeoseu,potsumasu,pu ci mao si,pwrthmwth, wyrjynya,pwrtsmwt',Портсмут,פורטסמות',پورثموث، ویرجینیا,ポーツマス,朴次茅斯,포츠머스	36.83543	-76.29827	P	PPLA2	US		VA	740			95535	3	6	America/New_York	2012-04-28
+1817240	Baiyin	Baiyin	Aho Chia Chuan,Baiyin,Baiyin Shi,Hao-chia-ch'uan,Hao-chia-ch’uan,Ho-chia-ch'uan,Ho-chia-ch’uan,Pai-yin,Pai-yin-ch'ang,Pai-yin-ch’ang,Pai-yin-shih,bai yin,bai yin shi,白银,白银市	36.54696	104.17023	P	PPLA2	CN		15				188533		1723	Asia/Chongqing	2013-08-05
+1337610	Thinadhoo	Thinadhoo	Thinadhoo	0.53333	72.93333	P	PPLA	MV		35				6376		-9999	Indian/Maldives	2013-07-04
+495770	Sharan	Sharan	Sharan,Sjaran,Шаран	54.81667	54	P	PPL	RU		08				5555		160	Asia/Yekaterinburg	2012-01-17
+2330589	Matsena	Matsena	Machina,Matsena	13.13639	10.04924	P	PPL	NG		44				11707		366	Africa/Lagos	2012-01-18
+2111834	Morioka-shi	Morioka-shi	Morioka,Morioka-shi,molioka si,moriokashi,sheng gang shi,Мориока,もりおかし,盛岡市,모리오카 시	39.70361	141.1525	P	PPLA	JP		16				295172		141	Asia/Tokyo	2012-01-19
+4941835	Leicester	Leicester		42.24593	-71.90868	P	PPL	US		MA	027			11064	298	302	America/New_York	2006-01-17
+3110834	Sant Boi de Llobregat	Sant Boi de Llobregat	Sant Boi de Llobregat	41.34357	2.03659	P	PPL	ES		56	B	08200		82428		45	Europe/Madrid	2010-07-27
+2347116	Binji	Binji	Binji	13.22277	4.90955	P	PPL	NG		51				6717		249	Africa/Lagos	2013-07-14
+5121513	Hudson Falls	Hudson Falls		43.30063	-73.58595	P	PPL	US		NY	115			7281	90	93	America/New_York	2011-05-14
+933685	Kanye	Kanye	Kanye	-24.96675	25.33274	P	PPLA	BW		10				44716		1406	Africa/Gaborone	2012-01-18
+2339753	Gwasero	Gwasero		9.48333	3.5	P	PPL	NG		30				7263		355	Africa/Lagos	2013-05-18
+1180453	Darya Khān Marri	Darya Khan Marri	Darya Khan Mari,Darya Khan Marri,Darya Khān Marri	26.67748	68.2859	P	PPL	PK		05				8973		44	Asia/Karachi	2012-01-17
+2813187	Weißensee	Weissensee	Berlin-Weissensee	52.55632	13.46649	P	PPLX	DE	DE	16	00	11000	11000000	47693		53	Europe/Berlin	2012-06-09
+3172483	Muggia	Muggia	Milje,Mudha,Muggia,Muggio,Muđa,mujja,ムッジャ	45.60419	13.76754	P	PPLA3	IT		06	TS	032003		13306		7	Europe/Rome	2012-02-15
+2639902	Prestonpans	Prestonpans	Prestonpans	55.95939	-2.98038	P	PPL	GB		SCT	U6			7145		18	Europe/London	2013-07-11
+583368	Aleksandriyskaya	Aleksandriyskaya	Aleksandrijskaja,Aleksandriyskaya,Александрийская	44.22722	43.34528	P	PPL	RU		70				10279		259	Europe/Moscow	2012-01-17
+2156643	Mount Gambier	Mount Gambier	Gambier Town,MGB,Maunt-Gambier,Mont Gambier,Mount Gambier,Mt Gambier,Mt. Gambier,Маунт-Гамбиер	-37.8318	140.77919	P	PPL	AU		05	44620			23209		41	Australia/Adelaide	2013-08-03
+2942159	Bückeburg	Buckeburg	Bikeburg,Bjukkeburg,Buckeburg,Bückeburg,bi ke bao,bwikebuleukeu,bwkbrg,byukkeburuku,Бикебург,Бюккебург,بوکبرگ,ビュッケブルク,比克堡,뷔케부르크	52.26065	9.04939	P	PPL	DE		06	00	03257	03257009	20700		68	Europe/Berlin	2013-12-06
+7261441	Hilmar-Irwin	Hilmar-Irwin		37.40454	-120.85042	P	PPL	US		CA	047			5197	29	35	America/Los_Angeles	2011-05-14
+4008303	El Pueblito	El Pueblito		20.53972	-100.44139	P	PPL	MX		22	006			71254		1817	America/Mexico_City	2013-07-31
+747155	Fatsa	Fatsa	FATSA,Fatisa,Fatsa,Fatseh,Fatza,Phadisana,Phadısana,Polemonium,Side,ФАТСА	41.02778	37.50139	P	PPLA2	TR		52				82160		17	Europe/Istanbul	2012-01-18
+1521315	Lisakovsk	Lisakovsk	Lisakovka,Lisakovsk,Līsakovsk,Лисаковка	52.54707	62.49987	P	PPL	KZ		13				40000		192	Asia/Qyzylorda	2012-07-04
+7306513	Aur	Aur		8.1499	171.16869	P	PPLA	MH		050				438		10	Pacific/Majuro	2013-04-03
+700019	Nyzhn’ohirs’kyy	Nyzhn'ohirs'kyy	Nizhnegorskij,Nizhnegorskiy,Nyzhn'ohirs'kyy,Nyzhn’ohirs’kyy,Seitler,Seytler,Sseitler,Нижнегорский	45.44789	34.73839	P	PPL	UA		11				72534		21	Europe/Simferopol	2012-01-18
+4498075	Wesley Chapel	Wesley Chapel		35.00709	-80.67451	P	PPL	US		NC	179			7463	186	186	America/New_York	2011-05-14
+7626554	Bhawanipur	Bhawanipur		26.45352	87.02744	P	PPL	IN		34				27000		75	Asia/Kolkata	2013-07-22
+2855984	Ottersweier	Ottersweier		48.67022	8.11323	P	PPLA4	DE		01	082	08216	08216041	6441		140	Europe/Berlin	2011-07-31
+3021911	Dainville	Dainville	Dainville	50.28098	2.72603	P	PPL	FR		B4	62	621	62263	5587		67	Europe/Paris	2012-01-18
+1167501	Rādhan	Radhan		27.18333	67.95	P	PPL	PK		05				16786		46	Asia/Karachi	2006-01-17
+1264198	Maksi	Maksi	Maksi,Макси	23.26008	76.1455	P	PPL	IN		35				20094		503	Asia/Kolkata	2012-09-06
+3535143	Topes de Collantes	Topes de Collantes	Topes de Collantes,Topes de Kol'jantes,Топес де Кольянтес	21.91361	-80.02194	P	PPL	CU		14				9729		737	America/Havana	2013-01-10
+2510409	Toledo	Toledo	Gorad Taleda,Toledas,Tolede,Toledo,Toledo i Spania,Toledu,Toletum,Toleu,Tolède,XTJ,tlytlt,to le do,toledo,tolledo,toredo,tuo lai duo,twldw,twlydw,Τολέδο,Горад Таледа,Толедо,Տոլեդո,טולדו,تولدو,توليدو,طليطلة,طلیطلہ,टोलेडो,तोलेदो,โตเลโด,ტოლედო,ቶሌዶ,トレド,托萊多,톨레도	39.8581	-4.02263	P	PPLA	ES		54	TO	45168		82291		533	Europe/Madrid	2011-07-26
+2821878	Tönning	Tonning	Taning,Tening,Tjonning,Tonning,Tuenn,Tönning,Tønning,Tünn,teng ning,twnyng,Тенинг,Тённинг,تونینگ,滕宁	54.31879	8.94234	P	PPL	DE		10				5008		0	Europe/Berlin	2012-07-04
+4189157	Conley	Conley		33.64483	-84.32576	P	PPL	US		GA	063			6228	260	259	America/New_York	2011-05-14
+2646720	Holmes Chapel	Holmes Chapel		53.2014	-2.35742	P	PPL	GB		ENG	Z7	00EQ066		5795		62	Europe/London	2011-03-03
+1804591	Laiwu	Laiwu	Chiu-lai-wu,Lai-wu-hsien,Laiwu,lai wu,lai wu shi,莱芜,莱芜市	36.19278	117.65694	P	PPL	CN		25				124108		182	Asia/Shanghai	2012-01-18
+1699896	Medellin	Medellin	Medelin,Medellin	11.1286	123.9622	P	PPLA3	PH		07	21	1699898		11741		10	Asia/Manila	2011-07-31
+102651	Şabyā	Sabya	Al-Sabya,As Sabya,Aş Şabyā,Sabie,Sabiya,Sabya,sbya,Şabyā,صبيا	17.1495	42.62537	P	PPL	SA		17				54108		36	Asia/Riyadh	2012-01-16
+770706	Jabłonna	Jablonna		52.37885	20.91745	P	PPLA3	PL		78	1408	140802		6552		76	Europe/Warsaw	2010-09-17
+5854189	Wai‘anae	Wai'anae	Wai'anae,Waianae,Wai‘anae	21.4434	-158.18587	P	PPL	US		HI	003			13177	5	9	Pacific/Honolulu	2011-12-11
+2661513	Biel/Bienne	Biel/Bienne	Biel,Biel-Bienne,Biel/Bienne,Bienna,Bienne,Bil',ZDK,Биль	47.13713	7.24608	P	PPL	CH		BE	242	371		48614	434	439	Europe/Zurich	2013-06-22
+3012903	Ifs	Ifs	Ifs	49.14	-0.34899	P	PPL	FR		99	14	142	14341	9617		32	Europe/Paris	2011-01-19
+684802	Bârlad	Barlad	Barlad,Birlad,Bârlad,Bîrlad	46.23333	27.66667	P	PPLA2	RO		38	161794			67818		73	Europe/Bucharest	2012-06-12
+565456	Dolzhanskaya	Dolzhanskaya	Doljansk,Dolshanskaja,Dolzhanka,Dolzhanskaja,Dolzhanskaya,Dolzjanskaja,Stanitsa Dolzhanskaya,Должанская	46.63369	37.80246	P	PPL	RU		38				7194		11	Europe/Moscow	2012-01-17
+1682812	Tarlac City	Tarlac City	Tarlac,Tarlac City	15.48017	120.59794	P	PPL	PH		03	63			183930		44	Asia/Manila	2013-01-10
+2525512	Bovalino Superiore	Bovalino Superiore		38.16905	16.15849	P	PPL	IT		03	RC	080005		8418		199	Europe/Rome	2012-03-09
+2958141	Alsdorf	Alsdorf	Al'sdorf,Alsdorf,a er si duo fu,alsdwrf,arusudorufu,Алсдорф,Альсдорф,آلسدورف,アルスドルフ,阿尔斯多夫	50.87672	6.16399	P	PPL	DE		07	053			46340		167	Europe/Berlin	2012-12-13
+3568342	Arroyo Naranjo	Arroyo Naranjo	Arroyo Naranjo,Ponce	23.03611	-82.37167	P	PPL	CU	CU	02				210053		81	America/Havana	2013-05-05
+3693345	Pucallpa	Pucallpa	Callaria,PCL,Pucallpa,Pucalpa,Pukal'pa,Pulcalla,pu lan er pa,pukaruba,Пукальпа,プカルバ,普兰尔帕	-8.37915	-74.55387	P	PPLA	PE		25	2501	250101		310750		155	America/Lima	2012-07-19
+682685	Carei	Carei	Carei,Careii,Careii Mare,Careii Mari,Gross-Karol,Grosskarol,Groß-Karol,Großkarol,Karej,Nagy Karoly,Nagy Károly,Nagykaroly,Nagykároly,ka lei,karei,krh,Карей,Кареј,קראלי,کره,カレイ,卡雷	47.68333	22.46667	P	PPLA2	RO		32				22583		139	Europe/Bucharest	2012-06-02
+7259776	Fort Polk South	Fort Polk South		31.0511	-93.21578	P	PPL	US		LA	115			9038	88	92	America/Chicago	2011-05-14
+4952731	Templeton	Templeton		42.55564	-72.06758	P	PPL	US		MA	027			6918	347	349	America/New_York	2006-01-17
+473021	Vnukovo	Vnukovo	Vnukovo,Внуково	55.6	37.21667	P	PPLX	RU		48				20592		170	Europe/Moscow	2012-01-17
+548890	Khvoynaya	Khvoynaya	Chwoinaja,Khvojnaja,Khvoynaya,Хвойная	58.9	34.53333	P	PPL	RU		52				6637		164	Europe/Moscow	2012-01-17
+6066513	Markham	Markham	Markam,Markem,Markhamo,Markum,makamu,markam,wan jin shi,Маркам,Маркем,Маркъм,ماركام,مارکھم، انٹاریو,マーカム,萬錦市	43.86682	-79.2663	P	PPL	CA		08				261573		168	America/Toronto	2011-12-30
+6458708	Las Animas	Las Animas		-39.80867	-73.21821	P	PPL	CL		14				30000	10	10	America/Santiago	2007-04-15
+1497543	Nizhnevartovsk	Nizhnevartovsk	Gorad Nizhnjavartausk,NJC,Nijnevartovsk,Nischnewartowsk,Nizhn'ovartovs'k,Nizhne-Vartovskaya,Nizhne-Vartovskoye,Nizhnevartovsk,Nizhnevartovskiy,Nizhnevártovsk,Nizjnevartovsk,Niznevartovsk,Niznevartovska,Niznevartovskas,Nizniewartowsk,Niĵnevartovsk,Niżniewartowsk,Nižnevartovsk,Nižnevartovskas,nijeunebaleutobseukeu,nijinevu~arutofusuku,nyjnfartwfsk,nyzhnwartwfsk,nyzhnywartwwsk,xia wa er tuo fu si ke,Ņižņevartovska,Горад Ніжнявартаўск,Нижневартовск,Нижньовартовськ,Нижњевартовск,Түбән Варта,نيجنفارتوفسك,نیژنوارتوفسک,نیژنیوارتووسک,ニジネヴァルトフスク,下瓦爾托夫斯克,니즈네바르톱스크	60.9344	76.5531	P	PPL	RU		32				244937		50	Asia/Yekaterinburg	2012-01-17
+2857847	Oettingen in Bayern	Oettingen in Bayern	Ehttingen,Etingen in Bauern,Oettingen,Oettingen in Bavariya,Oettingen in Bayern,ao ai ting gen,aytyngn ayn bayrn,Етинген ин Бауерн,Эттинген,ائتینگن این بایرن,エッティンゲン・イン・バイエルン,奥埃廷根	48.95274	10.60465	P	PPL	DE		02	097	09779	09779197	5336		420	Europe/Berlin	2013-02-19
+1513886	Jizzax	Jizzax	Dishsak,Djizak,Dzhizak,Jizak,Jizzakh,Jizzax,jyzk,Джизак,جیزک	40.11583	67.84222	P	PPLA	UZ		15				152642		382	Asia/Samarkand	2012-01-17
+4273359	Independence	Independence	IDP,ayndypndns, kanzas,ایندیپندنس، کانزاس	37.22424	-95.70831	P	PPLA2	US		KS	125			9483	245	247	America/Chicago	2011-05-14
+2877648	Limburg an der Lahn	Limburg an der Lahn	Gorad Limburg-na-Lane,Limburg,Limburg an der Lahn,Limburg na Lani,Limburg-na-Lane,Limburgo del Lahn,Limburgum ad Lahnam,lan he pan lin bao,limbuleukeuandeeolan,lymbwrg an dr lan,Горад Лімбург-на-Лане,Лимбург на Лани,Лимбург-на-Лане,لیمبورگ آن در لان,兰河畔林堡,림부르크안데어란	50.3836	8.0503	P	PPL	DE		05				33820		138	Europe/Berlin	2012-09-06
+1718078	Castillejos	Castillejos	Caslillejos,Castillejos,Kastil'ekhosu,Кастильехосу	14.93039	120.20143	P	PPLA3	PH		03	64	1718080		27301		54	Asia/Manila	2011-07-31
+2520600	Cadiz	Cadiz	CDZ,Cadice,Cadis,Cadix,Cadiz,Cai,Càdice,Cádice,Cádis,Cádiz,Gadeira,Gades,Gadir,Gaðes,Iungadir,Kadis,Kadisas,Kadiz,Kadizo,Kadyks,Kantith,La tacita de plata,jia de si,kadi s,kadiseu,kadisu,kads,kadydh,kadys,qads,qdys,Κάντιθ,Кадиз,Кадис,Кадіс,קדיס,قادس,كاديذ,کادس,کادیس,กาดิซ,კადისი,ካዲዝ,カディス,加的斯,카디스	36.52978	-6.29465	P	PPLA2	ES		51	CA	11012		126766		18	Europe/Madrid	2013-06-09
+2652861	Clevedon	Clevedon	Clevedon,Klijvdun,Клийвдън	51.44057	-2.85745	P	PPL	GB		ENG	J4	00HC013		22413		28	Europe/London	2011-03-03
+2660851	Estavayer-le-Lac	Estavayer-le-Lac	Estavayer,ai si ta wa ye,埃斯塔瓦耶	46.84876	6.8465	P	PPL	CH		FR	1001	2015		5061		453	Europe/Zurich	2013-02-26
+1710441	Itogon	Itogon	Itogon	16.36389	120.67694	P	PPLA3	PH		15	10	1710442		28407		808	Asia/Manila	2011-07-31
+1724956	Binmaley	Binmaley	Binmaley	16.03232	120.26904	P	PPL	PH		01	51			44026		5	Asia/Manila	2013-02-08
+1277590	Bāli	Bali		25.19725	73.29117	P	PPL	IN		24				19259		299	Asia/Kolkata	2012-03-24
+2853297	Plau am See	Plau am See	Plau	53.45821	12.26246	P	PPL	DE		12				5883		74	Europe/Berlin	2013-06-10
+2639912	Preston	Preston	Gorad Prehstan,Preston,Prestonas,Prestun,brstwn,peuleseuteon,prestana,prstwn,pu lei si dun,puresuton,Горад Прэстан,Престон,Престън,פרסטון,برستون,प्रेस्टन,プレストン,普雷斯顿,프레스턴	53.76667	-2.71667	P	PPLA2	GB		ENG	H2	30UK		190687		22	Europe/London	2010-10-16
+1270455	Hamīrpur	Hamirpur	Hamirpur,Hamīrpur	25.95582	80.14882	P	PPL	IN		36				34144		111	Asia/Kolkata	2012-09-06
+3175074	Lastra a Signa	Lastra a Signa	Lastra a Signa	43.76998	11.11271	P	PPLA3	IT		16	FI	048024		17938		37	Europe/Rome	2013-09-10
+1168021	Pindi Bhattiān	Pindi Bhattian	Pindi Battian,Pindi Bhatian,Pindi Bhattian,Pindi Bhattiān	31.89781	73.27302	P	PPL	PK		04				35088		195	Asia/Karachi	2012-01-17
+1254163	Thiruvananthapuram	Thiruvananthapuram	City of Lord Anantha,TRV,Thiruvananthapuram,Tiruvananantapuram,Tiruvanantapuram,Trivandrum,te li fan de lang,tiru'anantapuram,tirubanantapurama,tiruvanantapuram,tiruvanantapurama,tiruvu~anantapuramu,tribanadrama,trivendrama,Тируванантапурам,तिरुअनन्तपुरम्,तिरुवनंतपुरम,त्रिवेन्द्रम,তিরুবনন্তপুরম,ত্রিবানদ্রাম,திருவனந்தபுரம்,തിരുവനന്തപുരം,ティルヴァナンタプラム,特里凡得琅	8.4855	76.94924	P	PPLA	IN		13				784153		18	Asia/Kolkata	2013-02-08
+2647007	Hexham	Hexham	Hagastaldunum,Hexham,Kheksem,Хексем	54.96986	-2.104	P	PPL	GB		ENG	J6	00EM080		10920		61	Europe/London	2011-03-03
+1268116	Kāndra	Kandra	Kandra,Kāndra	22.8517	86.05192	P	PPL	IN		38				6902		182	Asia/Kolkata	2012-11-08
+5600685	Meridian	Meridian	Meridian,Muridiun,meridian,meridiani,mrydyan, aydahw,myrydyan, aydahw,Меридиан,Мъридиън,مریدیان، آیداهو,ميريديان، أيداهو,მერიდიანი,メリディアン	43.61211	-116.39151	P	PPL	US		ID	001			75092	794	796	America/Boise	2011-05-14
+3173082	Montalto di Castro	Montalto di Castro	Montalto di Castro	42.35042	11.60695	P	PPLA3	IT		07	VT	056035		7653		36	Europe/Rome	2012-02-15
+302816	Payallar	Payallar		36.6016	31.85057	P	PPL	TR		07	7732185			5425		35	Europe/Istanbul	2013-11-10
+934072	Rose Belle	Rose Belle	Roz-Bel',Роз-Бель	-20.40028	57.59667	P	PPLA	MU		14				12619		286	Indian/Mauritius	2013-08-24
+2801447	Bornem	Bornem	Bornem,Bornhem	51.09716	4.24364	P	PPL	BE		VLG	VAN	12	12007	19997		6	Europe/Brussels	2011-02-10
+766369	Lesznowola	Lesznowola		52.09095	20.93479	P	PPL	PL		78	1418	141803		5374		116	Europe/Warsaw	2010-11-27
+1273153	Deshnoke	Deshnoke	Deshnok,Deshnoke	27.79836	73.34297	P	PPL	IN		24				16720		275	Asia/Kolkata	2012-09-06
+3208053	Florstadt	Florstadt	Florstadt	50.31667	8.86667	P	PPLA4	DE		05	064	06440	06440007	8905		136	Europe/Berlin	2011-07-31
+3179035	Cerreto Guidi	Cerreto Guidi	Cerreto Guidi	43.76074	10.87611	P	PPLA3	IT		16	FI	048011		9555		96	Europe/Rome	2012-02-15
+1136469	Khōst	Khost	Khost,Khowst,Khōst,Matun,Matūn,khwst,mtwn,Хост,خوست,متون	33.33951	69.92041	P	PPLA	AF		37				96123		1183	Asia/Kabul	2012-01-16
+3004434	Le Crès	Le Cres	Le Cres,Le Crès	43.64807	3.93976	P	PPL	FR		A9	34	343	34090	7621		60	Europe/Paris	2012-01-18
+5401469	Temple City	Temple City		34.10723	-118.05785	P	PPL	US		CA	037			35558	122	126	America/Los_Angeles	2011-05-14
+621277	Stolin	Stolin	Stolin,Столин,Столін	51.89115	26.84597	P	PPL	BY		01				10491		139	Europe/Minsk	2012-01-18
+1252745	Yellandu	Yellandu	Yellandlapad,Yellandlapād,Yellandrapad,Yellandu	17.59064	80.32146	P	PPL	IN		02				43787		213	Asia/Kolkata	2013-02-08
+2520558	Calasparra	Calasparra	Calasparra	38.22997	-1.69986	P	PPLA3	ES		31	MU	30013		10759		355	Europe/Madrid	2012-03-04
+3523397	Mecayapan	Mecayapan	Mecayapan	18.22101	-94.83988	P	PPL	MX		30				5005		352	America/Mexico_City	2012-10-06
+2798470	Farciennes	Farciennes	Farciennes	50.43006	4.54152	P	PPL	BE		WAL	WHT	52	52018	11488		128	Europe/Brussels	2011-08-01
+3468570	Caçador	Cacador	CFC,Cacador,Caçador,Rio Cacador,Rio Caçador	-26.77528	-51.015	P	PPL	BR		26	4203006			63726		916	America/Sao_Paulo	2013-05-16
+2144157	Wellington Point	Wellington Point	Wellington Point	-27.48333	153.25	P	PPL	AU		04	36250			10713		2	Australia/Brisbane	2013-06-25
+3121058	Guadarrama	Guadarrama	Guadarram	40.6727	-4.08949	P	PPLA3	ES		29	M	28068		14800		966	Europe/Madrid	2012-03-04
+231550	Kiboga	Kiboga	Kiboga	0.91611	31.77417	P	PPLA2	UG		C	42			14512		1280	Africa/Kampala	2012-05-06
+655533	Juankoski	Juankoski	Juankoski,Stroemsdal,Strömsdal,Юанкоски	63.06667	28.35	P	PPLA3	FI		14	11	174		5514		98	Europe/Helsinki	2013-10-21
+3182133	Bertinoro	Bertinoro	Bartnora,Bartnòra,Bertinoro,berutinoro,ベルティノーロ	44.14694	12.13889	P	PPLA3	IT		05	FC	040003		9307		170	Europe/Rome	2012-02-15
+2919054	Göppingen	Goppingen	Gepingen,Gjoppingen,Goeppingen,Göppingen,ZES,ge ping gen,gwpyngn,Гепинген,Гёппинген,گوپینگن,格平根	48.70354	9.65209	P	PPL	DE		01	081	08117	08117026	58040		323	Europe/Berlin	2013-10-06
+1269985	Hole Narsipur	Hole Narsipur		12.78693	76.243	P	PPL	IN		19				28285		845	Asia/Kolkata	2013-02-08
+668488	Ruginoasa	Ruginoasa		47.25	26.85	P	PPLA2	RO		23	98774			6220		293	Europe/Bucharest	2012-06-12
+5345624	El Cerrito	El Cerrito		33.84057	-117.52283	P	PPL	US		CA	065			5100	267	264	America/Los_Angeles	2011-05-14
+2831685	Sohland	Sohland		51.04089	14.41897	P	PPL	DE		13	146			7682		316	Europe/Berlin	2012-12-18
+1857519	Matsumoto	Matsumoto	Fukase,Fukashi,MMJ,Macumoto,Matsumoto,Matumoto,Shonai,masseumoto si,masu moa toa,matswmwtw, naganw,matswmwtw, naghanw,song ben,song ben shi,Матсумото,Мацумото,ماتسوموتو، ناغانو,ماتسوموتو، ناگانو,มะสึโมะโตะ,松本,松本市,마쓰모토 시	36.23333	137.96667	P	PPL	JP		26				210667		593	Asia/Tokyo	2012-01-19
+2514042	Maspalomas	Maspalomas	Maspalomas,Маспаломас	27.76056	-15.58602	P	PPL	ES		53	GC	35019		33000		32	Atlantic/Canary	2013-11-20
+1513064	Olmaliq	Olmaliq	Almalyk,Ałmałyk,Olmaliq,Алмалык	40.84472	69.59833	P	PPL	UZ		14				121207		569	Asia/Tashkent	2012-01-17
+6618983	Zagreb - Centar	Zagreb - Centar		45.81313	15.97753	P	PPLX	HR		21	3186885			800000		134	Europe/Zagreb	2012-12-10
+3032064	Bois-d'Arcy	Bois-d'Arcy	Bois-d'Arcy	48.79966	2.02325	P	PPL	FR		A8	78	784	78073	13475		167	Europe/Paris	2012-01-18
+5095826	Boonton	Boonton	Bunton,bwntwn, nywjrsy,Бунтон,بونتون، نیوجرسی	40.9026	-74.4071	P	PPL	US		NJ	027			8347	124	125	America/New_York	2011-05-14
+5308778	Picture Rocks	Picture Rocks		32.34591	-111.24621	P	PPL	US		AZ	019			9563	634	630	America/Phoenix	2011-05-14
+1255667	Soygaon	Soygaon		20.59611	75.61781	P	PPL	IN		16				23320		377	Asia/Kolkata	2013-02-08
+457912	Līgatne	Ligatne	LIGATNE,Ligat,Ligatne,Līgatne,Patmale,ЛИГАТНЕ	57.23429	25.04059	P	PPLA	LV		88				1433		56	Europe/Riga	2013-07-01
+2946228	Borken	Borken	Borken,Buorken,Gorad Borken,bo er ken,brkn, nwrdrayn-wstfaln,Боркен,Горад Боркен,برکن، نوردراین-وستفالن,博尔肯	51.84382	6.85774	P	PPL	DE		07				40876		48	Europe/Berlin	2012-08-04
+5178527	Arnold	Arnold	Arnol'd,Арнольд	40.58007	-79.76672	P	PPL	US		PA	129			5157	241	240	America/New_York	2011-05-14
+2803786	Zschorlau	Zschorlau		50.56667	12.65	P	PPLA4	DE		13	145	14521	14521700	5944		501	Europe/Berlin	2011-04-25
+1267481	Kāti	Kati		17.96137	75.88896	P	PPL	IN		16				12022		515	Asia/Kolkata	2012-11-08
+171830	Bāniyās	Baniyas	Banias,Banijas,Baniyas,Bulunyas,Bulunyās,Bâniâs,Bāniyās,banyas,Банияс,بانياس	35.18188	35.94871	P	PPLA2	SY		14				39066		31	Asia/Damascus	2012-01-17
+3109800	Santa María de Cayón	Santa Maria de Cayon	Santa Maria de Cayon,Santa María de Cayón	43.30849	-3.8368	P	PPLA3	ES		39	S	39074		6710		105	Europe/Madrid	2012-03-04
+832209	Librazhd-Qendër	Librazhd-Qender	Hala,Librazhd Qendre,Librazhd Qëndre,Librazhd-Qender,Librazhd-Qendër	41.19694	20.33556	P	PPLA3	AL		43	13			12691		554	Europe/Tirane	2012-06-01
+4018404	Apaseo el Alto	Apaseo el Alto	Apaseo,Apaseo el Alto,Apaseo-ehl'-Al'to,Апасео-эль-Альто	20.45748	-100.6224	P	PPL	MX		11				25577		1852	America/Mexico_City	2012-08-04
+1855395	Nikkō	Nikko	Nikko,Nikkó,Nikkō,nisko si,nykw,ri guang shi,نيكو,日光市,닛코 시	36.75	139.61667	P	PPL	JP		38				16041		555	Asia/Tokyo	2012-01-19
+3006035	Launaguet	Launaguet	Launaguet	43.67818	1.45603	P	PPL	FR		B3	31	313	31282	5699		137	Europe/Paris	2011-01-09
+261743	Irákleio	Irakleio	Irakleio,Iraklion,Irákleio,Iráklion,Ηράκλειο	38.06667	23.76667	P	PPLA3	GR		ESYE31	445408	9173		47006		187	Europe/Athens	2012-09-18
+2525348	Carloforte	Carloforte	Carloforte	39.145	8.30583	P	PPLA3	IT		14	CI	107004		6444		9	Europe/Rome	2012-02-15
+4134716	Van Buren	Van Buren	Van-B'juren,Ван-Бьюрен	35.43676	-94.34827	P	PPLA2	US		AR	033			22791	126	127	America/Chicago	2011-05-14
+4172086	Sanford	Sanford	Sanford,Senford,sanfwrd, flwryda,sang fu de,snfwrd, flwryda,Санфорд,Сенфорд,سانفورد، فلوريدا,سنفورد، فلوریدا,桑福德	28.80055	-81.27312	P	PPLA2	US		FL	117			53570	9	8	America/New_York	2013-04-14
+1719251	Candon	Candon		17.19472	120.45167	P	PPLA3	PH		01	29	1719252		11236		10	Asia/Manila	2011-07-31
+2128382	Rumoi	Rumoi	Rumoe,Rumoi	43.93444	141.64278	P	PPL	JP		12				26454		35	Asia/Tokyo	2012-01-19
+2634826	Walton-on-the-Naze	Walton-on-the-Naze	Walton-on-the-Naze	51.84819	1.26738	P	PPL	GB		ENG	E4	22UN		6000		5	Europe/London	2012-06-01
+2498183	El Hadjar	El Hadjar	Duzerville,El Hadjar,QEH	36.80377	7.73684	P	PPL	DZ		37				46656		13	Africa/Algiers	2012-01-19
+5335662	Century City	Century City		34.05557	-118.41786	P	PPLX	US		CA	037			5513	76	80	America/Los_Angeles	2012-05-14
+8299577	Warren Township	Warren Township	Warren,Warren Township	40.60822	-74.51803	P	PPL	US		NJ	035			15311		99	America/New_York	2012-05-30
+481941	Tovarkovo	Tovarkovo	TOVARKOVO,Tovarkovo,ТОВАРКОВО	54.67617	35.9386	P	PPL	RU		25				14294		160	Europe/Moscow	2012-01-17
+1267016	Khanna	Khanna	Khanna,Ханна	30.703	76.22106	P	PPL	IN		23				117137		269	Asia/Kolkata	2012-09-06
+3482969	Gustavo A. Madero	Gustavo A. Madero		22.86971	-98.75895	P	PPL	MX		28				1185772		62	America/Monterrey	2012-12-04
+207596	Mweka	Mweka	MEW,Mueka,Mveka,Mweka,Мвека	-4.85187	21.5595	P	PPL	CD		03				50675		591	Africa/Lubumbashi	2012-04-05
+2544001	Ksar el Kebir	Ksar el Kebir	Alcazarquebir,Alcazarquivir,Alcazquivir,El Ksar El Kbir,El Ksar El Kebir,Ksar el Kebir	35.00174	-5.90534	P	PPL	MA		57				108753		17	Africa/Casablanca	2012-01-19
+3987224	San Felipe	San Felipe	SFH,San Felipe	31.02468	-114.83919	P	PPL	MX		02				15386		15	America/Tijuana	2013-06-04
+3557378	Güines	Gueines	Guines,Гуинес	22.83611	-82.02806	P	PPLA2	CU		11				68935		65	America/Havana	2010-07-17
+387958	Salwá	Salwa	Sal'va,Salwa,Salwá,salway,slwy,Сальва,سلوى,سَلْوَى	29.29583	48.07861	P	PPLX	KW		08				40945		15	Asia/Kuwait	2012-10-19
+3385538	Vargem Grande	Vargem Grande		-3.54306	-43.91583	P	PPL	BR		13	2112704			21419		44	America/Fortaleza	2012-08-03
+3461914	Guaramirim	Guaramirim	Bananal	-26.47306	-49.00278	P	PPL	BR		26	4206504			21422		34	America/Sao_Paulo	2012-08-03
+200575	Baringo	Baringo		0.46667	35.96667	P	PPL	KE		10				7656		1090	Africa/Nairobi	2013-09-06
+3022301	Crosne	Crosne	Crosne,Crosnes	48.71922	2.45728	P	PPL	FR		A8	91	912	91191	8592		39	Europe/Paris	2012-01-18
+932521	Maputsoe	Maputsoe	Maputsoe	-28.8866	27.89914	P	PPL	LS		12				32117		1583	Africa/Maseru	2012-04-05
+1272101	Egra	Egra	Egra	21.89947	87.53794	P	PPL	IN		28				32832		9	Asia/Kolkata	2012-11-08
+1852899	Sasebo	Sasebo	Sasebo,Sasebum,Saseho,sasebo si,zuo shi bao shi,Сасебо,佐世保市,사세보 시	33.15917	129.72278	P	PPL	JP		27				237444		1	Asia/Tokyo	2012-01-19
+4178003	Weston	Weston	Uehston,Weston,Уэстон	26.10037	-80.39977	P	PPL	US		FL	011			65333	1	7	America/New_York	2011-05-14
+1703187	Malalag	Malalag	Malalag,Malalag Beach	6.59583	125.39917	P	PPL	PH		11	25			6180		13	Asia/Manila	2012-01-17
+905382	Mufumbwe	Mufumbwe		-13.68333	24.8	P	PPL	ZM		06				6155		1143	Africa/Lusaka	2006-01-17
+5374732	Moreno Valley	Moreno Valley	Moreno Vali,Moreno Valley,Moreno-Valli,mo lei nuo gu,morenobare,mwrnw wly, kalyfrnya,mwrynw faly, ryfyrsydy, kalyfwrnya,mwrynw wyly,Морено Вали,Морено-Валли,مورنو ولی، کالیفرنیا,مورينو فالي، ريفيرسيدي، كاليفورنيا,مورینو ویلی,モレノバレー,莫雷諾谷	33.93752	-117.23059	P	PPL	US		CA	065			193365	497	499	America/Los_Angeles	2011-05-14
+770157	Jędrzejów	Jedrzejow	Yendzheyev	50.63945	20.30454	P	PPLA2	PL		84	2602	260202		16792		242	Europe/Warsaw	2010-10-13
+2863223	Niederkassel	Niederkassel	Niderkassel',Niederkassel,bonn-niederholtdorf,Нидеркассель	50.81503	7.03777	P	PPL	DE		07				36480		59	Europe/Berlin	2012-09-06
+3081818	Witnica	Witnica	Vietz,Vietz Ostbahnhof,Witnica	52.67318	14.89765	P	PPLA3	PL		76	0801	080107		6821		22	Europe/Warsaw	2010-10-16
+1064980	Fenoarivo Atsinanana	Fenoarivo Atsinanana	Fenerive,Fenerive-Atsinanana,Fenerive-Est,Fenoarivo Atsinanana,Fénérive-Atsinanana,Fénérive-Est	-17.38095	49.40826	P	PPLA	MG		7670848				21036		14	Indian/Antananarivo	2013-05-05
+2838918	Schlangenbad	Schlangenbad	Schlangenbad	50.1	8.1	P	PPLA4	DE		05	064	06439	06439014	6265		447	Europe/Berlin	2011-04-25
+2855598	Berlin Pankow	Berlin Pankow	Pankow	52.56926	13.40186	P	PPLX	DE	DE	16	00	11000	11000000	356019		47	Europe/Berlin	2012-09-19
+3460048	Jataizinho	Jataizinho	Colonia Jatahy,Jatahy Parana,Jatahy Paraná,Jatai,Jatal,Jataí	-23.25417	-50.98	P	PPL	BR		18	4112702			10014		355	America/Sao_Paulo	2012-08-03
+2802106	Bertrix	Bertrix	Bertrix	49.85596	5.25539	P	PPL	BE		WAL	WLX	84	84009	8063		438	Europe/Brussels	2012-01-18
+2951346	Beilstein	Beilstein	Bajl'shtajn,Bajlshtajn,Beilstein,bairushutain,Байльштайн,Бајлштајн,بایل‌اشاین,バイルシュタイン	49.0414	9.3137	P	PPL	DE		01	081	08125	08125008	6103		254	Europe/Berlin	2013-02-15
+3521972	Panaba	Panaba	Panaba	21.29526	-88.26963	P	PPL	MX		31				5723		19	America/Merida	2012-08-04
+715338	Szentes	Szentes	Szentes	46.65627	20.27201	P	PPL	HU		06				30495		82	Europe/Budapest	2012-12-19
+4015022	Castaños	Castanos	Castanos,Castaños	26.78932	-101.43211	P	PPL	MX		07				20809		756	America/Monterrey	2013-03-05
+3454407	Pedreira	Pedreira	Pedreiras,Pedrejra,Педрейра	-22.74194	-46.90139	P	PPL	BR		27	3537107			39198		601	America/Sao_Paulo	2012-08-03
+50814	Waajid	Waajid	Uegit,Waajid,Wadjid,Wajid,Wājid	3.80958	43.24628	P	PPL	SO		01				6666		381	Africa/Mogadishu	2012-01-16
+3232859	Hellersdorf	Hellersdorf Bezirk		52.51667	13.56667	P	PPLX	DE		16	00	11000	11000000	74847		53	Europe/Berlin	2012-06-09
+2881062	Langenhagen	Langenhagen	Langenhagen,Langenhogen,Langenkhagen,lang gen ha gen,langnhagn,Лангенхаген,لانگنهاگن,朗根哈根	52.44758	9.73741	P	PPL	DE		06				50439		54	Europe/Berlin	2012-08-04
+1258242	Rehti	Rehti	Rehti,Rheti	22.73728	77.43406	P	PPL	IN		35				10716		308	Asia/Kolkata	2012-11-08
+3167945	Sannazzaro de'Burgondi	Sannazzaro de'Burgondi	Sannazzara de' Burgondi	45.10226	8.90635	P	PPLA3	IT		09	PV	018138		5802		88	Europe/Rome	2012-02-15
+144269	Aleshtar	Aleshtar	Alashtar,Aleshtar,Alishtar,Alishtār,Qal`eh Mozaffari,Qal`eh `Alishtar,Qal‘eh Moz̧affari,Qal‘eh ‘Alishtār,alshtr,الشتر	33.86419	48.26258	P	PPL	IR		23				27701		1614	Asia/Tehran	2012-08-04
+2649169	Fort William	Fort William	An Gearasdan,FWM,Fort Vil'jam,Fort William,Fort William i Skottland,Fort-Uil'jam,Fort-Vil'jam,Форт Вильям,Форт-Вільям,Форт-Уильям,פורט ויליאם,フォート・ウィリアム	56.81648	-5.11208	P	PPL	GB		SCT	V3	2646086		9652		24	Europe/London	2010-04-08
+3894426	Coihaique	Coihaique	Coyhaique,GXQ,Kojajke,Койайке	-45.57524	-72.06619	P	PPLA	CL		02	111	11101		45787		299	America/Santiago	2012-05-03
+2785293	Tremelo	Tremelo	Tremelo,Tremeloo	50.99231	4.70807	P	PPL	BE		VLG	VBR	24	24109	13721		10	Europe/Brussels	2011-02-17
+5332593	Calabasas	Calabasas	Kalabasas,ka la ba sa si,kalabasas, kalyfrnya,kalabasas, lws anjlys, kalyfwrnya,Калабасас,كالاباساس، لوس أنجليس، كاليفورنيا,کالاباساس، کالیفرنیا,卡拉巴萨斯	34.15778	-118.63842	P	PPL	US		CA	037			23058	283	288	America/Los_Angeles	2011-05-14
+3516515	Sotuta	Sotuta		20.5969	-89.00935	P	PPL	MX		31				5291		19	America/Merida	2012-08-04
+501187	Rostokino	Rostokino	Rostckino,Rostokino,Ростокино	55.83333	37.66667	P	PPLX	RU		48				37000		146	Europe/Moscow	2013-04-02
+2137690	Wé	We	Oue,Oué,We,Wé	-20.91687	167.26461	P	PPLA	NC		03	98814			10375		9	Pacific/Noumea	2010-09-13
+4721703	Raymondville	Raymondville		26.48146	-97.78305	P	PPLA2	US		TX	489			11284	9	17	America/Chicago	2011-05-14
+5223672	North Kingstown	North Kingstown		41.5501	-71.46617	P	PPL	US		RI	009			28042	25	6	America/New_York	2006-01-17
+1799491	Neijiang	Neijiang	Nei-chiang,Nei-chiang-hsien,Nei-chiang-shih,Neijiang,Neikiang,Neikianghsien,nei jiang,nei jiang shi,内江,内江市	29.58354	105.06216	P	PPLA3	CN		32				546854		349	Asia/Chongqing	2012-01-18
+3522696	Nogales	Nogales	Nogales	18.83141	-97.15603	P	PPL	MX		30				19903		1276	America/Mexico_City	2013-05-09
+921772	Moroni	Moroni	Moroni,Moronis,YVA,mo luo ni,moloni,moroni,mwrwny,Μορονί,Морони,מורוני,موروني,ሞሮኒ,モロニ,莫洛尼,모로니	-11.70216	43.25506	P	PPLC	KM		02				42872		27	Indian/Comoro	2010-05-28
+431748	Muyinga	Muyinga	Mujinga,Muyinga,Муйинга	-2.8451	30.3414	P	PPLA	BI		18				71076		1757	Africa/Bujumbura	2012-01-19
+6138201	Saint-Félicien	Saint-Felicien		48.65007	-72.44906	P	PPL	CA		10	02			8088		111	America/Montreal	2008-04-11
+300640	Şırnak	Sirnak	Shirnak,Sirnak,Şırnak,Ширнак	37.52278	42.45944	P	PPLA	TR		80				52743		1396	Europe/Istanbul	2012-01-18
+285629	Ḩawallī	Hawalli	Hawali-nogra,Hawalli,Hawaly,hawaliy,hwly,حولي,حَوَلِّي,Ḩawallī	29.33278	48.02861	P	PPLA	KW		08				164212		19	Asia/Kuwait	2013-08-04
+671681	Orşova	Orsova	Orsava,Orsova,Orşova,Oršava	44.72528	22.39611	P	PPLA2	RO		26	110063			12350		74	Europe/Bucharest	2012-06-12
+3058663	Modra	Modra	Modor,Modra,Модра	48.33397	17.30711	P	PPL	SK		02				8536		173	Europe/Bratislava	2012-01-18
+2922102	Geesthacht	Geesthacht	Geesthacht,Gestakht,Stadt Geesthacht,ge si ta te,gyztakht,Гестахт,گیزتاخت,格斯塔特,𐌲𐌴𐍃𐍄𐌷𐌰𐍇𐍄	53.43575	10.3779	P	PPL	DE		10				29487		26	Europe/Berlin	2012-07-04
+2793067	Ledegem	Ledegem	Ledegem,Ledeghem	50.85785	3.12409	P	PPL	BE		VLG	VWV	36	36010	9102		20	Europe/Brussels	2012-01-18
+5497876	White Rock	White Rock		35.82753	-106.20391	P	PPL	US		NM	028			5725	1940	1942	America/Denver	2011-05-14
+2525748	Alessano	Alessano	Alessano	39.88862	18.33103	P	PPLA3	IT		13	LE	075002		6556		136	Europe/Rome	2012-02-15
+2511091	Santa Úrsula	Santa Ursula	Santa Ursula,Santa Úrsula	28.42613	-16.48876	P	PPLA3	ES		53	TF	38039		14013		283	Atlantic/Canary	2012-03-04
+184379	Narok	Narok	Narok	-1.07829	35.86012	P	PPLA	KE		41				36061		1898	Africa/Nairobi	2013-06-27
+1263744	Mangrūl Pīr	Mangrul Pir		20.31186	77.34484	P	PPL	IN		16				29198		445	Asia/Kolkata	2013-02-08
+579571	Baksanenok	Baksanenok	Baksanenok,Kasayevo,Баксаненок	43.68972	43.65472	P	PPL	RU		22				7058		354	Europe/Moscow	2012-01-17
+1256436	Solāpur	Solapur	Sholapur,Sholāpur,Solapur,Solāpur,solapura,sollapura,sorapuru,Солапур,सोलापूर,ಸೊಲ್ಲಾಪುರ,ソーラープル	17.67152	75.91044	P	PPL	IN		16				997281		473	Asia/Kolkata	2012-11-08
+1278054	Bābra	Babra		21.84577	71.30544	P	PPL	IN		09				18993		161	Asia/Kolkata	2013-02-08
+358095	Diyarb Najm	Diyarb Najm	Diarb Negm,Diyarb Najm,Diyarb Nigm,Diyarb Nijm,dyrb njm,ديرب نجم	30.75438	31.44016	P	PPL	EG		14				51841		10	Africa/Cairo	2013-07-06
+3125915	Castellar del Vallès	Castellar del Valles		41.61667	2.08333	P	PPL	ES		56	B	08051		23002		299	Europe/Madrid	2010-04-22
+679119	Domnești	Domnesti	Domnesti,Domnesti Fort,Domnesti-de Sus,Domnestii de Sus,Domneşti,Domneşti Fort,Domneşti-de Sus,Domneştii de Sus	44.39919	25.91618	P	PPLA2	RO	RO	43	102570			5423		91	Europe/Bucharest	2013-04-21
+6086871	Nelson	Nelson	Nel'son,Nelson,neruson,nylswn, kwlwmbya albrytanyt,Нелсон,Нельсон,نيلسون، كولومبيا البريطانية,ネルソン	49.49985	-117.28553	P	PPL	CA		02				9813		541	America/Vancouver	2012-02-20
+2491042	L’Arbaa Naït Irathen	L'Arbaa Nait Irathen	Fort National,L'Arbaa Irathen Nait,L'Arbaa Nait Irathen,Larbaa Nath Iraten,L’Arbaa Irathen Naït,L’Arbaa Naït Irathen	36.63112	4.19864	P	PPL	DZ		14				30609		710	Africa/Algiers	2012-01-19
+4493547	Stokesdale	Stokesdale		36.23708	-79.97948	P	PPL	US		NC	081			5047	291	289	America/New_York	2011-05-14
+3429902	Pontevedra	Pontevedra	Pontevedra	-34.74974	-58.68696	P	PPL	AR		01				33515		23	America/Argentina/Buenos_Aires	2012-02-02
+3130244	Altsasu	Altsasu	Alsasua,Altsasu,Altsasu/Alsasua	42.89999	-2.16516	P	PPL	ES		32	NA	31010		7410		517	Europe/Madrid	2011-01-29
+464708	Zaprudnya	Zaprudnya	Gari,ZAPRUDNJA,Zaprudnja,Zaprudnya,ЗАПРУДНЯ	56.56667	37.43333	P	PPL	RU		47				12517		134	Europe/Moscow	2012-01-17
+521814	Nikolo-Berëzovka	Nikolo-Berezovka	Nikolo-Berezovka,Nikolo-Berezovskoye,Nikolo-Berëzovka,Николо-Березовка	56.12422	54.15573	P	PPL	RU	RU	08				5981		70	Asia/Yekaterinburg	2010-06-08
+6137941	Sainte-Julie	Sainte-Julie		45.58338	-73.33246	P	PPL	CA		10	16			29019		37	America/Montreal	2010-09-23
+3129028	Badalona	Badalona	Badalona,ba da luo na,badalona,badalwna,badarona,Бадалона,بادالونا,ბადალონა,バダロナ,巴达洛纳	41.45004	2.24741	P	PPLA3	ES		56	B	08015		219547		16	Europe/Madrid	2012-03-04
+2271966	Aljubarrota	Aljubarrota		39.56716	-8.92925	P	PPL	PT		13	1001	100111		6146		183	Europe/Lisbon	2011-08-28
+1714481	Domampot	Domampot	Domampot,Domanpot,Dumanpot	16	120.65	P	PPL	PH		01	51			5340		40	Asia/Manila	2012-01-17
+2128295	Sapporo	Sapporo	SPK,Saporas,Saporo,Sapporia,Sapporo,Sapporo-shi,capporo,sabwrw,sap poa roa,sapporoshi,saspolo si,zha huang shi,Сапоро,Саппоро,سابورو,சப்போரோ,ซัปโปะโระ,საპორო,さっぽろし,札幌市,삿포로 시	43.06417	141.34694	P	PPLA	JP		12				1883027		29	Asia/Tokyo	2013-11-27
+4072130	Leeds	Leeds		33.54816	-86.54443	P	PPL	US		AL	073			11773	191	191	America/Chicago	2011-05-14
+5103301	River Edge	River Edge		40.92871	-74.03986	P	PPL	US		NJ	003			11340	17	23	America/New_York	2011-05-14
+2804932	Zeitlarn	Zeitlarn		49.33124	12.39822	P	PPL	DE		02	093	09376	09376147	5849		426	Europe/Berlin	2013-02-19
+2750630	Monster	Monster	Monster,Монстер	52.02583	4.175	P	PPL	NL		11	1783			11580		3	Europe/Amsterdam	2008-12-29
+2232593	Douala	Douala	DLA,Douala,Doula,Duala,Dualao,Dóúala,Gorad Duala,Ntouala,dau'ala,do~uara,du a la,du xa la,dualla,dwala,Ντουάλα,Горад Дуала,Дуала,דואלה,دوالا,दौआला,ดูอาลา,ドゥアラ,杜阿拉,두알라	4.04827	9.70428	P	PPLA	CM		05				1338082		19	Africa/Douala	2011-11-01
+3680434	Ituango	Ituango	Ituango	7.17117	-75.76404	P	PPL	CO		02				10769		1623	America/Bogota	2012-01-19
+1513996	G‘azalkent	G'azalkent	G`azalkent,Gasalkent,Gazalkent,Ghazalkent,G‘azalkent,Газалкент	41.55806	69.77083	P	PPL	UZ		14				24700		702	Asia/Tashkent	2012-05-03
+543018	Koz’modem’yansk	Koz'modem'yansk	Koz'modem'jansk,Koz'modem'yansk,Kozmedemyansk,Kozmodemjansk,Koz’modem’yansk,Козьмодемьянск	56.3419	46.56353	P	PPL	RU		45				22700		109	Europe/Moscow	2012-01-17
+3462022	Guaçuí	Guacui	Siqueira Campos	-20.77556	-41.67944	P	PPL	BR		08	3202306			19786		597	America/Sao_Paulo	2012-08-03
+315808	Elazığ	Elazig	EZS,Elazig,Elaziz,Elaziğ,Elazığ,Eljaz"g,Elâzız,Mezra,Mezreh,Елязъг	38.67431	39.22321	P	PPLA	TR		23				298004		1062	Europe/Istanbul	2013-05-12
+5146491	Barberton	Barberton		41.01283	-81.60512	P	PPL	US		OH	153			26550	297	292	America/New_York	2011-05-14
+1277793	Bahua	Bahua		25.83917	80.62244	P	PPL	IN		36				10243		123	Asia/Kolkata	2012-09-06
+2882028	Lachendorf	Lachendorf	Lachendorf	52.61667	10.25	P	PPLA4	DE		06	00	03351	03351016	5805		47	Europe/Berlin	2011-04-25
+4148207	Bloomingdale	Bloomingdale		27.89364	-82.24037	P	PPL	US		FL	057			22711	16	25	America/New_York	2011-05-14
+1538229	Navoiy Shahri	Navoiy Shahri	Gorod Navoi,Kermine,Navoi,Navoiy Shahri,Nawoiy Shahri	40.09294	65.3712	P	PPLA	UZ		07	1538229			125800		381	Asia/Samarkand	2013-08-16
+5165445	Oberlin	Oberlin	Oberlin,awbrlyn, awhayw,Оберлин,أوبرلين، أوهايو,اوبرلین، اوهایو	41.29394	-82.21738	P	PPL	US		OH	093			8286	248	251	America/New_York	2011-05-14
+6945989	Sainte-Marie	Sainte-Marie		46.43401	-71.01168	P	PPL	CA		10	12			11584		159	America/Montreal	2010-09-23
+3401487	Cruz	Cruz	Vera Cruz	-2.91778	-40.17167	P	PPL	BR		06	2304251			8723		16	America/Fortaleza	2012-08-03
+3026033	Chatou	Chatou	Chatou,Shatu,shato~u,shtw,Шату,شتو,シャトゥー	48.8898	2.15863	P	PPL	FR		A8	78	783	78146	30091		36	Europe/Paris	2012-01-18
+480685	Tuchkovo	Tuchkovo	TUCHKOVO,Tuchkovo,Tutsjkovo,ТУЧКОВО	55.60111	36.46806	P	PPL	RU		47				16826		210	Europe/Moscow	2012-01-17
+153408	Mlangali	Mlangali		-9.78333	34.51667	P	PPL	TZ		30				15168		1739	Africa/Dar_es_Salaam	2013-04-03
+1257936	Rusera	Rusera		25.75355	86.02597	P	PPL	IN		34				28781		52	Asia/Kolkata	2012-09-06
+2037222	Gongzhuling	Gongzhuling	Gunchzhulina,Huai-te,Huai-to-hsien,Huaide,Kung-chu-ling,Kung-chu-ling-chen,Гунчжулина	43.50075	124.81979	P	PPL	CN		05				140909		211	Asia/Harbin	2010-05-17
+2933772	Echzell	Echzell	Echzell	50.38888	8.88605	P	PPLA4	DE		05	064	06440	06440006	5951		131	Europe/Berlin	2013-02-19
+1267680	Karrāpur	Karrapur	Karrapur,Karrāpur	23.94891	78.86584	P	PPL	IN		35				9993		502	Asia/Kolkata	2012-11-08
+3157686	Fetsund	Fetsund		59.92898	11.16247	P	PPLA2	NO		01	0227			6441		118	Europe/Oslo	2010-12-07
+5105455	Totowa	Totowa		40.9051	-74.20987	P	PPL	US		NJ	031			10804	58	58	America/New_York	2011-05-14
+316440	Doğanşehir	Dogansehir	Dogansehir,Doğanşehir,Muhacir,Viransehir,Viranşehir	38.09194	37.87889	P	PPLA2	TR		44				14794		1219	Europe/Istanbul	2012-01-18
+3182390	Barberino di Mugello	Barberino di Mugello	Barberino,Barberino di Mugello	44.00265	11.23712	P	PPLA3	IT		16	FI	048002		9531		266	Europe/Rome	2012-02-15
+3085826	Skarszewy	Skarszewy	Skarsevi,Skarshevi,Skarshevy,Skarszewe,Skarszewy,Skarszewë,Skarševi,si ka er xie wei,Скаршеви,Скаршевы,斯卡爾謝維	54.06911	18.44416	P	PPL	PL		82	2213	221309		6942		112	Europe/Warsaw	2010-09-13
+2636174	Tavistock	Tavistock	Taefingstoc,Tavistok,Tæfingstoc,tafystwk,Тависток,تافيستوك	50.54944	-4.14418	P	PPL	GB		ENG	D4	18UL		11493		85	Europe/London	2011-03-03
+3870294	Talca	Talca	Gorad Tal'ka,TLX,Tal'ka,Talca,Talka,Talkao,ta er ka,taruka,Τάλκα,Горад Талька,Талка,Талька,ტალკა,タルカ,塔爾卡	-35.4264	-71.65542	P	PPLA	CL		11	71	07101		197479		104	America/Santiago	2013-01-11
+734517	Polýgyros	Polygyros	Derigovo,Piliyiros,Pilíyiros,Poliyiros,Polygyros,Políyiros,Polýgyros,Πολύγυρος,Деригово	40.37444	23.43833	P	PPLA2	GR		ESYE12	15	9059		10000		503	Europe/Athens	2012-05-06
+3466993	Caarapó	Caarapo	Caarapo,Caarapó,Porto Primeiro,Porto Priméiro,Rio Primeiro	-22.63417	-54.82222	P	PPL	BR		11	5002407			13863		469	America/Campo_Grande	2012-08-03
+582432	Al’met’yevsk	Al'met'yevsk	Al'met'evsk,Al'met'yevo,Al'met'yevsk,Almetyevsk,Al’met’yevo,Al’met’yevsk,Альметьевск	54.90442	52.3154	P	PPL	RU		73	Al’met’yevskiy Rayon			140437		121	Europe/Moscow	2012-01-17
+2247813	Ndibène Dahra	Ndibene Dahra		15.3338	-15.4766	P	PPL	SN		13				27741		42	Africa/Dakar	2006-01-17
+1272423	Dombivli	Dombivli	Dombivali	19.21667	73.08333	P	PPL	IN		16				1193000		11	Asia/Kolkata	2010-02-19
+1717103	Columbio	Columbio	Columbio	6.69639	124.93722	P	PPLA3	PH		12	71	1717104		5516		52	Asia/Manila	2011-07-31
+2987863	Perros-Guirec	Perros-Guirec	Perro-Girek,Perros,Perros-Girek,Perros-Guirec,Perroz-Gireg,pei er luo ji lei ke,Перро-Гирек,Перро-Гірек,Перрос-Гирек,佩尔罗吉雷克	48.81454	-3.43963	P	PPL	FR		A2	22	223	22168	8062		49	Europe/Paris	2012-11-22
+2911825	Hain-Gründau	Hain-Grundau	Hain-Grundau,Hain-Gründau	50.24284	9.14287	P	PPL	DE		05				14723		149	Europe/Berlin	2012-09-06
+1257298	Sapatgrām	Sapatgram	Sapatgram,Sapatgrām	26.33732	90.1236	P	PPL	IN		03				11714		43	Asia/Kolkata	2012-09-06
+2734106	Sequeira	Sequeira		40.55364	-7.22594	P	PPL	PT		11	0907	090755		28502		853	Europe/Lisbon	2011-08-28
+655312	Juuka	Juuka	Juga,Juka,Juuka,Юка	63.23333	29.25	P	PPLA3	FI		14	12	176		6035		115	Europe/Helsinki	2011-07-31
+1262905	Mohanūr	Mohanur	Mohanur,Mohanūr	11.05896	78.13992	P	PPL	IN		25				12846		122	Asia/Kolkata	2013-02-08
+3674010	Natagaima	Natagaima	Matagaima,Natagaima	3.62057	-75.09415	P	PPL	CO		28				11217		326	America/Bogota	2012-01-19
+5123777	Lake Carmel	Lake Carmel		41.46148	-73.67096	P	PPL	US		NY	079			8282	244	243	America/New_York	2011-05-14
+3168868	Rovello Porro	Rovello Porro	Rovello Porro	45.65507	9.04044	P	PPLA3	IT		09	CO	013202		5512		241	Europe/Rome	2012-02-15
+259289	Kórinthos	Korinthos	Aebura,Corint,Corinth,Corinthe,Corinthus,Corintia,Corinto,Ephyra,Korinf,Korint,Korinth,Korinthe,Korinthos,Korintti,Korynt,Kórinthos,ke lin si,korintosu,qwryntws,Κόρινθος,Коринф,Корінѳъ,קורינתוס,コリントス,科林斯	37.94068	22.95734	P	PPLA2	GR		ESYE25	37	9243		30899		11	Europe/Athens	2012-10-30
+3171986	Orbassano	Orbassano	Orbassan,Orbassano,orubassano,Орбассано,オルバッサーノ	45.00384	7.53992	P	PPLA3	IT		12	TO	001171		21581		271	Europe/Rome	2012-02-15
+1515167	Tosontsengel	Tosontsengel	Shumultain khure,Shumultuin Khure,Shumultuyn-khure,Shumuultayn Huryee,Shumuultayn Hüryee,Shumuultiin Khuree,Shumuultiin Khüree,Shumuultuiin huriye,Shumuultuiin hüriye,Shumuultuin huriye,Shumuultuïn hüriye,TNZ,Toson Tsengel Suma,Toson tsengel sumu,Tosontsengel,Tosyn tsengel somon	48.75667	98.28389	P	PPLA2	MN		09				9526		1717	Asia/Hovd	2013-03-02
+3438738	Emboscada	Emboscada	Emboscada	-25.15	-57.35	P	PPL	PY		08				5911		93	America/Asuncion	2012-01-18
+3429777	Puerto Iguazú	Puerto Iguazu	Eva Peron,Eva Perón,IGR,Iguassu,Iguazu,Iguazú,Puehrto-Iguasu,Puerto Aguirre,Puerto Iguazu,Puerto Iguazú,Puerto Igvasu,Puerto-Iguasu,bwyrtw jwasyw,pueleutoigwasu,pwrtw ywasw,yi gua su gang,Пуерто-Іґуасу,Пуэрто-Игуасу,بويرتو جواسيو,پورتو یواسو,プエルト・イグアス,伊瓜蘇港,푸에르토이과수	-25.59912	-54.57355	P	PPLA4	AR	AR	14	3433487			32038		177	America/Argentina/Cordoba	2010-07-26
+4528203	Wheelersburg	Wheelersburg		38.73035	-82.85545	P	PPL	US		OH	145			6437	169	168	America/New_York	2011-05-14
+685994	Băbăiţa	Babaita	Babaita,Babiata,Băbiăţa,Băbăiţa	44.16667	25.38333	P	PPLA2	RO		35	152038			6276		93	Europe/Bucharest	2012-06-12
+5372242	Mentone	Mentone		34.07001	-117.13448	P	PPL	US		CA	071			8720	503	504	America/Los_Angeles	2011-05-14
+3526499	Jilotzingo	Jilotzingo	Jilotaingo,Jilotzingo,San Marcos Jilotzingo	19.86889	-99.06194	P	PPL	MX		15	036			8523		2328	America/Mexico_City	2013-08-01
+1253610	Vāda	Vada	Vada,Vāda	19.65347	73.14811	P	PPL	IN		16				15474		60	Asia/Kolkata	2013-04-03
+2833475	Sehnde	Sehnde		52.31394	9.9682	P	PPL	DE		06	00			22265		66	Europe/Berlin	2010-11-22
+2145392	Urangan	Urangan	Urangan	-25.3	152.9	P	PPL	AU		04	33220			8007		7	Australia/Brisbane	2012-01-18
+647288	Luumäki	Luumaki	Lumjaki,Luumaeki,Luumäki,Лумяки	60.92618	27.58135	P	PPLA3	FI		13	09	441		5305		105	Europe/Helsinki	2011-07-31
+2784555	Virton	Virton	Vierton,Virton,Wirten,vu~iruton,wei er tong,wyrtn,Виртон,ویرتن,ヴィルトン,维尔通	49.56824	5.53259	P	PPLA3	BE		WAL	WLX	85	85045	11259		226	Europe/Brussels	2013-03-05
+3082473	Wejherowo	Wejherowo	Neustadt,Veiherovas,Vejgerovo,Vejherovo,Vejkherovo,Veykherovo,Weiherowo,Wejherowo,Wejrowo,Wejrowò,vu~eiherovu~o,wei yi hai luo wo,Вейгерово,Вейхерово,ヴェイヘロヴォ,韋伊海羅沃	54.60568	18.23559	P	PPLA2	PL		82	2215	221503		46820		27	Europe/Warsaw	2010-10-21
+1177654	Gujrāt	Gujrat	Gudzharat,Gujrat,Gujrāt,gjrat,Гуджарат,گجرات	32.57284	74.07897	P	PPLA2	PK		04				301506		243	Asia/Karachi	2012-01-17
+617372	Şoldăneşti	Soldanesti	Chernenko,Sholdanesht',Sholdaneshti,Sholdaneshty,Sholdanesht’,Sholdenesht',Sholdenesht’,Soldanesti,Şoldăneşti	47.81528	28.79667	P	PPLA	MD		86				6160		158	Europe/Chisinau	2012-02-28
+569318	Cheremshan	Cheremshan	Cheremshan,Tsjeremsjan,Черемшан	54.66667	51.5	P	PPL	RU		73				5646		139	Europe/Moscow	2012-01-17
+4801895	Cheat Lake	Cheat Lake		39.67202	-79.85339	P	PPL	US		WV	061			7988	304	300	America/New_York	2011-05-14
+7257805	Cheshire Village	Cheshire Village		41.5026	-72.89952	P	PPL	US		CT	009			5786	76	75	America/New_York	2011-05-14
+5774685	Farr West	Farr West		41.29717	-112.02772	P	PPL	US		UT	057			5928	1300	1302	America/Denver	2011-05-14
+5024138	Delano	Delano	Delano,Делано	45.04191	-93.78913	P	PPL	US		MN	171			5464	281	280	America/Chicago	2011-05-14
+4145395	Wilmington Manor	Wilmington Manor		39.68678	-75.58437	P	PPL	US		DE	003			7889	18	21	America/New_York	2011-05-14
+2958494	Alheim	Alheim	Alheim	51.03333	9.66667	P	PPLA4	DE		05	066	06632	06632001	5292		179	Europe/Berlin	2011-07-31
+2624652	Århus	Arhus	Aarhus,Aarhusium,Arhus,Arhuzo,Arosar,Orhusa,Orhūsa,Orkhus,ao hu si,ofusu,Árósar,Århus,Орхус,אורהוס,オーフス,奥胡斯	56.15674	10.21076	P	PPLA2	DK		18	751			237551		10	Europe/Copenhagen	2012-10-23
+3013585	Heillecourt	Heillecourt	Heillecourt	48.65854	6.20711	P	PPL	FR		B2	54	543	54257	6327		228	Europe/Paris	2012-01-18
+5100854	Maplewood	Maplewood		40.73121	-74.27348	P	PPL	US		NJ	013			25008	32	38	America/New_York	2006-01-17
+3105805	Vilaseca	Vilaseca	Vila-seka,Vilaseca,Вила-сека	42.06174	2.25528	P	PPL	ES		56	B	08150		17305		536	Europe/Madrid	2012-01-19
+170887	Ad Darbāsīyah	Ad Darbasiyah	Ad Darbasiyah,Ad Darbāsīyah,Darbasiyah,Darbāsīyah,Derbassiye,Derbisiye,Derbisīye,Dirbassiyeh,aldrbasyt,drbasyt,الدرباسية,درباسية	37.07279	40.65199	P	PPLA3	SY		01				21481		484	Asia/Damascus	2012-01-17
+927246	Mangochi	Mangochi	Fort Johnston,MAI,Mangoche,Mangochi,Mponda,Мангочи	-14.47815	35.26448	P	PPLA2	MW		S	12			40236		484	Africa/Blantyre	2011-04-25
+3182518	Bagnoli	Bagnoli	Ban'oli,Баньоли	40.81322	14.16807	P	PPL	IT		04	NA	063049		24671		3	Europe/Rome	2011-09-11
+2971336	Urrugne	Urrugne	Urrugne,Urruna,Urruña	43.36361	-1.69921	P	PPL	FR		97	64	641	64545	7580		26	Europe/Paris	2012-12-05
+672375	Negreşti	Negresti	Negresti,Negresti Targ,Negresti Tirg,Negreşti,Negreşti Târg,Negreşti Tîrg	46.83333	27.43333	P	PPLA2	RO		38	161856			10043		119	Europe/Bucharest	2012-06-12
+3567669	Bartolomé Masó	Bartolome Maso	Bartolome Maso,Bartolomé Masó	20.16303	-76.94443	P	PPL	CU		09				53024		71	America/Havana	2013-08-06
+1721658	Cabcaben	Cabcaben	Cabcaben	14.454	120.5914	P	PPL	PH		03	07			5949		9	Asia/Manila	2012-01-17
+4900885	Mahomet	Mahomet		40.19531	-88.40422	P	PPL	US		IL	019			7258	223	223	America/Chicago	2011-05-14
+5083023	Barrington	Barrington		43.22286	-71.04701	P	PPL	US		NH	017			8417	116	117	America/New_York	2006-01-17
+467978	Yelets	Yelets	Elec,Jelec,Jelez,Yelets,Елец	52.62366	38.50169	P	PPL	RU		43				115688		166	Europe/Moscow	2012-01-17
+3171180	Perugia	Perugia	PEG,Perosa,Perouse,Perudzha,Perugia,Perusa,Perusia,Pérouse,byrwdja,pei lu jia,peruja,prwg'h,Перуджа,Перуђа,פרוג'ה,بيرودجا,ペルージャ,佩鲁贾	43.1122	12.38878	P	PPLA	IT		18	PG	054039		149125		482	Europe/Rome	2011-12-11
+1846326	Changwon	Changwon	Cangvonas,Ch'angwon,Ch'angwŏn,Changuon,Changwon,Chanvon,Chkhanvon,Ch’angwŏn,Sangwon,Shogen,Shōgen,chang yuan shi,chang-wonsi,changwn,tshanghwwn,z'ngwwn,Čangvonas,Чанвон,Чангуон,Чханвон,צ'נגוון,تشانغوون,چانگون,چانگ‌وون,昌原市,창원시	35.22806	128.68111	P	PPLA	KR		20				550000		27	Asia/Seoul	2012-02-28
+2469341	Maktar	Maktar	Mactaris,Maktar,Makthar	35.85798	9.20072	P	PPL	TN		22				14500		924	Africa/Tunis	2012-01-18
+379062	Al Qadarif	Al Qadarif	Al Qadarif,Al Qaḑārif,Al-Qadarif,El Gedaref,Gedaref,alqdarfy,القضارفي	14.03493	35.38344	P	PPLA	SD		39				363945		608	Africa/Khartoum	2013-08-10
+465726	Zadonsk	Zadonsk	Zadonsk,Задонск	52.3904	38.9261	P	PPL	RU		43				10326		127	Europe/Moscow	2012-01-17
+6534541	Erbusco	Erbusco		45.59868	9.97186	P	PPLA3	IT		09	BS	017069		6840		242	Europe/Rome	2012-02-15
+4711801	Missouri City	Missouri City	Missouri City,Misuri Siti,mi su li cheng,misari sirri,myswry syty, tgzas,Мисури Сити,میسوری سیتی، تگزاس,മിസൗറി സിറ്റി,密蘇里城	29.61857	-95.53772	P	PPL	US		TX	157			67358	24	26	America/Chicago	2011-05-14
+3174254	Maglie	Maglie	Maddhie,Maglie,marie,マリエ	40.11842	18.29893	P	PPLA3	IT		13	LE	075039		15255		83	Europe/Rome	2012-02-15
+1269439	Jalālpur	Jalalpur	Jalalpore,Jalalpur,Jalālpur,Surat	20.94896	72.89828	P	PPL	IN		09				17325		14	Asia/Kolkata	2013-01-10
+3447598	Siderópolis	Sideropolis	Nova Beluno,Novo Bellamo	-28.59778	-49.42444	P	PPL	BR		26	4217600			8536		115	America/Sao_Paulo	2012-08-03
+935227	Saint-Joseph	Saint-Joseph	Saint-Joseph,Sent-Dzhozef,Сент-Джозеф	-21.37838	55.61918	P	PPL	RE		RE	974	9742	97412	33694		42	Indian/Reunion	2012-01-18
+330120	Nejo	Nejo	NEJ,Najo,Nedjo,Neggio,Nego,Nejo,Neju	9.5	35.5	P	PPL	ET		51				20166		1888	Africa/Addis_Ababa	2012-01-19
+3045332	Siófok	Siofok	Balatonkiliti,Balatonujhely,Balatonújhely,Shiofok,Siofok,Siófok,shiofoku,Шиофок,シオーフォク	46.90412	18.058	P	PPL	HU		17				23028		107	Europe/Budapest	2012-01-18
+2931574	Eisenach	Eisenach	Aizenach,Ajzenakh,ESA,Eisenach,Gorad Ajzenakh,Iesenack,Ysenacum,ai sen na he,aijenaheu,aizenaha,ayznakh,Άιζεναχ,Айзенах,Ајзенах,Горад Айзенах,آیزناخ,アイゼナハ,艾森纳赫,아이제나흐	50.9807	10.31522	P	PPL	DE		15				43846		215	Europe/Berlin	2012-09-06
+3460064	Jataí	Jatai	Jatahy	-17.88139	-51.71444	P	PPL	BR		29	5211909			76547		706	America/Sao_Paulo	2012-08-03
+1268761	Junnar	Junnar	Junnar,Shivner	19.20815	73.8752	P	PPL	IN		16				25997		683	Asia/Kolkata	2013-02-08
+3075522	Horažďovice	Horazd'ovice	Horazdowitz,Horaždowitz	49.32069	13.701	P	PPL	CZ	CZ	87				5727		433	Europe/Prague	2006-11-25
+556951	Il’skiy	Il'skiy	Il'skaya,Il'skij,Il'skiy,Ilskij,Il’skaya,Il’skiy,Ильский	44.84222	38.56686	P	PPL	RU		38				22970		71	Europe/Moscow	2012-01-17
+3392629	Pedra Branca	Pedra Branca	Pedra-Branka,Tabuleiro da Peruca,Педра-Бранка	-5.45417	-39.71722	P	PPL	BR		06	2310506			20072		506	America/Fortaleza	2012-08-03
+3339111	Videm pri Ptuju	Videm pri Ptuju	Sankt Veit ueber Pettau,Sankt Veit über Pettau,Sveti Vid pri Ptuju,Treun ueber Pettau,Treun über Pettau,Videm,Videm pri Ptuju	46.36861	15.90639	P	PPLA	SI		N2				451		219	Europe/Ljubljana	2013-08-05
+8299621	Shetland	Shetland	Shetland	60.15456	-1.14899	P	PPLL	GB		SCT	W3			22210		-9999	Europe/London	2012-07-23
+6414184	Fatikchari	Fatikchari	Fatikchari	22.68768	91.78123	P	PPL	BD		84				33200		14	Asia/Dhaka	2012-07-05
+3178229	Como	Como	Com,Come,Como,Còm,Côme,Komo,Novum Comum,QCM,ke mo,komo,Комо,コモ,科莫	45.80998	9.08744	P	PPLA2	IT		09	CO	013075		78680		211	Europe/Rome	2011-02-23
+114593	Shūsh	Shush	Shoosh,Shush,Shūsh,Susa,Suse,Susy,Suza,Suzo,Suzy,Súsy,Sūsa,shwsh,susa,Сузы,شوش,スーサ	32.1942	48.2436	P	PPL	IR		15				52284		71	Asia/Tehran	2012-01-16
+2504616	Beni Mester	Beni Mester	Beni Mester	34.87045	-1.42319	P	PPL	DZ		15				19808		683	Africa/Algiers	2012-01-19
+3515002	Tuxtla Chico	Tuxtla Chico		14.93804	-92.16795	P	PPL	MX		05				7287		318	America/Mexico_City	2012-08-04
+2841879	Sandersdorf	Sandersdorf	Sandersdorf	51.62841	12.26492	P	PPL	DE		14				6580		87	Europe/Berlin	2012-09-06
+5511077	Reno	Reno	RNO,Rehno,Reno,Rino,Rynas,Rīno,lei nuo,lino,rino,rynw,rynw, nwada,rynw, nyfada,Рино,Рэно,רינא,רינו,رينو، نيفادا,رینو,رینو، نوادا,रिनो,リノ,雷諾,리노	39.52963	-119.8138	P	PPLA2	US		NV	031			225221	1373	1380	America/Los_Angeles	2012-02-20
+2966883	Arklow	Arklow	An tInbhear Mor,An tInbhear Mór,Arklou,Arklow,Inver Mooar,arklw,Арклоу,آرکلو,არკლოუ	52.79306	-6.14139	P	PPL	IE		L	31			11761		0	Europe/Dublin	2013-12-08
+3848950	La Rioja	La Rioja	IRJ,La Riocha,La Rioja,La-Riokha,Ла-Риоха	-29.41105	-66.85067	P	PPLA	AR		12				162620		502	America/Argentina/La_Rioja	2012-01-18
+668772	Rodna	Rodna	Rodna,Rodna-Veche	47.41667	24.81667	P	PPLA2	RO		06	34333			6218		525	Europe/Bucharest	2012-06-12
+2409783	Bunumbu	Bunumbu		8.16667	-10.86667	P	PPL	SL		01				7355		183	Africa/Freetown	2006-01-17
+2722742	Bergshamra	Bergshamra		59.38083	18.03427	P	PPL	SE		26	0188			7300		36	Europe/Stockholm	2010-03-28
+2660075	Lachen	Lachen	Lachen,Lachen SZ	47.19152	8.8562	P	PPL	CH		SZ	505	1341		6685		415	Europe/Zurich	2013-04-02
+1258847	Rājkot	Rajkot	Radzhkot,Radzkot,Radzkotas,Radźkot,Radžkotas,Rajkot,Rājkot,rajikotto,Раджкот,ラージコット	22.29161	70.79322	P	PPL	IN		09				1177362		140	Asia/Kolkata	2013-02-08
+2271473	Arrentela	Arrentela	Arrentela,Arrentella,Аррентела	38.61667	-9.1	P	PPL	PT		19	1510	151003		30156		23	Europe/Lisbon	2012-01-17
+2845229	Ronneburg	Ronneburg	Roneburg,Ronneburg,rnnbwrg,Ронебург,Роннебург,رننبورگ	50.8634	12.18666	P	PPL	DE		15				5482		284	Europe/Berlin	2012-09-06
+2638938	Ruskington	Ruskington	Buskington,Ruskington	53.04544	-0.38692	P	PPL	GB		ENG	H7	32UE		5060		14	Europe/London	2010-08-03
+668828	Râşnov	Rasnov	Barcarozsnyo,Barcarozsnyó,R"shnov,Rasnov,Risnov,Rosenau,Ryshnov,Râşnov,Râșnov,Rîşnov,Ръшнов,Рышнов	45.58333	25.45	P	PPLA2	RO		09	40367			15253		641	Europe/Bucharest	2013-12-01
+2930182	Enger	Enger	Angeri,Angėri,Ehnger,Enger,Engeri,Ėngėri,Енгер,Энгер	52.14063	8.55772	P	PPL	DE		07				19852		98	Europe/Berlin	2012-08-04
+4016589	Buenos Aires	Buenos Aires		19.0746	-102.18042	P	PPL	MX		16				10707		481	America/Mexico_City	2012-08-04
+1079048	Ambovombe	Ambovombe		-25.17838	46.08722	P	PPLA	MG		7670911				66818		142	Indian/Antananarivo	2013-05-05
+684924	Bicaz	Bicaz		46.91667	26.06667	P	PPLA2	RO		28	120968			8340		744	Europe/Bucharest	2012-06-12
+1796556	Sanya	Sanya	SYX,Sama,Samah,San'ja,San-ah,San-ya-chen,San-ya-chiang,San-ya-chiang-shih,Sanya,Ya Xian,Ya-hsien,Yai-hsien,Yehsien,san ya,Санья,三亚	18.24306	109.505	P	PPLA2	CN		31				144753		11	Asia/Chongqing	2012-01-18
+1858902	Komatsushimachō	Komatsushimacho	Komatsujima,Komatsushima,Komatsushimacho,Komatsushimachō,Komatusima,xiao song dao ding,小松島町	34	134.58333	P	PPL	JP		39				42598		3	Asia/Tokyo	2013-11-10
+8288548	Lövgärdet	Loevgaerdet		57.81555	12.03861	P	PPL	SE		28	1480	148026	1530	7113		93	Europe/Stockholm	2012-05-15
+1512658	Toshbuloq	Toshbuloq	Tashbulak,Toshbuloq	40.92339	71.57214	P	PPL	UZ		06				28562		412	Asia/Tashkent	2012-01-17
+4977222	Saco	Saco	Sako,sakw,suo ke,swkw, myn,Сако,ساكو,سوکو، مین,索科	43.50092	-70.44283	P	PPL	US		ME	031			18482	20	23	America/New_York	2011-05-14
+1271644	Gangoh	Gangoh	Gangoh	29.78027	77.26425	P	PPL	IN		36				59519		264	Asia/Kolkata	2012-09-06
+1253352	Vattalkundu	Vattalkundu		10.16069	77.75883	P	PPL	IN		25				22638		237	Asia/Kolkata	2012-03-01
+2793857	Kuurne	Kuurne	Cuerne,Kuurne	50.85143	3.2824	P	PPL	BE		VLG	VWV	34	34023	12638		16	Europe/Brussels	2012-01-18
+4383785	Desloge	Desloge		37.87088	-90.52735	P	PPL	US		MO	187			5054	247	246	America/Chicago	2011-05-14
+1276455	Beohāri	Beohari	Beohari,Beohāri	24.02335	81.37812	P	PPL	IN		35				22107		386	Asia/Kolkata	2012-09-06
+2647837	Grove	Grove		51.60954	-1.42187	P	PPL	GB		ENG	K2	38UE		18312		76	Europe/London	2010-10-07
+1172035	Leiah	Leiah	Leiah,Lelah,Lerah	30.96128	70.93904	P	PPLA2	PK		04				78954		151	Asia/Karachi	2012-01-17
+3201253	Dravograd	Dravograd	Dravograd,Obcina Dravograd,Občina Dravograd,Spodnji Dravograd,Unter-Drauburg,torabogurato,トラボグラート	46.58806	15.01917	P	PPLA	SI		25				3381		357	Europe/Ljubljana	2012-02-02
+1445310	Bālāpur	Balapur		17.31018	78.49969	P	PPL	IN		02				8280		543	Asia/Kolkata	2013-02-09
+2972742	Thonon-les-Bains	Thonon-les-Bains	Thonon,Thonon-les-Bains,Tonon,Tonon le Benas,Tonon-le-Bain,Tonon-le-Ben,XTS,tonon=re=ban,twnwn lbn,Τονόν-λε-Μπαιν,Тонон-ле-Бен,تونون لبن,トノン＝レ＝バン	46.36667	6.48333	P	PPLA3	FR		B9	74	744	74281	31684		450	Europe/Paris	2011-11-02
+2075988	Boulder	Boulder		-30.78333	121.48333	P	PPL	AU		08	54280			5178		354	Australia/Perth	2011-06-04
+613226	Lent’ekhi	Lent'ekhi	LENTEKHI,Leksura,Lent'ekhi,Lentekhi,Lent’ekhi,lentʼekhi,ЛЕНТЕХИ,ლენტეხი	42.78556	42.72611	P	PPL	GE		70				10442		826	Asia/Tbilisi	2013-08-05
+2657540	Aldershot	Aldershot	Aldershot,Oldershot,Oldersotas,Olderšotas,aldrshat,ao er de xiao te,oldeosyos,Олдершот,الدرشات,奧爾德肖特,올더숏	51.24827	-0.76389	P	PPL	GB		ENG	F2	24UL		61339		99	Europe/London	2011-03-03
+2644367	Littleborough	Littleborough	Littleborough	53.64413	-2.09581	P	PPL	GB		ENG	L2			13807		150	Europe/London	2013-12-11
+1714674	Dipolog	Dipolog	DPL,Dipolog,Dipolog City	8.5883	123.3409	P	PPL	PH		09	65			93549		9	Asia/Manila	2012-06-05
+3120989	Gernika-Lumo	Gernika-Lumo	Gernika,Gernika-Lumo,Guernica,Guernica y Luno	43.31667	-2.68333	P	PPLA3	ES		59	BI	48046		16244		97	Europe/Madrid	2012-11-12
+3179674	Castelgomberto	Castelgomberto	Castelgomberto	45.58489	11.39569	P	PPLA3	IT		20	VI	024028		5482		145	Europe/Rome	2012-02-15
+214575	Kampene	Kampene		-3.59678	26.66715	P	PPL	CD		10				37034		652	Africa/Lubumbashi	2012-12-05
+4276956	Paola	Paola		38.57224	-94.87913	P	PPLA2	US		KS	121			5602	279	284	America/Chicago	2011-05-14
+2841577	Sankt Johann	Sankt Johann		48.45397	9.34396	P	PPL	DE		01	084	08415	08415093	5181		732	Europe/Berlin	2013-02-16
+2984781	Questembert	Questembert	Kestamber,Kistreberzh,Questembert,qu ai si tang bei er,Кестамбер,屈埃斯唐贝尔	47.66296	-2.4522	P	PPL	FR		A2	56	563	56184	6392		101	Europe/Paris	2012-01-18
+5303705	Marana	Marana	MZJ	32.43674	-111.22538	P	PPL	US		AZ	019			34961	607	603	America/Phoenix	2011-05-14
+1267635	Karwar	Karwar	Karvar,Karwar,Kawar,Kārwār,ka er wa er,kara'oyara,kararaara,karavara,Карвар,करवर,कारवार,কারওয়ার,কারৱার,ಕಾರವಾರ,卡尔瓦尔	14.81361	74.12972	P	PPL	IN		19				64457		9	Asia/Kolkata	2012-03-22
+1268667	Kadod	Kadod	Kadod	21.21716	73.21972	P	PPL	IN		09				16747		42	Asia/Kolkata	2013-01-10
+1262392	Musāfirkhāna	Musafirkhana	Musafirkhana,Musāfirkhāna	26.37561	81.80002	P	PPL	IN		36				8081		107	Asia/Kolkata	2012-10-06
+4623560	Franklin	Franklin	Franklin,furankurin,peulaengkeullin,Франклин,フランクリン,프랭클린	35.92506	-86.86889	P	PPLA2	US		TN	187			62487	196	201	America/Chicago	2011-05-14
+4013723	Ciudad Constitución	Ciudad Constitucion	CUA,Ciudad Constitucion,Ciudad Constitución,Constitucion,Constitución,Villa Constitucion,Villa Constitución	25.03371	-111.65991	P	PPL	MX		03				39915		54	America/Mazatlan	2013-04-05
+1157662	Bang Saphan	Bang Saphan	Amphoe Bang Saphan,Amphu Bangspan,Ban Bang Saphan Yai,Bang Saphan Yai,Bangsabhan	11.21259	99.51167	P	PPL	TH		57				15134		12	Asia/Bangkok	2008-10-01
+886763	Masvingo	Masvingo	Fort Victoria,MVZ,Mashvingo,Masvingo,Nyanda,Машвинго	-20.06373	30.82766	P	PPLA	ZW		08				76290		1091	Africa/Harare	2010-08-03
+2520800	Breña Alta	Brena Alta	Brena Alta,Breña Alta	28.65	-17.78333	P	PPLA3	ES		53	TF	38008		7092		329	Atlantic/Canary	2011-07-31
+5078641	Schuyler	Schuyler		41.44723	-97.05948	P	PPLA2	US		NE	037			6211	412	412	America/Chicago	2011-05-14
+2722362	Bjärred	Bjarred	Bjarred,Bjärred	55.71667	13.01667	P	PPL	SE		27				8663		7	Europe/Stockholm	2012-01-17
+3601403	Sabá	Saba	Saba,Sabá,Sava,Savá	15.46667	-86.25	P	PPL	HN		03				9666		390	America/Tegucigalpa	2012-01-18
+3196792	Laktaši	Laktasi	Banja Laktasi,Banja Laktaši,Laktasi,Laktasi Ilidza,Laktaši,Laktaši Ilidža	44.90857	17.30135	P	PPL	BA		02				6464		124	Europe/Sarajevo	2012-05-06
+1278204	Adirampattinam	Adirampattinam	Adirampatnam,Adirampattinam,Adirāmpatnam,Atirampattinam,Atirāmpattinam,Attirampattinam	10.34059	79.37905	P	PPL	IN		25				27909		12	Asia/Kolkata	2012-02-29
+1015776	Bredasdorp	Bredasdorp	Bredasdorp	-34.53215	20.04031	P	PPLA2	ZA		11	DC3	WC033		14936		84	Africa/Johannesburg	2012-07-12
+2953449	Bad Harzburg	Bad Harzburg	Bad Harzburg,Bad Kharcburg,Bad-Garcburg,Bad-Kharcburge,Hartsburgum,Stadt Bad Harzburg,ba de ha er ci bao,bad haghzbwrgh,bad harzbwrg,Бад Харцбург,Бад-Гарцбург,Бад-Харцбурге,باد هارزبورگ,باد هاغزبورغ,巴德哈尔茨堡	51.88268	10.56157	P	PPL	DE		06				22954		262	Europe/Berlin	2012-08-04
+3728097	Les Cayes	Les Cayes	Aux Cayes,CYA,Cayes,Les Cayes,Ville des Cayes	18.2	-73.75	P	PPLA	HT		12				125799		9	America/Port-au-Prince	2012-01-16
+2412992	Kerewan	Kerewan	Kerevane,Kerewan	13.4898	-16.08879	P	PPLA	GM		07				2751		16	Africa/Banjul	2011-02-02
+747538	Eminönü	Eminoenue	Ehminjonju,Saray,Seraglio,Serai,Эминёню	41.01766	28.97438	P	PPLX	TR	TR	34				55548		3	Europe/Istanbul	2012-10-11
+5334223	Carlsbad	Carlsbad	Carlsbad,Karlsbad,ka er si ba de,kaljeubaedeu,karls bd, kalyfrnya,karlsbad, kalyfwrnya,karusubaddo,Карлсбад,كارلسباد، كاليفورنيا,کارلزبیڈ,کارلس بد، کالیفرنیا,カールスバッド,卡尔斯巴德,칼즈배드	33.15809	-117.35059	P	PPL	US		CA	073			105328	16	18	America/Los_Angeles	2011-05-14
+1227037	Tangalla	Tangalla	Tangalla,Tangalle	6.024	80.7911	P	PPL	LK		34				10497		29	Asia/Colombo	2012-02-23
+3675637	Majagual	Majagual	Majagual,Majagul	8.53886	-74.62038	P	PPL	CO		27				11139		18	America/Bogota	2012-01-19
+3456591	Mucurici	Mucurici	Alto Itauna,Alto Itaunas,Alto Itaúna,Alto Itaúnas	-18.09333	-40.51583	P	PPL	BR		08	3203601			9524		223	America/Sao_Paulo	2012-08-03
+517767	Novoukrainskoye	Novoukrainskoye	Novoukrainskiy,Novoukrainskoe,Novoukrainskoje,Novoukrainskoye,Новоукраинское	45.37833	40.52972	P	PPL	RU		38				5928		72	Europe/Moscow	2012-01-17
+1252578	Gasa	Gasa	Gasa,Gasa Dzong	27.90372	89.72689	P	PPLA	BT		23				548		2761	Asia/Thimphu	2013-08-26
+614580	Gant’iadi	Gant'iadi	Candrypsh,Gant'iadi,Gantiandi,Gant’iadi,Pilenkova,Pilenkovo,Pilyenkovo,Seleniye Pilenkovo,gantiadi,Гантианди,Цандрыпш,განთიადი	43.38111	40.07944	P	PPL	GE		00				10000		6	Asia/Tbilisi	2012-01-17
+265107	Anatolí	Anatoli	Anatoli,Anatolí,Ανατολή	39.63889	20.86528	P	PPL	GR		ESYE21	17	9084		6422		497	Europe/Athens	2012-05-06
+104376	Marāt	Marat	Marah,Marat,Marrat,Marrāt,Marāh,Marāt	25.07007	45.46147	P	PPL	SA		10				8885		708	Asia/Riyadh	2013-08-11
+2036106	Liaozhong	Liaozhong	A-shih-niu-lu,A-ssu-niu,A-ssu-niu-lu,Chiu-liao-chung,Liao-chung,Liao-chung-chen,Liao-chung-hsien,Liaozhong,Lyaochzhun	41.50611	122.72417	P	PPL	CN		19				54691		16	Asia/Shanghai	2012-01-18
+2310547	Aconibe	Aconibe	Aconibe,Akonebe	1.29683	10.93691	P	PPL	GQ		09				11192		683	Africa/Malabo	2013-06-07
+7302855	Naharlagun	Naharlagun		27.10467	93.69518	P	PPL	IN		30				26912		159	Asia/Kolkata	2010-06-18
+585220	Qusar	Qusar	KUSARY,Kusary,Qusar,КУСАРЫ	41.4275	48.4302	P	PPLA	AZ		44				16022		681	Asia/Baku	2013-10-04
+5812505	Summit	Summit		47.16177	-122.35707	P	PPL	US		WA	053			7985	145	141	America/Los_Angeles	2011-05-14
+768905	Kobyłka	Kobylka		52.33953	21.19589	P	PPLA3	PL		78	1434	143401		17659		93	Europe/Warsaw	2011-07-31
+3037521	Annezin	Annezin	Annezin,Annezin-les-Bethune,Annezin-lès-Béthune	50.53192	2.61785	P	PPL	FR		B4	62	622	62035	5672		25	Europe/Paris	2012-01-18
+1040938	Manjacaze	Manjacaze	Cheverine,Manjacaze,Vila de Manjacaze	-24.71167	33.88278	P	PPL	MZ		02				25541		82	Africa/Maputo	2012-01-19
+2523581	Rosolini	Rosolini	Rosolini,Rusalini	36.82424	14.94779	P	PPLA3	IT		15	SR	089016		20152		158	Europe/Rome	2012-02-15
+2506795	Aoulef	Aoulef	Aoulef,Aoulef el Arab	26.96667	1.08333	P	PPL	DZ		34				24812		285	Africa/Algiers	2013-05-18
+956767	Secunda	Secunda	Secunda,Sekunda,ZEC,Секунда	-26.55	29.16667	P	PPLA2	ZA		07	DC30	MP307		20418		1592	Africa/Johannesburg	2012-07-12
+4810884	Keyser	Keyser		39.44093	-78.97392	P	PPLA2	US		WV	057			5439	246	246	America/New_York	2011-05-14
+1710425	Ivisan	Ivisan	Iuisan,Ivisan,Ivison	11.52167	122.69083	P	PPLA3	PH		06	18	1710426		5036		9	Asia/Manila	2011-07-31
+3038230	Alençon	Alencon	Alanson,Alansonas,Alencon,Alenconium,Alenson,Alenzon,Alenzón,Alençon,a lang song,alanswn,alnswn,aranson,xa l xngsng,Алансон,Аленсон,الانسون,النسون,อาล็องซง,アランソン,阿朗松	48.43333	0.08333	P	PPLA2	FR		99	61	611	61001	30786		141	Europe/Paris	2011-11-02
+4026082	Lázaro Cárdenas	Lazaro Cardenas	Ciudad Lazaro Cardenas,Ciudad Lázaro Cárdenas,LZC,Lazaro Cardenas,Lázaro Cárdenas,Melchor Ocampo,Melchor Ocampo del Balsas	17.98085	-102.22172	P	PPL	MX		16				84001		9	America/Mexico_City	2013-03-25
+1862373	Hita	Hita	Hida,Hita,Khity,Хиты	33.3213	130.94098	P	PPL	JP		30				61481		90	Asia/Tokyo	2012-03-04
+2522019	Algarrobo	Algarrobo	Algarrobe,Algarrobo	36.77388	-4.03952	P	PPLA3	ES		51	MA	29005		5073		90	Europe/Madrid	2012-03-04
+1238427	Kuliyapitiya	Kuliyapitiya	Kuliyapitiya	7.4688	80.0401	P	PPL	LK		32				6877		33	Asia/Colombo	2012-01-17
+2319668	Uromi	Uromi		6.7	6.33333	P	PPL	NG		37				108608		381	Africa/Lagos	2013-05-17
+3171484	Parabiago	Parabiago	Parabiago,parabiago,パラビアーゴ	45.55497	8.94564	P	PPLA3	IT		09	MI	015168		23950		180	Europe/Rome	2012-02-15
+4678381	Cameron Park Colonia	Cameron Park Colonia		25.97147	-97.47832	P	PPL	US		TX	061			6963	8	14	America/Chicago	2011-05-14
+1264520	Madurāntakam	Madurantakam	Madurantakam,Madurāntakam	12.51167	79.88485	P	PPL	IN		25				29743		30	Asia/Kolkata	2012-02-24
+1490266	Tal’menka	Tal'menka	Tal'menka,Tal'menskoye,Talmenka,Tal’menka,Tal’menskoye,Тальменка	53.8183	83.5677	P	PPL	RU		04				18900		142	Asia/Omsk	2012-04-26
+3007663	Languidic	Languidic	Langedig,Languidic	47.83266	-3.15821	P	PPL	FR		A2	56	561	56101	7000		67	Europe/Paris	2012-01-18
+328316	Sirre	Sirre	Sere,Seri,Serē,Sire,Sire (2),Siri,Sirie,Siriè,Sirre,Sīrē,Sīrē (2)	8.31667	39.48333	P	PPL	ET		51				10089		1755	Africa/Addis_Ababa	2012-01-19
+1274834	Chāmpāhāti	Champahati		22.40026	88.49209	P	PPL	IN		28				8923		10	Asia/Kolkata	2012-10-06
+3468436	Cachoeira do Sul	Cachoeira do Sul	Cachoeira,Kashuehjra-du-Sul,Кашуэйра-ду-Сул	-30.03917	-52.89389	P	PPL	BR		23	4303004			74694		77	America/Sao_Paulo	2012-08-03
+315617	Emirgazi	Emirgazi	Emirgazi	37.90222	33.83722	P	PPLA2	TR		71				8466		1090	Europe/Istanbul	2012-05-06
+3078286	Bystřice pod Hostýnem	Bystrice pod Hostynem	Bystritz-am-Hostein	49.39924	17.67401	P	PPL	CZ		90				8727		320	Europe/Prague	2006-11-25
+6535319	Sellia Marina	Sellia Marina		38.88599	16.74931	P	PPLA3	IT		03	CZ	079127		5764		7	Europe/Rome	2012-02-15
+706580	Kazanka	Kazanka	Kanzanka,Kazanka,Kazanko,Kazavka,Kazenka,Казанка	47.84625	32.82177	P	PPL	UA		16				8010		92	Europe/Kiev	2012-01-18
+1267995	Kānpur	Kanpur	Cawnpore,KNU,Kanpur,Kanpuras,Kanpwr,Kānpur,Kānpwr,kanapura,kanapura nagara jila,kanpur,kanpuru,Канпур,קאנפור,कानपुर नगर जिला,कानपूर,কানপুর,கான்பூர்,カーンプル	26.4478	80.34627	P	PPL	IN		36				2823249		131	Asia/Kolkata	2013-04-13
+576566	Bezhetsk	Bezhetsk	Bejeck,Bejetk,Bejetsk,Bejețk,Beschezk,Beshezk,Bezeck,Bezetsk,Bezheck,Bezhetsk,Bezjetsk,Beĵeck,Bežeck,Bežetsk,Biezeck,Bieżeck,Gorad Bezhack,bejecheukeu,bejetsuku,bie re ci ke,byjytsk,bzhtsk,Бежетск,Бежецк,Горад Бежацк,بيجيتسك,بژتسک,ベジェツク,別熱茨克,베제츠크	57.78506	36.69651	P	PPL	RU		77				28114		143	Europe/Moscow	2012-01-17
+2472732	Banī Ḩassān	Bani Hassan	Bani Hassan,Banī Ḩassān,Beni Hassan,Beni Hassane	35.5672	10.80869	P	PPL	TN		16				8139		51	Africa/Tunis	2012-01-18
+728851	Nedelino	Nedelino	Nedelino,Nedelio,Nedyelino,Uzendere,Uzun-Dere,Неделино	41.45	25.08333	P	PPL	BG		57	SML18			5017		532	Europe/Sofia	2012-02-28
+1263370	Mātherān	Matheran	Matheran,Mātherān	18.98281	73.2652	P	PPL	IN		16				5287		740	Asia/Kolkata	2013-02-08
+3947322	Arequipa	Arequipa	AQP,Arecipa,Arekipa,Arekipo,Arequipa,Arikipa,Ariqipa,Gorad Arehkipa,a lei ji pa,alekipa,arekipa,arekkippa,arykwyba,xareki pa,Αρεκίπα,Арекипа,Арекіпа,Горад Арэкіпа,ארקיפה,أريكويبا,अरेकिपा,அரேக்கிப்பா,อาเรกีปา,არეკიპა,アレキパ,阿雷基帕,아레키파	-16.39889	-71.535	P	PPLA	PE		04	0401	040101		841130		2355	America/Lima	2012-07-19
+4267354	Abilene	Abilene	Abilene,Abilin,a bi lin,abirin,abyln, kanzas,aebillin,Абилин,Абілін,ابیلن، کانزاس,アビリーン,阿比林,애빌린	38.91722	-97.21391	P	PPLA2	US		KS	041			6844	352	358	America/Chicago	2011-05-14
+3150851	Jessheim	Jessheim	Jesseim	60.14151	11.17515	P	PPLA2	NO		01	0235			12365		212	Europe/Oslo	2010-12-07
+618605	Bălţi	Balti	Balti,Baltsy,Behlc',Bel'cy,Bel'tsy,Belcai,Belci,Beltsi,Bel’tsy,Bielce,Byelcy,Bălţi,Bălți,Municipalite de Balti,Municipalité de Bălţi,blzy,Белци,Бельцы,Бэлць,בלצי	47.76167	27.92889	P	PPLA	MD		60				125000		110	Europe/Chisinau	2013-12-01
+1529630	Aykol	Aykol	A-yin-k'o,A-yin-k’o,Aykol,Ayköl,Aykɵl,Айкөл,ئايكۆل	40.89028	80.14639	P	PPL	CN	CN	13				11260		1061	Asia/Kashgar	2013-05-05
+1695804	Panabo	Panabo	Panabo	7.30806	125.68417	P	PPL	PH		11	I7			84749		4	Asia/Manila	2012-02-01
+5793933	Everett	Everett	Ehverett,Everet,Everett,Evuret,PAE,ai fu li te,awrt, washyngtn,ebaretto,ebeoles,Еверет,Евърет,Эверетт,اورت، واشینگتن,ایورٹ,エバレット,埃弗里特,에버렛	47.97898	-122.20208	P	PPLA2	US		WA	061			103019	25	22	America/Los_Angeles	2011-05-14
+2753706	Hoogezand	Hoogezand		53.16167	6.76111	P	PPL	NL		04	0018			21480		2	Europe/Amsterdam	2009-01-09
+3587426	Ahuachapán	Ahuachapan	Achuachapan,Ahuachapan,Ahuachapán,Ачуачапан	13.92139	-89.845	P	PPLA	SV		01				34102		796	America/El_Salvador	2012-01-14
+2525095	Castellammare del Golfo	Castellammare del Golfo	Casteddammari,Castellammare del Golfo	38.01885	12.88584	P	PPLA3	IT		15	TP	081005		14573		90	Europe/Rome	2012-02-15
+1277666	Bālāchor	Balachor		31.06062	76.30166	P	PPL	IN		23				19166		277	Asia/Kolkata	2012-09-06
+4380211	Caruthersville	Caruthersville		36.19312	-89.65564	P	PPLA2	US		MO	155			6168	84	85	America/Chicago	2011-05-14
+1270059	Hīrākūd	Hirakud	Hirakud,Hīrākūd	21.51667	83.86667	P	PPL	IN		21				27277		155	Asia/Kolkata	2012-01-17
+2343983	Effon Alaiye	Effon Alaiye	Effon Alaiye,Efon-Alaiye	7.65	4.91667	P	PPL	NG		42				279319		481	Africa/Lagos	2013-05-17
+2648290	Gorseinon	Gorseinon		51.66931	-4.04163	P	PPL	GB		WLS	Z1	00NX009		19478		23	Europe/London	2011-03-03
+3182651	Avella	Avella	Avella	40.95891	14.60054	P	PPLA3	IT		04	AV	064007		7677		203	Europe/Rome	2012-09-27
+2661810	Allschwil	Allschwil	Allschwil	47.55074	7.53599	P	PPL	CH		BL	1301	2762		18189		288	Europe/Zurich	2013-02-28
+2190324	Hamilton	Hamilton	Gamil'ton,Gorad Gamil'tan,HLZ,Hameldun,Hameldūn,Hamilton,Hamilton City,Hamilton pa New Zealand,Hamilton på New Zealand,Hamiltonas,Khamilt"n,Khamilton,Kirikiriroa,haemilteon,haimiltana,hamiruton,hamltwn,hamyltwn,han mi er dun,hemiltana,Гамильтон,Гамільтон,Горад Гамільтан,Хамилтон,Хамилтън,هاملتون,هامیلتون,हॅमिल्टन,हैमिल्टन,ჰამილტონი,ハミルトン,汉密尔顿,해밀턴	-37.78333	175.28333	P	PPLA	NZ		G1	016			152641		39	Pacific/Auckland	2011-08-01
+491685	Smolenskaya	Smolenskaya	Smolenskaja,Smolenskaya,Смоленская	44.78636	38.80333	P	PPL	RU		38				8130		37	Europe/Moscow	2013-04-03
+1849561	Tsurusaki	Tsurusaki		33.24	131.68444	P	PPL	JP		30				76968		30	Asia/Tokyo	2012-02-07
+2834594	Schweich	Schweich	Schweich	49.82215	6.75256	P	PPL	DE		08				6533		135	Europe/Berlin	2011-03-23
+167605	Ma‘arratmişrīn	Ma`arratmisrin	Ma`arrat Misrin,Ma`arrat Misriyn,Ma`arratmisrin,Maarat Missrin,Maarrat al Masrin,Maarret Misrine,Maarret el Mesrine,Ma‘arrat Misriyn,Ma‘arrat Mişrīn,Ma‘arratmişrīn,معرت مصرين,معرتمصرين	36.01152	36.67183	P	PPLA3	SY		12				32163		339	Asia/Damascus	2013-09-06
+2771940	Maria Enzersdorf	Maria Enzersdorf	Maria Enzersdorf	48.1	16.28333	P	PPLA3	AT		03	317	31716		8085		223	Europe/Vienna	2011-07-31
+4942821	Lynnfield	Lynnfield		42.53898	-71.04811	P	PPL	US		MA	009			11596	27	31	America/New_York	2011-05-14
+2474583	Zeralda	Zeralda	Zeralda	36.71169	2.84244	P	PPL	DZ		55				17563		30	Africa/Algiers	2012-05-06
+2660549	Gossau	Gossau	Gossau,Gossau SG	47.41694	9.25125	P	PPL	CH		SG	1721	3443		17043		639	Europe/Zurich	2013-04-02
+1185106	Jamālpur	Jamalpur	Jamaipur,Jamalpur,Jamālpur,Singhjani,Singhjāni	24.91965	89.94812	P	PPL	BD		81				167900		23	Asia/Dhaka	2013-02-08
+3408424	Abaetetuba	Abaetetuba	Abaete,Abaetetuba,Abaeté	-1.71806	-48.8825	P	PPL	BR		16	1500107			78050		9	America/Belem	2012-08-03
+1685622	Suay	Suay	Suay	10.0533	122.8423	P	PPL	PH		06	H3			19672		11	Asia/Manila	2012-06-05
+1271130	Gobindpur	Gobindpur	Gobindpur	23.83556	86.51854	P	PPL	IN		38				9507		212	Asia/Kolkata	2012-11-08
+5777544	Logan	Logan	LGU,Lougan,luo gen,lwgan, ywta,rogan,Лоуган,لوگان، یوتا,ローガン,洛根	41.73549	-111.83439	P	PPLA2	US		UT	005			48174	1382	1381	America/Denver	2011-05-14
+706200	Khrystynivka	Khrystynivka	Christinowka,Hristinivka,Khristinivka,Khristinovka,Khrystynivka,Kristinovka,Христинівка	48.82488	29.96806	P	PPL	UA		01				14056		251	Europe/Kiev	2012-01-18
+4019260	Agua Prieta	Agua Prieta	Agua Prieta	31.33071	-109.54876	P	PPL	MX		26				68446		1219	America/Hermosillo	2012-09-06
+1257402	Sangrūr	Sangrur	Sangrur,Sangrūr	30.24608	75.84686	P	PPL	IN		23				88615		237	Asia/Kolkata	2012-09-06
+4019757	Acuitzio del Canje	Acuitzio del Canje	Acuitzio,Acuitzio del Canje	19.49472	-101.33331	P	PPL	MX		16				5918		2088	America/Mexico_City	2012-08-04
+737611	Yenişehir	Yenisehir	YEI,Yenisehir,Yenişehir	40.26444	29.65306	P	PPLA2	TR		16				28656		228	Europe/Istanbul	2013-05-09
+721246	Edelény	Edeleny	Balajt,Edeleny,Edelény,Ladbesenyo,Ládbesenyő	48.3	20.73333	P	PPL	HU		04				11037		131	Europe/Budapest	2012-01-18
+654440	Kangasala	Kangasala	KANGASALA,Kangasala,КАНГАСАЛА	61.46383	24.07602	P	PPLA3	FI		15	06	211		24291		100	Europe/Helsinki	2011-07-31
+2155542	Nerang	Nerang	Nerang	-27.98941	153.33633	P	PPL	AU		04	33430			16256		13	Australia/Brisbane	2013-06-25
+627904	Hrodna	Hrodna	GNA,Gardinas,Gorad Grodna,Goradnia,Grodna,Grodno,Grodņa,Hrodna,furodona,ge luo de nuo,ghrwdnw,grwdna,heulodeuna,hwrdnh,Горад Гродна,Гродна,Гродно,הורדנה,غرودنو,گرودنا,フロドナ,格罗德诺,흐로드나	53.6884	23.8258	P	PPLA	BY		03				317365		139	Europe/Minsk	2013-03-31
+314698	Gelendost	Gelendost	Gelendos,Gelendost	38.12083	31.01528	P	PPLA2	TR		33				7274		951	Europe/Istanbul	2012-02-28
+3018778	Feignies	Feignies		50.29806	3.91534	P	PPL	FR		B4	59	591	59225	7370		149	Europe/Paris	2009-01-18
+3435261	Concordia	Concordia	COC,Concordia,Konkordija,kang ke di ya,kwnkwrdya,Конкордия,Конкордија,کونکوردیا,康科迪亚	-31.39296	-58.02089	P	PPL	AR		08				145210		30	America/Argentina/Cordoba	2012-01-18
+1268308	Kālundri	Kalundri		18.9802	73.12708	P	PPL	IN		16				8101		8	Asia/Kolkata	2013-02-08
+2388720	Boali	Boali	Boali,Bouali	4.80048	18.12747	P	PPL	CF		17				5876		379	Africa/Bangui	2013-06-07
+3037397	Anzin	Anzin	Anzen,Anzin,Onzan,ang zan,Анзен,Онзан,昂赞	50.37201	3.50387	P	PPL	FR		B4	59	596	59014	14443		50	Europe/Paris	2012-01-18
+1884830	Chaiyo	Chaiyo	Amphoe Chaiyo,Chaiyo,Cheiyo	14.67639	100.46861	P	PPL	TH		35				13255		14	Asia/Bangkok	2010-08-10
+3500243	Las Terrenas	Las Terrenas	La Terenas,Las Terenas,Las Terrenas,Las Terreras,Laterriena,Terrenas	19.31102	-69.5428	P	PPL	DO		20				7713		17	America/Santo_Domingo	2012-01-16
+1626649	Solok	Solok	Solok	-0.8006	100.6571	P	PPLA2	ID		24				48372		392	Asia/Jakarta	2013-07-04
+3924872	Presidente Médici	Presidente Medici	Presidente,Presidente Hermes	-11.17528	-61.90139	P	PPL	BR		24	1100254			11922		181	America/Porto_Velho	2012-08-03
+2990580	Neuves-Maisons	Neuves-Maisons	Neuves-Maisons	48.62029	6.10698	P	PPL	FR		B2	54	543	54397	6971		236	Europe/Paris	2012-01-18
+771953	Gołdap	Goldap	Geldape,Geldapė,Goldap,Goldapa,Gołdap,ge wu da pu,Голдап,גולדאפ,戈乌达普	54.30631	22.30362	P	PPL	PL		85	2818	281803		13769		169	Europe/Warsaw	2010-09-18
+2374775	Bissau	Bissau	Bisao,Bisau,Bisau - Bissau,Bisauo,Bisaŭo,Bissao,Bissau,Bissáu,Mpissaou,OXB,Sao Jose de Bissau,São José de Bissáu,bi shao,bis'sa'u,bisau,bsaw,bysayw,Μπισσάου,Бисао,Бисау,ביסאו,بساؤ,بیسائو,বিস্সাউ,ቢሳው,ビサウ,比绍,비사우	11.86357	-15.59767	P	PPLC	GW		11				388028		13	Africa/Bissau	2011-03-30
+2658135	Viganello	Viganello		46.01342	8.96879	P	PPL	CH		TI	2105	5192		6375		301	Europe/Zurich	2013-03-05
+2016308	Solnechnyy	Solnechnyy	Solnechnyj,Solnechnyy,Solnetsjnyj,Солнечный	50.58333	137.03333	P	PPL	RU		30				13993		33	Asia/Vladivostok	2012-01-17
+1863173	Hanyū	Hanyu	Hanyu,Hanyū,Khan'juj,Ханьюй	36.16667	139.53333	P	PPL	JP		34				58686		18	Asia/Tokyo	2012-01-19
+1714784	Dinahican	Dinahican	Binutasan	14.71667	121.71667	P	PPL	PH		40	H2			7062		9	Asia/Manila	2010-08-14
+2261740	Vendas Novas	Vendas Novas	Vendas Novas	38.67706	-8.45792	P	PPL	PT		08	0712	071201		11248		148	Europe/Lisbon	2012-02-01
+2473744	Al Ḩammāmāt	Al Hammamat	Al Hammamat,Al Ḩammāmāt,Hammamet,Khammamet,alhmamat,Хаммамет,الحمامات	36.4	10.61667	P	PPL	TN		19				53733		13	Africa/Tunis	2012-01-18
+1707951	Rancheria Payau	Rancheria Payau	Lakewood,Rancheria Payau	7.8541	123.1598	P	PPL	PH		09	66			6540		336	Asia/Manila	2010-08-14
+2787048	Schilde	Schilde	Schilde,Shil'de,Шильде	51.24107	4.58336	P	PPL	BE		VLG	VAN	11	11039	20373		9	Europe/Brussels	2011-02-11
+3513392	Philipsburg	Philipsburg	Filipsburg,Great Bay,Philipsburg,Филипсбург	18.026	-63.04582	P	PPLC	SX						1400		0	America/Lower_Princes	2011-02-06
+660158	Espoo	Espoo	Ehspoo,Esbo,Espo,Espoo,ai si bo,esupo,Έσποο,Еспо,Еспоо,Эспоо,ესპოო,エスポー,埃斯波	60.2052	24.6522	P	PPLA3	FI		13	01	049		256760		16	Europe/Helsinki	2013-02-13
+3457595	Martinópolis	Martinopolis	Jose Teodoro,Jose Theodoro,José Teodoro,José Theodoro	-22.14583	-51.17083	P	PPL	BR		27	3529203			18488		501	America/Sao_Paulo	2012-08-03
+3897347	Calama	Calama	CJC,Calama,Kalama,ka la ma,karama,Калама,カラマ,卡拉馬	-22.45591	-68.93015	P	PPL	CL		03	22	02201		143084		2260	America/Santiago	2013-01-11
+2835220	Schwarmstedt	Schwarmstedt		52.67794	9.61767	P	PPLA4	DE		06	00	03358	03358020	5159		30	Europe/Berlin	2011-04-25
+6929992	Berkel en Rodenrijs	Berkel en Rodenrijs		51.99313	4.47865	P	PPLS	NL		11	1621			20189		0	Europe/Amsterdam	2009-01-13
+4194121	Fairburn	Fairburn		33.56706	-84.58104	P	PPL	US		GA	121			12950	313	316	America/New_York	2011-05-14
+3016807	Gaillon	Gaillon	Gaillon,Gajon,gai long,Гайон,盖隆	49.16104	1.34016	P	PPL	FR		A7	27	271	27275	6818		17	Europe/Paris	2012-01-18
+1811729	Encheng	Encheng	Ehn'pin,En-p'ing-chen,En-p'ing-hsien,En-p’ing-chen,En-p’ing-hsien,Encheng,Encheng Jiedao,Enping,Yan-ping-hsien,Yanping,Yin Ping,en cheng jie dao,en ping,si cheng,Эньпин,思城,恩城街道,恩平	22.18659	112.30424	P	PPLA3	CN		30				110921		25	Asia/Chongqing	2013-10-05
+3397560	Jardim do Seridó	Jardim do Serido		-6.58444	-36.77444	P	PPL	BR		22	2405702			9520		223	America/Fortaleza	2012-08-03
+1274285	Chhota Udepur	Chhota Udepur	Chhota Udepur,Chota Udaipur	22.30401	74.0158	P	PPL	IN		09				24517		150	Asia/Kolkata	2012-11-08
+3883167	Linares	Linares	Linares,ZLR,li na lei si,Линарес,利納雷斯	-35.84667	-71.59308	P	PPL	CL		11	74	07401		69535		165	America/Santiago	2013-01-11
+1852849	Satte	Satte	Satte,satte,xing shou,さって,サッテ,幸手	36.07254	139.72615	P	PPL	JP		34				55286		9	Asia/Tokyo	2013-07-06
+2833080	Senden	Senden		48.32441	10.04442	P	PPL	DE		02	097	09775	09775152	22275		487	Europe/Berlin	2013-02-19
+2980488	Sainte-Luce-sur-Loire	Sainte-Luce-sur-Loire	Sainte-Luce,Sainte-Luce-sur-Loire,Santez-Lusenn,Sent-Ljus-sjur-Luar,lu wa er he pan sheng lu ke,Сент-Люс-сюр-Луар,卢瓦尔河畔圣吕克	47.25381	-1.4843	P	PPL	FR		B5	44	442	44172	13056		19	Europe/Paris	2012-01-18
+2637087	Stanford-le-Hope	Stanford-le-Hope	Stanford	51.52274	0.43422	P	PPL	GB		ENG	E4			6630		13	Europe/London	2012-04-12
+494249	Shirochanka	Shirochanka	Shirochanka,Shirochanskoye,Sjirotsjanka,Широчанка	46.64968	38.39782	P	PPL	RU		38				5853		8	Europe/Moscow	2012-01-17
+281146	Bayt Ḩānūn	Bayt Hanun	Bayt Hanun,Bayt Ḩanūn,Bayt Ḩānūn,Beit Hanoon,Beit Hanoum,Beit Hanoun,Beit Hanun,byt hanwn,byt hnwn,بيت حانون,بيت حنون	31.5353	34.53579	P	PPL	PS		GZ				37392		55	Asia/Gaza	2012-01-18
+5013924	Walker	Walker		43.00141	-85.76809	P	PPL	US		MI	081			23537	228	228	America/Detroit	2011-05-14
+2992367	Montivilliers	Montivilliers	Brutus-Villiers,Montivil'e,Montivilliers,Монтівільє	49.54518	0.18769	P	PPL	FR		A7	76	762	76447	16706		14	Europe/Paris	2012-01-18
+5456049	Aztec	Aztec		36.82223	-107.99285	P	PPLA2	US		NM	045			6763	1721	1727	America/Denver	2011-05-14
+3471927	Apiaí	Apiai	Apiahy	-24.50944	-48.8425	P	PPL	BR		27	3502705			18259		925	America/Sao_Paulo	2012-08-03
+1784658	Zhengzhou	Zhengzhou	CGO,Cencou,Ceng-cou,Cengcou,Cheng,Cheng-chou,Cheng-chou-shih,Cheng-hsien,Chengchow,Chzhehnchzhou,Chzhenchzhou,Cjencjou,Csengcsou,Czengczou,Dzendzou,Dzengdzou,Dzhundzhou,Džendžou,Džengdžou,Genggouo,Trinh Chau,Trịnh Châu,Zengzou,Zhengtsjou,Zhengzhou,Zhengzhou Shi,ceing cow,jeongjeou si,jhengajho'u,tshnghtshw,zengazu,zheng zhou,zheng zhou shi,zhngzhw,zhyng zhw,Çengçou,Çjençjou,Čeng-čou,Ĝengĝoŭo,Žengžou,Џенгџоу,Джънджоу,Чженчжоу,Чжэнчжоу,Чжэнчжоў,تشنغتشو,جېڭجۇ شەھىرى,ژنگژو,ژینگ ژو,झेंगझोऊ,ਜ਼ੇਂਗਜ਼ੂ,เจิ้งโจว,ကျင့်ကျိုးမြို့,郑州,郑州市,鄭州市,정저우 시	34.75778	113.64861	P	PPLA	CN		09				2014125		104	Asia/Shanghai	2012-01-18
+3163854	Zogno	Zogno	Zogno	45.79188	9.65615	P	PPLA3	IT		09	BG	016246		9015		298	Europe/Rome	2012-02-15
+3174416	Luzzara	Luzzara	Luzzara	44.95757	10.69039	P	PPLA3	IT		05	RE	035026		8517		22	Europe/Rome	2012-02-15
+1220936	Novobod	Novobod	Navabad,Novabad,Novobod,Nusratobod,Nusstatobad,Shul'mak,Shul’mak	39.01084	70.15082	P	PPL	TJ		00				5352		1276	Asia/Dushanbe	2012-01-17
+2510602	Tarazona de la Mancha	Tarazona de la Mancha	Tarazona,Tarazona de la Mancha	39.25	-1.91667	P	PPLA3	ES		54	AB	02073		6514		722	Europe/Madrid	2012-03-04
+727791	Rakovski	Rakovski	General Niklaevo,General Nikolaevo,General Nikolaewo,Kalich,Kaliclii,Kaličh,Kaličlii,Kaluchlii,Kaluchliy,Kalŭchlii,Kalŭchliy,Rakovski,Раковски	42.3	24.96667	P	PPL	BG		51	PDV25			15782		193	Europe/Sofia	2012-01-18
+561515	Giaginskaya	Giaginskaya	Ghiaghinskayai,Giaginskaja,Giaginskaya,Гиагинская	44.86208	40.07195	P	PPLA2	RU		01				15169		129	Europe/Moscow	2013-05-07
+2953520	Bad Dürrheim	Bad Durrheim	Bad Dirkhajm,Bad Durrheim,Bad Dürrheim,Bad-Djurkhajm,Durrheim,Dürrheim,ba de di lai mu,bad dwrhaym,Бад Дирхајм,Бад-Дюрхайм,باد دورهایم,巴德迪赖姆	48.02093	8.53056	P	PPL	DE		01	083	08326	08326003	12829		700	Europe/Berlin	2013-02-15
+1606983	Rong Kwang	Rong Kwang	Amphoe Rong Kwang,Ban Raung Gwang,Ban Rong Kiem,Ban Rong Kwang,Bān Raung Gwang,King Amphoe Rong Kwang,Raung Kwang,Rohngkwang,Rong Kwang,Rōhngkwāng,rxngkwang,ร้องกวาง	18.33903	100.31736	P	PPLA2	TH		07				12087		212	Asia/Bangkok	2012-01-16
+3433658	Gualeguaychú	Gualeguaychu	GHU,Gualeguaicu,Gualeguaiču,Gualeguajchu,Gualeguaychu,Gualeguaychú,gua lai gua yi qiu,gwalgwaychw,Гуалегуайчу,گوالگوایچو,瓜萊瓜伊丘	-33.00938	-58.51722	P	PPL	AR		08				78676		14	America/Argentina/Cordoba	2013-05-08
+4272782	Hays	Hays	HYS,heiseu,heizu,hesa,hyz, kanzas,هیز، کانزاس,हेस,ヘイズ,헤이스	38.87918	-99.32677	P	PPLA2	US		KS	051			20510	616	624	America/Chicago	2011-05-14
+3573989	Paradise	Paradise		10.65298	-61.36298	P	PPL	TT		TUP				15067		77	America/Port_of_Spain	2013-06-23
+5097598	Elizabeth	Elizabeth	Ehlizabeht,Ehlizabet,Elizabet,Elizabeth,alyzabt, nywjrsy,alyzabyth, nyw jyrsy,ellijabeseu,erizabesu,yi li sha bai,Елизабет,Элизабет,Элизабэт,אליזבת,إليزابيث، نيو جيرسي,الیزابت، نیوجرسی,エリザベス,伊麗莎白,엘리자베스	40.66399	-74.2107	P	PPLA2	US		NJ	039			124969	6	7	America/New_York	2011-05-14
+3406961	Augusto Corrêa	Augusto Correa		-1.02167	-46.635	P	PPL	BR		16	1500909			16279		7	America/Belem	2012-08-03
+2347954	Bama	Bama	Bama	11.5221	13.68558	P	PPL	NG		27				118121		331	Africa/Lagos	2012-02-02
+4709272	Marshall	Marshall	ASL,Marshal,Marshall,ma xie er,marshal, tgzas,marshal, tksas,masharu,masyeol,Маршал,Маршалл,مارشال، تكساس,مارشال، تگزاس,マーシャル,马歇尔,마셜	32.54487	-94.36742	P	PPLA2	US		TX	203			23523	126	129	America/Chicago	2011-05-14
+5173572	Sylvania	Sylvania		41.71894	-83.71299	P	PPL	US		OH	095			18965	202	207	America/New_York	2011-05-14
+676371	Hălăuceşti	Halaucesti	Halaucesti,Hălăuceşti	47.1	26.8	P	PPLA2	RO		23	97438			5819		256	Europe/Bucharest	2012-06-12
+2990187	Noisy-le-Sec	Noisy-le-Sec	Noisy,Noisy-le-Sec,Nuazi-le-Sek,Shumnaja-le-Sek,nowaji=ru=sekku,nuo wa xi lei sai ke,nwazy lw sk,Нуази-ле-Сек,Нуазі-ле-Сек,Шумная-ле-Сек,نوآزی لو سک,ノワジー＝ル＝セック,诺瓦西勒塞克	48.89148	2.46451	P	PPL	FR		A8	93	931	93053	38955		64	Europe/Paris	2012-01-18
+1125444	Shibirghān	Shibirghan	Markaz-e Wilayat-e Shibirghan,Markaz-e Wilāyat-e Shibirghan,Seberghan,Sebeṟghān,Shahr-e Sheberghan,Shahr-e Sheberghān,Shayurgan,Shebergan,Sheberghan,Sheberghān,Sheberkhan,Shefrogan,Shibarghan,Shibarghān,Shibergan,Shibirghan,Shibirghān,mrkz wlayt shbrghan,shbrghan,shbrghn,Шеберган,شبرغان,شبرغن,مرکز ولايت شبرغان	36.66757	65.7529	P	PPLA	AF		31				55641		360	Asia/Kabul	2013-06-04
+1257830	Sagauli	Sagauli	Saganli,Sagauli,Saghauli,Sagowlee,Segowlee,Segowlie,Sugauli	26.77137	84.74197	P	PPL	IN		34				34622		76	Asia/Kolkata	2012-09-06
+709740	Domanivka	Domanivka	Domanevka,Domanivka,Доманівка	47.63192	30.98852	P	PPL	UA		16				6517		71	Europe/Kiev	2012-01-18
+1265239	Lakhipur	Lakhipur		26.03001	90.30611	P	PPL	IN		03				14045		37	Asia/Kolkata	2012-09-06
+934149	Poste de Flacq	Poste de Flacq	Post of Flacq,Poste de Flacq	-20.16306	57.73056	P	PPL	MU		13				7133		22	Indian/Mauritius	2012-01-18
+2929649	Ergoldsbach	Ergoldsbach	Erblsbach,Ergoldsbach	48.69263	12.20442	P	PPL	DE		02	092	09274	09274127	7482		420	Europe/Berlin	2013-02-19
+3034369	Beauchamp	Beauchamp	Beauchamp	49.01667	2.2	P	PPL	FR		A8	95	953	95051	9532		69	Europe/Paris	2012-01-18
+1805408	Jinsha	Jinsha	Chin-sha,Chin-sha-chen,Czin'sha,Jinsha,Jinsha Zhen,Kinsha,Nan-t'ung,Nan-t'ung-hsien,Nan-t’ung,Nan-t’ung-hsien,Nantong,Tongzhou,Tongzhou Shi,jin sha,jin sha zhen,tong zhou,tong zhou shi,Цзиньша,通州,通州市,金沙,金沙镇	32.08982	121.07355	P	PPLA3	CN		04				95647		6	Asia/Shanghai	2012-01-18
+3124765	Colmenar Viejo	Colmenar Viejo	Kol'menar-V'ekho,ke er mei na er wei ye huo,Кольменар-В'єхо,Кольменар-Вьехо,קולמנאר וייחו,科尔梅纳尔维耶霍	40.65909	-3.76762	P	PPLA3	ES		29	M	28045		43700		889	Europe/Madrid	2012-03-04
+6138610	Saint-Laurent	Saint-Laurent	Saint-Laurent,Sen-Loran,St Laurent,Ville Saint-Laurent,Ville St Laurent,Сен-Лоран	45.50008	-73.66585	P	PPLX	CA		10				77391		41	America/Montreal	2010-03-11
+5107505	Auburn	Auburn	Obern,Oburn,abrn,abwrn, nywywrk,ao ben,awbwrn, nywywrk,obeon,Оберн,Обърн,آبرن,آبورن، نیویورک,أوبورن، نيويورك,奧本,오번	42.93173	-76.56605	P	PPLA2	US		NY	011			27687	209	213	America/New_York	2011-05-14
+714914	Téglás	Teglas	Teglas,Téglás	47.71667	21.68333	P	PPL	HU		10				6285		135	Europe/Budapest	2012-01-18
+350550	Qinā	Qina	Caene,Kena,Keneh,Qana,Qanā,Qena,Qina,Qinā,astan qna,qna,استان قنا,قنا	26.16418	32.72671	P	PPLA	EG		23				235362		80	Africa/Cairo	2012-01-19
+153709	Mwandiga	Mwandiga	Mandyga,Miwandica,Mwandiga	-4.83	29.65806	P	PPL	TZ		05				16822		871	Africa/Dar_es_Salaam	2012-01-17
+2340404	Goniri	Goniri		11.48333	12.31444	P	PPL	NG		27				11673		407	Africa/Lagos	2006-01-17
+4512203	Franklin	Franklin	Franklin,Франклин	39.55895	-84.30411	P	PPL	US		OH	165			11771	207	208	America/New_York	2011-05-14
+3406948	Autazes	Autazes	Ambrosio Aires,Ambrósio Aires,Sao Longuilho	-3.57972	-59.13056	P	PPL	BR		04	1300300			9614		23	America/Manaus	2012-08-03
+2522333	Águilas	Aguilas	Agilas,Agudas,Aguilas,a ji la si,aghylas,agillaseu,agirasu,Águilas,Агилас,Агілас,أغيلاس,アギラス,阿吉拉斯,아길라스	37.4063	-1.58289	P	PPLA3	ES		31	MU	30003		34533		23	Europe/Madrid	2012-03-04
+2145532	Ulverstone	Ulverstone	Ulverston,Ulverstone,Улверстон	-41.16026	146.18242	P	PPL	AU		06				9604		18	Australia/Hobart	2012-02-28
+4005775	Gómez Palacio	Gomez Palacio	Gomez Palacio,Gómez Palacio	25.56473	-103.4958	P	PPL	MX		10				228577		1135	America/Monterrey	2012-09-06
+2658524	Spreitenbach	Spreitenbach	Spreitenbach	47.42016	8.36301	P	PPL	CH		AG	1902	4040		10562		418	Europe/Zurich	2013-04-02
+684280	Boldeşti-Scăeni	Boldesti-Scaeni	Boldesti-Scaeni,Boldeşti-Scăeni	45.03333	26.03333	P	PPLA2	RO		30	131069			11460		211	Europe/Bucharest	2012-06-12
+496610	Sergokala	Sergokala	Sergokala,Sergokalkh,Сергокала	42.45468	47.6612	P	PPL	RU		17				8165		530	Europe/Moscow	2012-01-17
+3172472	Mugnano di Napoli	Mugnano di Napoli	Mugnano 'e Napule,Mugnano di Napoli,ムニャーノ・ディ・ナーポリ	40.91131	14.20513	P	PPLA3	IT		04	NA	063048		30069		121	Europe/Rome	2012-02-15
+2781023	Deutschlandsberg	Deutschlandsberg	Deutschlandberg,Deutschlandsberg,Dojchlandsberg,Lonc,Lonč,de yi zhi lan ci bei ge,doichillancheubeleukeu,doichurantsuberuku,Дойчландсберг,Дојчландсберг,ドイチュランツベルク,德意志兰茨贝格,도이칠란츠베르크	46.81528	15.22222	P	PPLA3	AT		06	603	60302		8049		362	Europe/Vienna	2011-07-31
+600438	Biržai	Birzai	Birsche,Birsen,Birzai,Birze,Birzhaj,Birzhay,Birzhi,Birzi,Birzu,Birże,Biržai,Birži,Biržų,Mpirzai,Myasto Birzhay,birujai,Μπιρζάι,Биржай,ビルジャイ	56.2	24.75	P	PPL	LT		60	864499			14911		53	Europe/Vilnius	2013-01-11
+3149312	Kristiansund	Kristiansund	KSU,Kristiansund,Kristiansund Nord,Kristiansund kommun,Kristiansunn,Кристиансунн	63.11045	7.72795	P	PPLA2	NO		08	1505			16785		1	Europe/Oslo	2012-12-18
+2405729	Masingbi	Masingbi		8.78333	-11.95	P	PPL	SL		02				5644		102	Africa/Freetown	2006-01-17
+2659099	Rapperswil	Rapperswil	Raperswil,Rappersvil',Rapperswil,Rapperswil SG,la po si wei er,ryprswl,Рапперсвиль,ریپرسول,拉珀斯维尔	47.22557	8.82228	P	PPL	CH		SG	1726	3340		34776		408	Europe/Zurich	2013-04-02
+425378	Bujumbura	Bujumbura	BJM,Budzumbura,Bujumbura,Bujumburo,Buj·umbura,Buzhumbura,Buzumbura,Buĵumburo,Bużumbura,Bužumbūra,Mpouzoumpoura,Usumbura,bu qiong bu la,bujumbula,bujunbura,bwg'wmbwrh,bwjwmbra,bwjwmbwra,Μπουζουμπούρα,Бужумбура,Буџумбура,Բուժումբուրա,בוג'ומבורה,بوجومبرا,بوجومبورا,ቡጁምቡራ,ブジュンブラ,布琼布拉,부줌부라	-3.3822	29.3644	P	PPLC	BI		24				331700		805	Africa/Bujumbura	2012-01-19
+3110589	Sangüesa	Sanguesa	Sangossa,Sangueesa,Sanguehsa,Sanguesa,Sangòssa,Sangüesa,Zangotza,Zangoza,sang ge sa,sanguesa,Сангуеса,Сангуэса,サングエサ,桑格萨	42.57483	-1.28283	P	PPL	ES		32	NA	31135		5030		405	Europe/Madrid	2008-07-15
+1699572	Minglanilla	Minglanilla	Minglanilla	10.24498	123.7964	P	PPLA3	PH		07	21	1699573		62058	0	16	Asia/Manila	2011-07-31
+1695583	Pandacaqui	Pandacaqui	Pandacaqui,Pandakaki	15.1719	120.65457	P	PPL	PH		03	50			28603		51	Asia/Manila	2013-01-10
+1815184	Chengyang	Chengyang	Chengyang,Chu,Chu-hsien,Chuchow,Chü,Chü-hsien,Chüchow,Juxian	35.57944	118.83278	P	PPL	CN		25				66588		112	Asia/Shanghai	2012-01-18
+3814568	La Breita	La Breita	La Brea,La Breita	-4.26054	-80.88807	P	PPL	PE		20	2006	200605		17693		230	America/Lima	2012-12-06
+5024996	East Grand Forks	East Grand Forks		47.92998	-97.02452	P	PPL	US		MN	119			8601	253	254	America/Chicago	2011-05-14
+1261853	Narasannapeta	Narasannapeta	Narasannapeta,Narsannapet	18.41428	84.04463	P	PPL	IN		02				24267		31	Asia/Kolkata	2013-02-08
+5722088	Damascus	Damascus		45.41762	-122.45898	P	PPL	US		OR	005			10539	162	162	America/Los_Angeles	2011-05-14
+3166822	Sedriano	Sedriano	Sedriano,sedoriano,セドリアーノ	45.49147	8.96874	P	PPLA3	IT		09	MI	015204		10197		147	Europe/Rome	2012-02-15
+681017	Comăneşti	Comanesti	Comanesti,Comăneşti	46.42135	26.43645	P	PPLA2	RO		04	20821			23729		385	Europe/Bucharest	2012-06-12
+2759879	Almere Stad	Almere Stad	Almere	52.37025	5.21413	P	PPL	NL		16	0034			176432		-3	Europe/Amsterdam	2012-05-18
+4579662	Georgetown	Georgetown	GGE,jrjtawn, karwlynay jnwby,qiao zhi dui,جرجتاون، کارولینای جنوبی,乔治敦	33.37683	-79.2945	P	PPLA2	US		SC	043			9163	4	4	America/New_York	2011-05-14
+3534749	Urbano Noris	Urbano Noris	San German,San Germán,Urbano Noris	20.60101	-76.13188	P	PPL	CU		12				43892		101	America/Havana	2013-08-06
+4156370	Fussels Corner	Fussels Corner		28.05419	-81.86064	P	PPL	US		FL	105			5561	35	37	America/New_York	2011-05-14
+3027763	Cestas	Cestas	Cestas,Sesta,Сеста	44.74345	-0.67905	P	PPL	FR		97	33	332	33122	18036		54	Europe/Paris	2012-01-18
+934013	Sebastopol	Sebastopol		-20.28889	57.6875	P	PPL	MU		13				5745		214	Indian/Mauritius	2006-01-17
+3544393	Perico	Perico	Perico	22.76917	-81.01889	P	PPL	CU		03				24073		36	America/Havana	2012-01-18
+2930623	Elze	Elze		52.12263	9.73595	P	PPLA4	DE		06	00	03254	03254014	9582		93	Europe/Berlin	2011-04-25
+2789190	Pepinster	Pepinster	Pepinster	50.57375	5.8049	P	PPL	BE		WAL	WLG	63	63058	9530		193	Europe/Brussels	2011-03-24
+2736391	Perafita	Perafita		41.18252	-8.2545	P	PPL	PT		17	1311	131109		12538		437	Europe/Lisbon	2011-08-28
+2641181	Norwich	Norwich	NWI,Nordovicum,Norgouits,Norich,Noridzas,Noridzh,Noridžas,Norvic,Norvich,Norviç,Norwich,narwch,nolichi,noritchi,nuo li qi,nwrwych,nwrwytsh,nx rich,Νόργουιτς,Норвіч,Норидж,Норич,ناروچ,نورويتش,نورویچ,นอริช,ノリッチ,諾里奇,노리치	52.62783	1.29834	P	PPLA2	GB		ENG	I9	33UG		177636		19	Europe/London	2010-10-16
+87205	Darnah	Darnah	Daernae,Darnah,Darnis,Derna,Därnä,Dérna,drnh,drnt,דרנה,درنة	32.76704	22.63669	P	PPLA	LY		70				78782		9	Africa/Tripoli	2012-01-16
+4695066	Greenville	Greenville	GVT,Grinvil,Grinvill,grynwyl, tgzas,Гринвил,Гринвилл,گرینویل، تگزاس	33.13845	-96.11081	P	PPLA2	US		TX	231			25557	165	169	America/Chicago	2011-05-14
+4005270	Guanajuato	Guanajuato	Ciudad Guanajuato,Guanajuato,Guanakhuato,guanafuato shi,Гуанахуато,グアナフアト市	21.01858	-101.2591	P	PPLA	MX		11				78364		2010	America/Mexico_City	2012-02-11
+2659391	Oberentfelden	Oberentfelden	Entfelden	47.35639	8.04594	P	PPL	CH		AG	1901	4010		7553		413	Europe/Zurich	2013-03-01
+1712051	Guyong	Guyong	Guyong	14.83989	120.97996	P	PPL	PH		03	13			155391		46	Asia/Manila	2012-07-04
+2919138	Gommern	Gommern	Gomern,Gommern,ge mei er en,gmrn,Гомерн,Гоммерн,گمرن,戈梅尔恩	52.07391	11.82297	P	PPL	DE		14				5992		56	Europe/Berlin	2012-08-04
+2513811	Mislata	Mislata	Mislata,Мислата	39.47523	-0.41825	P	PPLA3	ES		60	V	46169		43756		35	Europe/Madrid	2012-03-04
+2537545	Sefrou	Sefrou	Sefrou,Sefru,Sefrú	33.83186	-4.828	P	PPLA3	MA		46	451	1445101091		65150		809	Africa/Casablanca	2011-07-31
+4760376	Galax	Galax		36.66124	-80.92397	P	PPLA2	US		VA	640			7042	723	723	America/New_York	2012-04-28
+4006971	El Verde	El Verde		20.55567	-103.27901	P	PPL	MX		14				7556		1542	America/Mexico_City	2012-08-04
+2919765	Glücksburg	Glucksburg	Gliksburg,Gljuksburg,Glucksburg,Gluecksburg,Glücksburg,Lukkuborg,Lyksborg,Nklyxmpournk,ge lu ke si bao,ghlwksbwrgh,glwksbwrg,Γκλύξμπουργκ,Гликсбург,Глюксбург,غلوكسبورغ,گلوکسبورگ,格吕克斯堡	54.83522	9.54854	P	PPL	DE		10				5946		19	Europe/Berlin	2012-07-04
+3689003	Belén	Belen	Belen,Belen de Cerinza,Belén,Belén de Cerinza	5.98892	-72.91254	P	PPL	CO		36				5411		2643	America/Bogota	2012-01-19
+2290964	Bouaflé	Bouafle	Bouafle,Bouaflé,Buafle	6.99041	-5.7442	P	PPLA	CI		83				60962		208	Africa/Abidjan	2012-01-17
+3166516	Sinalunga	Sinalunga		43.21524	11.74954	P	PPLA3	IT		16	SI	052033		11790		262	Europe/Rome	2012-02-15
+4543733	Noble	Noble		35.13924	-97.39475	P	PPL	US		OK	027			6481	364	367	America/Chicago	2011-05-14
+3029392	Bussy-Saint-Georges	Bussy-Saint-Georges	Bussy-Saint-Georges	48.84099	2.70165	P	PPL	FR		A8	77	775	77058	10043		112	Europe/Paris	2012-01-18
+3120012	La Almunia de Doña Godina	La Almunia de Dona Godina	Almunia de Dona Godina,Almunia de Doña Godina,La Almunia,La Almunia de Dona Godina,La Almunia de Doña Godina	41.4767	-1.37451	P	PPL	ES		52	Z	50025		6646		372	Europe/Madrid	2012-01-19
+3199685	Sveta Trojica v Slovenskih Goricah	Sveta Trojica v Slovenskih Goricah	Gradisce,Gradisce v Slovenskih Goricah,Gradišče,Gradišče v Slovenskih Goricah,Sveta Trojica,Sveta Trojica v Slovenskih Goricah,Sveta Trojica v Slovenskih goricah	46.57667	15.87694	P	PPLA	SI		P6				0		272	Europe/Ljubljana	2012-02-02
+2651386	Denbigh	Denbigh	Denbigh,Dinbych	53.18333	-3.41667	P	PPLA3	GB		WLS	X9	00NG012		8364		85	Europe/London	2011-07-31
+3169540	Recanati	Recanati	Recanati,Rekanati,Реканати	43.40386	13.55978	P	PPLA3	IT		10	MC	043044		20050		235	Europe/Rome	2012-02-15
+8224780	Cradley Heath	Cradley Heath		52.47214	-2.08212	P	PPL	GB		ENG	L7			5001		109	Europe/London	2012-03-29
+5175726	Warrensville Heights	Warrensville Heights		41.43505	-81.53623	P	PPL	US		OH	035			13542	316	318	America/New_York	2011-05-14
+2360886	Fada N'gourma	Fada N'gourma	FNG,Fada N'Gourma,Fada N'gourma,Fada Ngourma,Fada N’Gourma,Fada-n-Gurma	12.06157	0.35843	P	PPLA	BF		08	50			33910		298	Africa/Ouagadougou	2013-05-18
+3174096	Manduria	Manduria	Manduria,Mandurija,Мандурия	40.40182	17.63351	P	PPLA3	IT		13	TA	073012		31747		86	Europe/Rome	2012-02-15
+3670419	Sahagún	Sahagun	Sahagun,Sahagún	8.94616	-75.44275	P	PPL	CO		12				59188		84	America/Bogota	2012-01-19
+1257539	Sāmbhar	Sambhar	Sambhar,Sambhar Lake,Sambkhara,Sāmbhar,Самбхара	26.90806	75.19137	P	PPL	IN		24				22828		379	Asia/Kolkata	2012-03-24
+2791194	Middelkerke	Middelkerke	Middelkerke,Middelkerke Bains,Middelkerke-Baden	51.18532	2.82077	P	PPL	BE		VLG	VWV	35	35011	17789		4	Europe/Brussels	2012-01-18
+2867310	Mutterstadt	Mutterstadt	Mutterstadt	49.44139	8.35611	P	PPLA4	DE		08	00	07338	07338019	12383		99	Europe/Berlin	2011-07-31
+4697616	Highland Park	Highland Park	Khajlend Park,Хайленд Парк	32.83346	-96.79195	P	PPL	US		TX	113			8564	161	169	America/Chicago	2011-05-14
+4007684	El Salto	El Salto		20.33333	-104.5	P	PPL	MX		14				22550		1563	America/Mexico_City	2006-01-17
+2643123	Manchester	Manchester	Gorad Manchehstehr,MAN,Mameceaster,Manceinion,Mancesteris,Mancestra,Manchain,Manchester,Manchestur,Manchetre,Manchuin,Manchéstér,Manchêtre,Mancunium,Mantsester,Mančesteris,Mančestra,Mánchester,maencheseuteo,maincestara,mamcestara,man che si te,mancestar,manchesuta,manshstr,mnchstr,mnchystyr,mnz'str,myanacestara,myancestar,Μάντσεστερ,Горад Манчэстэр,Манчестер,Манчестър,מאנטשעסטער,מנצ'סטר,مانشستر,مانچسٹر,منچئستئر,منچستر,मँचेस्टर,मैन्चेस्टर,ম্যানচেস্টার,மான்செஸ்டர்,మాంచెస్టర్,ಮ್ಯಾಂಚೆಸ್ಟರ್,മാഞ്ചസ്റ്റർ,แมนเชสเตอร์,მანჩესტერი,ማንችስተር,マンチェスター,曼彻斯特,맨체스터	53.48095	-2.23743	P	PPLA2	GB		ENG	I2			395515		51	Europe/London	2011-06-16
+2640312	Pickering	Pickering	Pickering,Pickering i North Yorkshire	54.25	-0.76667	P	PPL	GB		ENG	J7	36UF		6763		62	Europe/London	2012-02-01
+553169	Kandry	Kandry	Kandry,Kandry-Amineva,Кандры	54.56667	54.11667	P	PPL	RU		08				12100		168	Asia/Yekaterinburg	2012-01-17
+2975120	Sénas	Senas	Senas,Sénas	43.74375	5.078	P	PPL	FR		B8	13	132	13105	6062		96	Europe/Paris	2011-01-18
+5328152	Big Bear City	Big Bear City		34.26112	-116.84503	P	PPL	US		CA	071			12304	2064	2071	America/Los_Angeles	2011-05-14
+197745	Garissa	Garissa	GAS,Garisa,Garissa,Гариса	-0.45275	39.64601	P	PPLA	KE		16				67861		147	Africa/Nairobi	2013-05-06
+1694484	Pasuquin	Pasuquin	Pasuquin	18.3328	120.6177	P	PPLA3	PH		01	28	1694485		5768		12	Asia/Manila	2011-07-31
+5240399	Rockingham	Rockingham		43.18758	-72.48898	P	PPL	US		VT	025			5198	149	151	America/New_York	2006-01-17
+2078766	Quinns Rocks	Quinns Rocks		-31.68611	115.67778	P	PPL	AU		08				7991		-9999	Australia/Perth	2009-10-01
+2482939	Rouached	Rouached		36.45774	6.04267	P	PPL	DZ		48				40263		543	Africa/Algiers	2011-04-19
+3174250	Magnago	Magnago	Magnago,manyago,マニャーゴ	45.5792	8.80245	P	PPLA3	IT		09	MI	015131		7811		200	Europe/Rome	2012-02-15
+3347939	Lobito	Lobito	LLT,Lobito,Lobitu,robito,Лобиту,ロビト	-12.3644	13.53601	P	PPL	AO		01				207932		4	Africa/Luanda	2013-06-09
+4148411	Boca Raton	Boca Raton	BCT,Boca Raton,Boca Ratón,Boca de Ratones,Boka Raton,Boka-Raton,bo ka la dun,bokaleoton,bokaraton,bwka ratwn, flwryda,Бока Ратон,Бока-Ратон,באקא ראטאן,بوکا راتون، فلوریدا,ボカラトン,博卡拉頓,보카러톤	26.35869	-80.0831	P	PPL	US		FL	099			84392	4	11	America/New_York	2011-05-14
+1259857	Perumpāvūr	Perumpavur		10.11136	76.47478	P	PPL	IN		13				27105		18	Asia/Kolkata	2013-02-08
+3984237	Santa Isabel	Santa Isabel		28.30103	-113.42005	P	PPL	MX		02				21152		444	America/Santa_Isabel	2012-06-05
+1798634	Pingyi	Pingyi	P'ing-i,P'ing-i-chen,P'ing-i-chi,Pingyi,P’ing-i,P’ing-i-chen,P’ing-i-chi,Ta-p'ing-i,Ta-p’ing-i	35.50056	117.63083	P	PPL	CN		25				78254		154	Asia/Shanghai	2012-01-18
+4224745	Stone Mountain	Stone Mountain		33.80816	-84.1702	P	PPL	US		GA	089			5802	318	321	America/New_York	2011-05-14
+559317	Goryachiy Klyuch	Goryachiy Klyuch	Gorjachij Kljuch,Gorjatschi-Kljutsch,Gorjatsjij Kljutsj,Goryachiy Klyuch,Goyyachi Klyuch,Горячий Ключ	44.63083	39.13	P	PPL	RU		38				28078		58	Europe/Moscow	2012-01-17
+5189981	Forest Hills	Forest Hills		40.41979	-79.85005	P	PPL	US		PA	003			6518	293	295	America/New_York	2011-05-14
+238373	Kembé	Kembe	Kembe,Kembé	4.62275	21.88645	P	PPL	CF		02				11513		499	Africa/Bangui	2013-06-07
+5105634	Union City	Union City	Junion Siti,Junion-Siti,awnywn syty, nywjrsy,you lian shi,yunieonsiti,yunionshiti,ywnywn syty,Јунион Сити,Юнион Сити,Юнион-Сити,اونیون سیتی، نیوجرسی,يونيون سيتي,ユニオンシティ,友聯市,유니언시티	40.77955	-74.02375	P	PPL	US		NJ	017			66455	53	56	America/New_York	2011-05-14
+669289	Radauti	Radauti	Radauci,Radauti,Radautio,Radautz,Radivci,Radoc,Radowce,Radóc,Rehdehuci,Rădăutio,Rădăuţi,Rădăuți,Радауци,Радівці,Рэдэуци	47.85	25.91667	P	PPL	RO		34	146263			27241		368	Europe/Bucharest	2013-12-01
+682452	Cefa	Cefa	Cefa	46.91667	21.73333	P	PPLA2	RO		05	28246			6206		101	Europe/Bucharest	2012-06-12
+1686102	Sipalay	Sipalay		9.75194	122.40417	P	PPLA3	PH		06	H3	1686104		24029		10	Asia/Manila	2011-07-31
+4102412	Blytheville	Blytheville	BYH,Blytheville	35.9273	-89.91898	P	PPL	US		AR	093			15620	78	77	America/Chicago	2013-03-16
+5388601	Rolling Hills Estates	Rolling Hills Estates		33.78779	-118.35813	P	PPL	US		CA	037			8067	143	149	America/Los_Angeles	2011-05-14
+6534466	Assago	Assago		45.40887	9.12565	P	PPLA3	IT		09	MI	015011		7447		107	Europe/Rome	2012-02-15
+3441358	Pan de Azúcar	Pan de Azucar	Pan de Azucar,Pan de Azúcar	-34.8	-55.23333	P	PPL	UY		09				7180		27	America/Montevideo	2012-02-02
+2475612	Tolga	Tolga	Tolga,Толга	34.72224	5.37845	P	PPL	DZ		19				68246		161	Africa/Algiers	2012-01-19
+4592453	Red Bank	Red Bank		33.93209	-81.23843	P	PPL	US		SC	063			9617	104	107	America/New_York	2011-05-14
+734643	Pylaía	Pylaia	Kapoutsidhes,Kapoutsídhes,Pilaia,Pilaía,Pilea,Pylaia,Pylaía,Strefa,Stréfa,Πυλαία,Пилеа	40.60056	22.9875	P	PPL	GR		ESYE12	13	9037		23494		81	Europe/Athens	2012-02-28
+3181680	Boscotrecase	Boscotrecase	Boscotrecase,bosukotorekaze,ボスコトレカーゼ	40.77431	14.46204	P	PPLA3	IT		04	NA	063009		10638		91	Europe/Rome	2012-02-15
+790367	Gornji Milanovac	Gornji Milanovac	Gorni Milanovac,Gorni Milanovacas,Gornji Milanovac,ghwrnyy mylanwfats,gwrny mylanwwach,gwrnyy mylanwwas,shang mi la nuo wa ci,Горни Милановац,Горњи Милановац,غورنيي ميلانوفاتس,گورنی میلانوواچ,گورنیی میلانوواس,گۆرنیی میلانۆڤاتس,上米拉諾瓦茨	44.02603	20.46152	P	PPLA3	RS		SE	17	70483		23982		326	Europe/Belgrade	2012-04-15
+1734586	Taiping	Taiping	Bandar Taiping,TPG,Taipeng,Taiping,Tajpin,tai ping,Тайпин,太平	4.85	100.73333	P	PPL	MY		07				217647		19	Asia/Kuala_Lumpur	2012-01-17
+941931	Warrenton	Warrenton	Warrenton	-28.11396	24.84753	P	PPLA3	ZA		08	DC9	NC093		17946		1190	Africa/Johannesburg	2012-07-12
+1707045	Laurel	Laurel	Laurel	14.05542	120.91932	P	PPLA3	PH		40	09	1707047		9720		81	Asia/Manila	2011-07-31
+3000648	Les Herbiers	Les Herbiers	Erbje,Le-Erb'e,Les Herbiers,Les Petits-Herbiers,lai sai er bi ye er,Ербје,Ле-Ерб'є,莱塞尔比耶尔	46.86667	-1.01667	P	PPL	FR		B5	85	852	85109	15664		111	Europe/Paris	2012-01-18
+1512979	Qo‘qon	Qo`qon	Kokand,Kokandas,Qo'qon,Qo`qon,Qo‘qon,Quqon,Qŭqon,kokando,kokanteu,Коканд,コーカンド,코칸트	40.52861	70.9425	P	PPL	UZ		03				187477		416	Asia/Tashkent	2012-04-29
+4845519	West Torrington	West Torrington		41.81843	-73.14372	P	PPL	US		CT	005			36000	193	201	America/New_York	2006-01-17
+3035228	Ballancourt-sur-Essonne	Ballancourt-sur-Essonne	Balankur sir Eson,Ballankur-sjur-Ehssonna,Ballankur-sjur-Essonn,ai song he pan ba lang ku er,Баланкур сир Есон,Балланкур-сюр-Ессонн,Балланкур-сюр-Эссонна,埃松河畔巴朗库尔	48.52525	2.38604	P	PPL	FR		A8	91	912	91045	7001		67	Europe/Paris	2011-11-02
+2890199	Kißlegg	Kisslegg	Kisleg,Kisslegg,ji si lai ge,Кислег,基斯莱格	47.78894	9.88383	P	PPLA4	DE		01	084	08436	08436052	8604		652	Europe/Berlin	2011-04-25
+3064288	Teplice	Teplice	Cieplice,Teplice,Teplice-Sanov,Teplice-Šanov,Teplicė,Teplitse,Teplitz,Teplitz-Schoenau,Teplitz-Schönau,tblytsh,te pu li cai,tepeulliche,tepuritsu~e,tplytsh,tplyzh,Теплитсе,Теплице,Тепліце,טפליצה,تبليتسه,تپلیتسه,ტეპლიცე,テプリツェ,特普利采,테플리체	50.6404	13.82451	P	PPL	CZ		89	0426			51223		229	Europe/Prague	2012-11-27
+3842268	Palma Sola	Palma Sola	Palma Sola,Palma Sota	-23.96336	-64.29872	P	PPL	AR		10				5318		664	America/Argentina/Jujuy	2012-01-18
+776114	Białobrzegi	Bialobrzegi	Bialobrzegi,Białobrzegi	51.64695	20.95041	P	PPLA2	PL		78	1401	140101		7328		114	Europe/Warsaw	2010-09-17
+192900	Kericho	Kericho		-0.36774	35.28314	P	PPLA	KE		21				35748		2002	Africa/Nairobi	2013-06-27
+2391895	Savalou	Savalou	Savalou,Savalu	7.92807	1.97558	P	PPLA	BJ		11				30187		181	Africa/Porto-Novo	2012-01-18
+2127733	Tomakomai	Tomakomai	QTM,Tomakomai,Tomakomaj,shan xiao mu,Томакомай,苫小牧	42.63694	141.60333	P	PPL	JP		12				174806		7	Asia/Tokyo	2012-01-19
+2675691	Södra Sandby	Sodra Sandby	Sodra Sandby,Soedra Sandby,Södra Sandby,Sødra Sandby	56.56667	16.61667	P	PPL	SE		09	0840			5941		13	Europe/Stockholm	2012-01-17
+2611396	Tórshavn	Torshavn	Gorad Torskhaun,Havn,THorshoefn,THunreshaefen,Thori Portus,Thorshavn,Torschavn,Torsgavn,Torshamn,Torshaunas,Torshavn,Torshgavn,Torshkhavn,Torskhavn,Tourshavna,Touršhavna,Tórshavn,thxrs hea n,toleuseuhaun,tosuhaun,tuo er si gang,twrshafn,twshhawn,Þunreshæfen,Þórshöfn,Τόρσχαβν,Горад Торсхаўн,Торсгавн,Торсхавн,Торшгавн,Торшхавн,Տորսհավն,טורסהאבן,تورسهافن,تورشھاون,توشهاون,تۆسھاون,ทอร์สเฮาน์,ტორსჰავნი,トースハウン,托爾斯港,토르스하운	62.00973	-6.77164	P	PPLC	FO		ST	2611397			13200		1	Atlantic/Faroe	2012-11-27
+1256949	Sawāi Mādhopur	Sawai Madhopur	Sawai Madhopur,Sawāi Mādhopur	26.02301	76.34408	P	PPL	IN		24				108612		257	Asia/Kolkata	2012-03-24
+785965	Senta	Senta	Senta,Szenta,Szintarev,Szintarév,Szénta,Zenta,Сента	45.9275	20.07722	P	PPLA3	RS		VO	3	80365		20302		81	Europe/Belgrade	2012-04-15
+2633948	Wigan	Wigan	Uigan,Uigun,Vigan,Viganas,Wigan,XWI,la uigyn,u~igan,wei gan,wei gen,wigeon,wygan,Виган,Віган,Уиган,Уигън,ویگان,ウィガン,威根,维甘,위건	53.53333	-2.61667	P	PPLA2	GB		ENG	P7			80788		41	Europe/London	2010-10-16
+3448906	São João Batista	Sao Joao Batista	Sao Joao Baptista,São João Baptista	-27.27611	-48.84944	P	PPL	BR		26	4216305			14538		32	America/Sao_Paulo	2012-08-03
+3178998	Cervia	Cervia	Cervia,Chervia,cheruvu~ia,Червиа,チェルヴィア	44.26204	12.34812	P	PPLA3	IT		05	RA	039007		25892		3	Europe/Rome	2012-02-15
+3461641	Iaciara	Iaciara	Iacara,Iassiara,Iaçara	-14.09583	-46.63167	P	PPL	BR		29	5209903			9207		579	America/Sao_Paulo	2012-08-03
+3618908	Juigalpa	Juigalpa	Juigalpa	12.10629	-85.36452	P	PPLA	NI		04				54731		123	America/Managua	2012-01-14
+3030132	Briare	Briare	Briar,Briare,Brijar,bu li a er,Бријар,Бріар,布里阿尔	47.63343	2.7438	P	PPL	FR		A3	45	451	45053	6455		140	Europe/Paris	2012-01-18
+2819568	Unterföhring	Unterfoehring	Unterfoehring,Unterfohring	48.19253	11.64293	P	PPLA4	DE		02	091	09184	09184147	10500		505	Europe/Berlin	2013-06-05
+5792990	Duvall	Duvall		47.74232	-121.98568	P	PPL	US		WA	033			6695	27	26	America/Los_Angeles	2011-05-14
+863061	Usinsk	Usinsk	USK,Usinsk,Усинск	65.99389	57.52806	P	PPL	RU		34				44078		78	Europe/Moscow	2012-01-20
+2208485	Zliten	Zliten	Isliten,Islīten,Izliten,Izlīten,QZL,Subgoli,Ziliten,Zlitan,Zliten,Zlītan,ci li tan,jeulliten,zlytn,zuriten,Злитен,زليتن,ズリテン,兹利坦,즐리텐	32.46738	14.56874	P	PPL	LY		72				109972		9	Africa/Tripoli	2013-08-13
+3437665	Nemby	Nemby	Nemby,San Lorenzo de la Frontera	-25.3949	-57.53574	P	PPL	PY		06				94641		109	America/Asuncion	2012-03-22
+512382	Pashkovskiy	Pashkovskiy	Pachksowskaja,Paschkowskaja,Pashkovskaya,Pashkovskij,Pashkovskiy,Pasjkovskij,Пашковский	45.02366	39.10436	P	PPLX	RU		38				43634		29	Europe/Moscow	2013-04-03
+1512549	Tŭragŭrghon	Turagurghon	Turagurghon,Turakurgan,Tyurya-Kurgan,Tŭragŭrghon	40.99984	71.51162	P	PPL	UZ		06				27862		556	Asia/Tashkent	2012-01-17
+2970962	Vallauris	Vallauris	Valauria,Vallauris,Valloris,Valàuria,vu~arorisu,wa luo li,wlwry,Валлорис,Валлоріс,ولوری,ヴァロリス,瓦洛里	43.57803	7.05451	P	PPL	FR		B8	06	061	06155	27286		115	Europe/Paris	2011-11-02
+1502422	Kosh-Agach	Kosh-Agach	Kosh-Agach,Kosj-Agatsj,Кош-Агач	49.99273	88.67598	P	PPL	RU		03				5732		1750	Asia/Omsk	2013-11-12
+4356165	Glassmanor	Glassmanor		38.819	-76.99859	P	PPL	US		MD	033			17295	19	21	America/New_York	2011-05-14
+2264427	Porto de Mós	Porto de Mos	Porto de Mos,Porto de Mós	39.60191	-8.81839	P	PPL	PT		13	1016	101611		6032		136	Europe/Lisbon	2012-01-17
+2469262	Manzil Bū Zalafah	Manzil Bu Zalafah	Manzil Bu Zalafah,Manzil Bū Zalafah,Mennzel Bou Zelfa,Menzel Bou Zelfa	36.68312	10.58431	P	PPL	TN		19				16231		48	Africa/Tunis	2013-08-04
+2795056	Ingelmunster	Ingelmunster	Ingelmunster	50.92081	3.25571	P	PPL	BE		VLG	VWV	36	36007	10603		15	Europe/Brussels	2012-01-18
+5182928	Camp Hill	Camp Hill		40.23981	-76.91997	P	PPL	US		PA	041			7888	135	132	America/New_York	2011-05-14
+2510801	Sonseca	Sonseca	Sonseca con Casalgordo	39.67747	-3.97448	P	PPL	ES		54	TO	45124		11265		755	Europe/Madrid	2010-05-23
+2938344	Delligsen	Delligsen		51.9412	9.80272	P	PPL	DE		06				8986		124	Europe/Berlin	2010-08-18
+3460598	Itatiba	Itatiba		-23.00583	-46.83889	P	PPLA2	BR		27	3523404			67934		782	America/Sao_Paulo	2012-03-10
+2015179	Tommot	Tommot	TOMMOT,Tommot,ТОММОТ	58.95718	126.29158	P	PPL	RU		63				9034		283	Asia/Yakutsk	2012-10-06
+3037352	Apt	Apt		43.88333	5.4	P	PPLA3	FR		B8	84	841	84003	11609		345	Europe/Paris	2011-11-02
+3465284	Cotia	Cotia	Cutia	-23.60389	-46.91917	P	PPLA2	BR		27	3513009			174828		801	America/Sao_Paulo	2012-03-10
+4506008	Beavercreek	Beavercreek	Beaver Creek	39.70923	-84.06327	P	PPL	US		OH	057			45193	266	267	America/New_York	2011-05-14
+1152202	Mae Ramat	Mae Ramat	Amphoe Mae Ramat,Ban Mae Ramat,King Amphoe Mae Ramat,Mae Ramat,Meramas,Meramat,Mēramat,Mēramās,Tambon Mae Ramat,แม่ระมาด	16.98403	98.51665	P	PPLA2	TH		08				17316		184	Asia/Bangkok	2012-01-16
+2778436	Gmunden	Gmunden	Gmunden,Gmunden an der Traun,Gmundn,ge meng deng,geumunden,gmundeni,gmwdn,gmwndn,gumunden,Гмунден,גמונדן,گمودن,გმუნდენი,グムンデン,格蒙登,그문덴	47.91839	13.79933	P	PPL	AT		04	407	40705		13287		434	Europe/Vienna	2013-11-19
+2856500	Osterholz-Scharmbeck	Osterholz-Scharmbeck	Oosterholt-Scharmbeek,Osterholz-Scharmbeck,Osterkhol'c-Sharmbek,Osterkholc-Sharmbek,Stadt Osterholz-Scharmbeck,ao si te luo er ci-sha er en bei ke,astrhwlz-sharmbrk,Остерхолц-Шармбек,Остерхольц-Шармбек,استرهولز-شارمبرک,奥斯特罗尔茨-沙尔恩贝克	53.22698	8.79528	P	PPL	DE		06				31405		25	Europe/Berlin	2012-08-04
+2760134	Aalsmeer	Aalsmeer	Aalsmeer,Alsmer,QFA,a er si mei er,Алсмер,阿尔斯梅尔	52.25917	4.75972	P	PPL	NL		07	0358			22991		-4	Europe/Amsterdam	2010-01-29
+1261882	Napāsar	Napasar	Napasar,Napāsar	27.96059	73.55913	P	PPL	IN		24				21750		248	Asia/Kolkata	2012-03-24
+3097367	Jawor	Jawor	Jauer,Javor,Jawor,Явор	51.05132	16.19347	P	PPLA3	PL		72	0205	020501		23865		206	Europe/Warsaw	2011-07-31
+4562600	Añasco	Anasco	An'jasko,a ni ya si ke,annasako,Аньяско,আন্নাসকো,阿尼亞斯科	18.28273	-67.13962	P	PPLA	PR		011				6136	9	14	America/Puerto_Rico	2013-06-29
+2803083	Arendonk	Arendonk	Arendonck,Arendonk	51.32267	5.08289	P	PPL	BE		VLG	VAN	13	13001	12247		25	Europe/Brussels	2011-02-08
+3108681	Soria	Soria	Gorad Soryja,Soria,Sorija,Sorio,Soriya,Sòria,Sória,XJO,solia,soria,srya,suo li ya,swryh,Горад Сорыя,Сория,Сорија,Сорія,סוריה,سریا,ソリア,索里亚,소리아	41.76401	-2.46883	P	PPLA2	ES		55	SO	42173		39528		1064	Europe/Madrid	2012-12-15
+3025053	Cholet	Cholet	CET,Cauletum,Shole,Sole,shao lai,shore,shwlh,Šolė,Шоле,شوله,ショレ,紹萊	47.06667	-0.88333	P	PPLA3	FR		B5	49	492	49099	53160		117	Europe/Paris	2011-11-02
+1809003	Haizhou	Haizhou	Chiu-tung-hai,Hai-chou,Haichow,Haizhou,Tung-hai,Tung-hai-ch'eng,Tung-hai-ch’eng,Tung-hai-hsien,hai zhou,海州	34.58167	119.12889	P	PPL	CN		04				59098		6	Asia/Shanghai	2012-01-18
+750516	Bolu	Bolu	Boli,Bolou,Bolu,Claudiopolis,Gorad Balu,bo lu,bollu,bolu,boru,bwlw,Μπολού,Болу,Горад Балу,بولو,ბოლუ,ボル,博盧,볼루	40.73583	31.60611	P	PPLA	TR		14				96629		733	Europe/Istanbul	2012-01-18
+3725276	Fond Parisien	Fond Parisien		18.50583	-71.97667	P	PPL	HT		11				18256		43	America/Port-au-Prince	2006-01-17
+2153471	Penrith	Penrith	Penrith	-33.75	150.7	P	PPL	AU		02	16350			11813		31	Australia/Sydney	2013-06-25
+479704	Uchaly	Uchaly	Uchaly,Utsjaly,Учалы	54.2996	59.4521	P	PPL	RU		08				45687		535	Asia/Yekaterinburg	2012-01-17
+408686	Archángelos	Archangelos	Archangelos,Arkhangelos,Arkhángelos,Αρχάγγελος	36.21492	28.11487	P	PPL	GR		ESYE42	47	9296		5398		163	Europe/Athens	2012-01-17
+2647919	Gresford	Gresford	Gresford	53.08539	-2.97062	P	PPL	GB		WLS	Z4	00NL015		5393		76	Europe/London	2011-03-03
+1688697	San Policarpio	San Policarpio	San Policarpio,San Policarpo	12.0686	124.5695	P	PPL	PH		08	55			5616		7	Asia/Manila	2012-06-05
+178077	Wote	Wote	Wote	-1.78079	37.62882	P	PPLA	KE		32				6133		1128	Africa/Nairobi	2013-06-27
+3659599	Catamayo	Catamayo	Catamayo,La Toma	-3.98652	-79.35912	P	PPL	EC		12				18565		1268	America/Guayaquil	2013-02-08
+2037886	Dandong	Dandong	An-tung-hsien,An-tung-shih,Antung,DDG,Dan'dun,Dandong,Dandong - dan dong,Dandong - 丹东,Dandong Shi,Dandun,Dandung,GJan GJong,Sha-ho-ch'en,Sha-ho-ch’en,Sha-ho-tzu,Tan-tung,Tan-tung-shih,dan dong shi,dandung si,dandwnj,tan tng,Đan Đông,Дандун,Дандунг,Даньдун,داندونج,ഡാൻദോങ്,ตานตง,丹东市,丹東市,단둥 시	40.12917	124.39472	P	PPL	CN		19				631973		10	Asia/Shanghai	2012-01-18
+3517256	Santa María del Monte	Santa Maria del Monte	Santa Maria,Santa Maria del Monte,Santa María del Monte	19.2902	-99.82498	P	PPL	MX		15				5299		2928	America/Mexico_City	2012-11-08
+785753	Smederevska Palanka	Smederevska Palanka	Palanka,Palanka Smederevska,Smederevska Palanka,Smederevska palanka,Smederevska-Palanka,asmdrfska planka,si mei dai lei wo pa lan ka,smydyrywska planka,Смедеревска Паланка,Смедеревска паланка,Смедеревска-Паланка,اسمدرفسکا پلانکا,سمیدیریوسکا پلانکا,سمێدێرێڤسکا پالانکا,斯梅代雷沃帕蘭卡	44.36548	20.95885	P	PPLA3	RS		SE	10	71102		27000	119	122	Europe/Belgrade	2012-04-17
+5329204	Blackhawk	Blackhawk	Blackhawk-Camino Tassajara	37.82076	-121.90774	P	PPL	US		CA	013			9354	304	308	America/Los_Angeles	2011-05-15
+5062292	Valley City	Valley City	Vali Siti,gu shi,wly syty, dakwtay shmaly,Вали Сити,ولی سیتی، داکوتای شمالی,ویلی سٹی، شمالی ڈکوٹا,谷市	46.92331	-98.00315	P	PPLA2	US		ND	003			6585	373	372	America/Chicago	2011-05-14
+3460963	Itaberaí	Itaberai	Itaberahy,Itaberai,Itaborahy,Итабераи	-16.02028	-49.81028	P	PPL	BR		29	5210406			22129		705	America/Sao_Paulo	2012-08-03
+3840300	Presidencia Roque Sáenz Peña	Presidencia Roque Saenz Pena	Presidencia Roque Saenz Pena,Presidencia Roque Sáenz Peña,Presidensija Roke Saens Penja,Presidente Roque Saenz Pena,Presidente Roque Sáenz Peña,Roque Saenz Pena,Roque Sáenz Peña,SZQ	-26.78522	-60.43876	P	PPL	AR		03				81879		97	America/Argentina/Cordoba	2013-11-17
+4005856	General Zuazua	General Zuazua	General Zuazua,Zuazua	25.89535	-100.10686	P	PPL	MX		19				5663		363	America/Monterrey	2012-09-06
+3438981	Colonia Menno	Colonia Menno	Colonia Menno	-22.36667	-59.81667	P	PPL	PY		24				5615		128	America/Asuncion	2012-01-18
+1020641	Beaufort West	Beaufort West	Beaufort West,Beaufort-Wes	-32.35671	22.58295	P	PPLA2	ZA		11	DC5	WC053		44737		849	Africa/Johannesburg	2012-07-12
+705809	Kirovsk	Kirovsk	Golubovka,KIROVSK,Kirovsk,КИРОВСК	48.63751	38.6428	P	PPL	UA		14				40000		196	Europe/Zaporozhye	2012-01-18
+3169443	Riano	Riano	Riano,riano,リアーノ	42.10012	12.50568	P	PPLA3	IT		07	RM	058081		6486		205	Europe/Rome	2012-03-04
+3985301	San Miguel Zapotitlán	San Miguel Zapotitlan	San Miguel,San Miguel Zapotitlan,San Miguel Zapotitlán,Zapotitan,Zapotitán	25.94734	-109.0497	P	PPL	MX		25				6152		18	America/Mazatlan	2012-07-04
+1166548	Sahiwal	Sahiwal	Montgomery,SWN,Sahiwal,Sakhival,Sāhīwāl,sa xi wa er,saہiwal,Сахивал,ساہِيوال,薩希瓦爾	30.66667	73.1	P	PPLA2	PK		04	1166545			235695		173	Asia/Karachi	2013-05-21
+708210	Gradizhsk	Gradizhsk	Gradizhsk,Градижск	49.23458	33.13613	P	PPL	UA		18				7400		89	Europe/Kiev	2012-01-18
+3396620	Lagoa Seca	Lagoa Seca	Ipaarana,Ipauarana,Ipuarana	-7.17083	-35.85361	P	PPL	BR		17	2508307			8103		631	America/Fortaleza	2012-08-03
+4893371	Gages Lake	Gages Lake		42.35169	-87.98258	P	PPL	US		IL	097			10198	234	237	America/Chicago	2011-05-14
+5120545	Herkimer	Herkimer		43.02563	-74.98599	P	PPLA2	US		NY	043			7743	117	122	America/New_York	2011-05-14
+4452137	Aberdeen	Aberdeen	Aberdin,Абердин	35.13155	-79.42948	P	PPL	US		NC	125			6350	105	101	America/New_York	2011-05-14
+898905	Sesheke	Sesheke	SJQ,Sesheke,Shesheke,Sisheke,Шешеке	-17.47593	24.29684	P	PPL	ZM		01				20149		951	Africa/Lusaka	2012-01-17
+2881889	Lahnstein	Lahnstein	Lahnstein,Lahnstenium,Lanshtajn,la en si tai yin,Ланштайн,Ланштајн,لان‌اشتاین,拉恩斯泰因	50.3	7.61667	P	PPL	DE		08				18749		134	Europe/Berlin	2012-01-18
+2742965	Amarante	Amarante		41.27271	-8.08246	P	PPL	PT		17	1301	130133		6782		96	Europe/Lisbon	2011-08-28
+6180144	Whistler	Whistler	Uislur,Uistler,Visler,Vistler,Vistlera,Vistleris,Whistler Village,Whistler i British Columbia,YWS,hwiseulleo,u~isura,wei shi na,wystlr, kwlwmbya albrytanyt,Вислер,Вістлер,Уислър,Уистлер,ويستلر، كولومبيا البريطانية,ウィスラー,威士拿,휘슬러	50.1164	-122.96946	P	PPL	CA		02				10600		688	America/Vancouver	2013-07-20
+3467677	Campos Novos	Campos Novos		-27.40167	-51.225	P	PPL	BR		26	4203600			22563		937	America/Sao_Paulo	2012-08-03
+1686547	Silang	Silang		14.21567	120.97137	P	PPLA3	PH		40	20	1686549		119475		332	Asia/Manila	2011-07-31
+5177568	Youngstown	Youngstown	Jangstaun,Jangstauna,Jungstaun,YNG,Youngstown,yang si dui,yangusutaun,yeongseutaun,ywnghztawn, awhayw,ywngstawn, awhayw,Йънгстаун,Янгстаун,يونغزتاون، أوهايو,یونگستاون، اوهایو,ヤングスタウン,扬斯敦,영스타운	41.09978	-80.64952	P	PPLA2	US		OH	099			66982	259	267	America/New_York	2011-05-14
+2973963	Souppes-sur-Loing	Souppes-sur-Loing	Souppes,Souppes-sur-Loing	48.18297	2.73521	P	PPL	FR		A8	77	774	77458	6002		69	Europe/Paris	2012-01-18
+1264588	Madgaon	Madgaon	Madgaon,Margao,Margão,Маргао	15.27501	73.95786	P	PPL	IN		33				86818		22	Asia/Kolkata	2013-02-08
+785345	Студеничани	Studenichani	Studenicane,Studenichani,Studeničane,Студеничани	41.91583	21.53056	P	PPLA	MK		A2				18219		292	Europe/Skopje	2007-08-06
+2829753	Stadtoldendorf	Stadtoldendorf	Shtadtol'dendorf,Shtatoldendorf,Stadtoldendorf,shi ta tuo deng duo fu,shutattoorudendorufu,Штадтольдендорф,Штатолдендорф,اشتات‌اولدندورف,シュタットオルデンドルフ,施塔托登多夫	51.88242	9.6265	P	PPL	DE		06				6082		219	Europe/Berlin	2012-08-04
+8643098	Cranberry Township	Cranberry Township		40.68496	-80.10714	P	PPL	US		PA	019			28098		315	America/New_York	2013-11-19
+3365083	Kraaifontein	Kraaifontein	Kraaifontein	-33.84808	18.71724	P	PPL	ZA		11	CPT	CPT		57911		102	Africa/Johannesburg	2013-08-18
+4566454	Orocovis	Orocovis		18.2269	-66.391	P	PPLA	PR		107				944	513	514	America/Puerto_Rico	2013-06-29
+1262710	Motīhāri	Motihari	Motihan,Motihari,Motīhāri,motihari,मोतिहारी	26.65738	84.91922	P	PPL	IN		34				112144		74	Asia/Kolkata	2013-07-20
+1857144	Minami-rinkan	Minami-rinkan	Minami Rinkan Yamato,Minami-rinkan	35.48333	139.45	P	PPL	JP		19				224015		72	Asia/Tokyo	2012-01-19
+2660032	Langnau	Langnau	Langnau,Langnau im Emmental	46.93936	7.78738	P	PPL	CH		BE	245	902		8784		677	Europe/Zurich	2013-03-05
+2893022	Kappelrodeck	Kappelrodeck		48.59182	8.11692	P	PPLA4	DE		01	083	08317	08317056	5787		215	Europe/Berlin	2011-04-25
+525162	Morozovsk	Morozovsk	Morosowski,Morosowskij,Morozovsk,Morozovskaya,Morozovskiy,Морозовск	48.35502	41.82627	P	PPLA2	RU		61				29289		73	Europe/Moscow	2013-05-07
+2859199	Ober-Saulheim	Ober-Saulheim		49.86376	8.13526	P	PPL	DE		08				7325		157	Europe/Berlin	2012-09-06
+2635054	Ushaw Moor	Ushaw Moor	Ushaw Moor	54.77803	-1.6472	P	PPL	GB		ENG	D8	00EJ014		5502		116	Europe/London	2011-03-03
+4148012	Bithlo	Bithlo		28.55472	-81.10645	P	PPL	US		FL	095			8268	19	22	America/New_York	2011-05-14
+531979	Maksatikha	Maksatikha	Maksatikha,Максатиха	57.79695	35.88254	P	PPL	RU		77				9441		141	Europe/Moscow	2012-01-17
+1177107	Harīpur	Haripur	Haripur,Harīpur,Kharipur,Харипур	33.99997	72.93409	P	PPLA2	PK		03				56977		537	Asia/Karachi	2012-01-17
+554410	Kalach	Kalach	Kalach,Kalatsch,Kalatsj,Калач	50.4258	41.0261	P	PPL	RU		86				20449		92	Europe/Moscow	2012-01-17
+128226	Kermānshāh	Kermanshah	Bahtaran,Bakhtaran,Bākhtarān,KSH,Kermansah,Kermansaho,Kermanschah,Kermanshah,Kermanshahan,Kermanshakh,Kermanŝaho,Kermânsâh,Kermānschāh,Kermānshāh,Kermānshāhān,Kirmansah,Kirmanşah,Kirmasan,Kirmaşan,Province de Kermanshah,Provincia de Kermanshah,Provinco Kermansah,Provinco Kermanŝah,Província de Kermanshah,Qahremanshahr,Qahremānshahr,astan krmanshah,ke er man sha he,kerumansha,krmanshah,Керманшах,Кирмоншоҳ,Устони Кирмоншоҳ,استان کرمانشاه,كرمانشاه,کرمانشاه,ケルマーンシャー,克尔曼沙赫	34.31417	47.065	P	PPLA	IR		13				621100		1392	Asia/Tehran	2012-01-16
+3449936	Santana do Livramento	Santana do Livramento	Livramento,Sant'Anna do Livramento,Santana do Livramento,Santana-du-Livramentu,Сантана-ду-Ливраменту	-30.89083	-55.53278	P	PPL	BR		23	4317103			89694		213	America/Sao_Paulo	2012-08-03
+5368565	Los Osos	Los Osos	Baywood-Los Osos	35.31109	-120.8324	P	PPL	US		CA	079			14276	40	42	America/Los_Angeles	2011-05-15
+5794416	Fircrest	Fircrest		47.23954	-122.51596	P	PPL	US		WA	053			6497	85	86	America/Los_Angeles	2011-05-14
+764917	Miechów	Miechow	Mehova,Mekhov,Mekhuv,mei hu fu,Мехов,Мехув,梅胡夫	50.35648	20.02788	P	PPLA2	PL		77	1208	120805		11735		298	Europe/Warsaw	2010-09-24
+3589822	San Luis Jilotepeque	San Luis Jilotepeque	Jilotepeque,San Luis,San Luis Jilotepeque	14.65	-89.73333	P	PPL	GT		10				10306		853	America/Guatemala	2012-01-18
+2787356	Saint-Nicolas	Saint-Nicolas	Saint-Nicolas,Sankt-Nikola,Sint-Niklaas,Санкт-Никола	50.62837	5.53243	P	PPL	BE		WAL	WLG	62	62093	22586		96	Europe/Brussels	2011-03-15
+5103564	Rumson	Rumson	Ramson,ramswn, nywjrsy,Рамсон,رامسون، نیوجرسی	40.37205	-73.99903	P	PPL	US		NJ	025			7122	9	14	America/New_York	2011-05-14
+4506031	Beckett Ridge	Beckett Ridge		39.347	-84.43522	P	PPL	US		OH	017			9187	249	255	America/New_York	2011-05-14
+2659510	Naters	Naters		46.32536	7.98912	P	PPL	CH		VS	2301	6007		7552	720	680	Europe/Zurich	2013-02-28
+2867753	Mülsen	Mulsen		50.75	12.56667	P	PPLA4	DE		13	145	14524	14524200	12489		318	Europe/Berlin	2011-04-25
+5393287	Santa Rosa	Santa Rosa	STS,Santa Rosa,Santa Roza,Santa-Rosa,Santa-Roza,saentaloja,santa rwsa, kalyfwrnya,santa rwza, kalyfrnya,santaroza,sheng luo sha,snth rwzh,Санта Роза,Санта Роса,Санта-Роза,Санта-Роса,סנטה רוזה,سانتا روزا، کالیفرنیا,سانتا روسا، كاليفورنيا,سانٹا روزا,サンタローザ,聖羅莎,샌타로자	38.44047	-122.71443	P	PPLA2	US		CA	097			167815	50	55	America/Los_Angeles	2011-05-14
+300632	Şirvan	Sirvan	Kufra,Kufre,Küfre,Sirvan,Şirvan	38.0624	42.02918	P	PPLA2	TR		74				5510		1000	Europe/Istanbul	2012-01-18
+3527656	Ezequiel Montes	Ezequiel Montes	Corrat Blanco,Ezequiel Montes	20.6646	-99.89698	P	PPL	MX		22				12443		1982	America/Mexico_City	2012-12-05
+3166244	Spinetoli	Spinetoli	Spinetoli	42.89145	13.77019	P	PPLA3	IT		10	AP	044071		5874		181	Europe/Rome	2012-02-15
+2864034	Neustadt in Holstein	Neustadt in Holstein	Neustadt,Neustadt en Holstein,Niestadt in Holsteen,Nojshtadt,Nojshtat in Kholshtajn,huo er si tai yin de qu nuo yi si ta te,Нойштадт,Нојштат ин Холштајн,نوی‌اشتات این هل‌اشتاین,霍尔斯泰因地区诺伊斯塔特	54.10707	10.8145	P	PPL	DE		10				16176		11	Europe/Berlin	2010-04-29
+5119405	Greenville	Greenville		40.99817	-73.82083	P	PPL	US		NY	119			7116	76	101	America/New_York	2011-05-14
+3170147	Pordenone	Pordenone	Pordenon,Pordenone,Portus Naonis,QAD,porudenone,Порденоне,ポルデノーネ	45.96389	12.6575	P	PPLA2	IT		06	PN	093033		49122		31	Europe/Rome	2011-02-23
+3668324	Santuario	Santuario	Santuario	5.07237	-75.96341	P	PPL	CO		24				6815		1580	America/Bogota	2012-01-19
+688746	Vynohradiv	Vynohradiv	Horvinogradovo,Nagyszollos,Nagyszöllös,Nagyszőllős,Sevljus,Sevlus,Sevluš,Sevlyush,Vel'ky Sevl'yush,Vel’ky Sevl’yush,Vinogradiv,Vinogradov,Vynohradiv,Виноградов,Виноградів	48.14135	23.02666	P	PPL	UA	UA	25				27600		133	Europe/Uzhgorod	2012-03-26
+3947956	Ambo	Ambo	Ambo	-10.13083	-76.20472	P	PPLA3	PE		10	1002	100201		6865		2098	America/Lima	2012-07-19
+2949296	Bickenbach	Bickenbach		49.75917	8.6175	P	PPLA4	DE		05	064	06432	06432003	5338		124	Europe/Berlin	2011-07-31
+4866164	Maquoketa	Maquoketa	Makuokehta,makwwkta, aywwa,Макуокэта,ماکووکتا، آیووا	42.06891	-90.66569	P	PPLA2	US		IA	097			6141	214	215	America/Chicago	2011-05-14
+663118	Vaslui	Vaslui	Vaslui,Vasluiul,Vasluj,Vaszlo,Vászló,Васлуй	46.63333	27.73333	P	PPLA	RO		38				69225		96	Europe/Bucharest	2012-01-18
+3651495	Santa Ana	Santa Ana		-1.20726	-80.37132	P	PPL	EC		14				12833		61	America/Guayaquil	2013-01-11
+2661015	Dietikon	Dietikon	Dietikon,ZDX	47.40165	8.40015	P	PPL	CH		ZH	111	243		20893		397	Europe/Zurich	2013-04-02
+3443631	Bella Unión	Bella Union	Bella Union,Bella Unión,Santa Rosa,Santa Rosa del Cuareim	-30.27522	-57.6007	P	PPL	UY		01				13171		47	America/Montevideo	2012-01-18
+685927	Baciu	Baciu	Baciu,Baciul	46.8	23.51667	P	PPLA2	RO		13	55838			8046		395	Europe/Bucharest	2012-06-12
+3693057	Querecotillo	Querecotillo		-4.83778	-80.64556	P	PPLA3	PE		20	2006	200607		25396		53	America/Lima	2012-07-19
+3692073	Santiago de Cao	Santiago de Cao		-7.95889	-79.23917	P	PPL	PE		13	1302	130207		21982		18	America/Lima	2012-07-19
+2982343	Royan	Royan	Gorad Ruajjan,RYN,Roajan,Roian,Roiannum,Rouagian,Royan,Ruajan,Ruajana,Ruajanas,Ruajjan,Ruajāna,Ruayan,lu wa yang,rowaiyan,Ρουαγιάν,Горад Руайян,Роаян,Роајан,Руайян,Руаян,ロワイヤン,鲁瓦扬	45.62846	-1.0281	P	PPL	FR		B7	17	172	17306	19017		21	Europe/Paris	2012-01-18
+3172614	Morciano di Romagna	Morciano di Romagna	Morciano di Romagna	43.91406	12.65055	P	PPLA3	IT		05	RN	099011		5988		80	Europe/Rome	2012-02-15
+1790254	Xiaogan	Xiaogan	Hsiao-kan,Hsiao-kan-hsien,Siaokan,Siaokanhsien,XJW,Xiaogan,xiao gan shi,شياۋگەن شەھىرى,孝感市	30.92689	113.92221	P	PPLA2	CN		12				160437		35	Asia/Shanghai	2013-11-23
+2814956	Waldheim	Waldheim	Waldheim	51.07282	13.02004	P	PPL	DE		13				9001		191	Europe/Berlin	2012-09-06
+3179254	Cavriago	Cavriago	Capriago,Cavriago,Gavriago	44.69366	10.52749	P	PPLA3	IT		05	RE	035017		8968		84	Europe/Rome	2012-02-15
+2797114	Grimbergen	Grimbergen	Grimbergen,Grimberghen,Гримберген	50.93409	4.37213	P	PPL	BE		VLG	VBR	23	23025	33561		29	Europe/Brussels	2011-02-04
+2768232	Purkersdorf	Purkersdorf	Purkersdorf,Пуркерсдорф	48.20769	16.17539	P	PPLA3	AT		03	324	32416		8327		250	Europe/Vienna	2011-07-31
+2249782	Kolda	Kolda	KDA,Kolda,Колда	12.88333	-14.95	P	PPLA	SN		11				58809		7	Africa/Dakar	2012-01-17
+2642557	Midsomer Norton	Midsomer Norton		51.28567	-2.48591	P	PPL	GB		ENG	A4	00HA033		10458		95	Europe/London	2012-03-29
+2796482	Hastière-Lavaux	Hastiere-Lavaux	Hastiere (Hastiere-Lavaux),Hastière (Hastière-Lavaux)	50.21849	4.82446	P	PPL	BE		WAL	WNA	91	91142	5147		129	Europe/Brussels	2011-05-05
+2523808	Piana degli Albanesi	Piana degli Albanesi	Chiana,Hora e Arbereshevet,Piana de' Greci,Piana degli Albanesi,Piana dei Greci,Piana di Greci	37.99795	13.27974	P	PPLA3	IT		15	PA	082057		6227		742	Europe/Rome	2012-02-15
+2252309	Diourbel	Diourbel	Diourbei,Diourbel	14.66278	-16.3925	P	PPLA	SN	SN	03				0		27	Africa/Dakar	2012-01-17
+2656235	Barry	Barry	Bari,Baris,Barri,Barry,Barry i Wales,Beri,Y Barri,ba li,Бари,Барри,Баррі,Бери,巴里	51.40667	-3.26944	P	PPLA2	GB		WLS	Z3			51681		36	Europe/London	2011-10-14
+2979627	Saint-Gratien	Saint-Gratien	Saint-Gratien	48.9735	2.28729	P	PPL	FR		A8	95	952	95555	19737		45	Europe/Paris	2012-01-18
+3020686	Dunkerque	Dunkerque	CQF,Denkerk,Denkerka,Diunkerkas,Djunkerk,Doun'kerki,Duenkirchen,Duinkerk,Duinkerke,Dukark,Dun-Libre,Dune-Libre,Dunes-Libres,Dunkek,Dunkerk,Dunkerque,Dunkierka,Dunkirk,Dunkèk,Dunquerca,Dunquerque,Dunquèrca,Duntsjerk,Duunkerke,Dúntsjerk,Dünkirchen,Gorad Dzjunkerk,Lungsod ng Dunkerque,dainkarka,dankarka,dankeruku,dnqrq,doengkeleukeu,dui ke er ke,dun ke er ke,dwnkrk,dwnkyrk,tankirk,Δουνκέρκη,Горад Дзюнкерк,Денкерк,Дюнкерк,דונקערק,דנקרק,دونكيرك,دونکرک,ڈنکرک,डंकर्क,दैंकर्क,டன்கிர்க்,დიუნკერკი,ダンケルク,敦刻尔克,됭케르크	51.03297	2.377	P	PPLA3	FR		B4	59	594	59183	71287		10	Europe/Paris	2013-06-23
+2469264	Menzel Bourguiba	Menzel Bourguiba	Bourguiba,Ferryville,Manzil Bu Ruqaybah,Manzil Bū Ruqaybah,Menzel Bourguiba,Sidi Fath Allah,Sīdī Fatḩ Allāh	37.15368	9.78594	P	PPL	TN		18				46245		9	Africa/Tunis	2012-01-18
+3582662	Benque Viejo del Carmen	Benque Viejo del Carmen	Bengue Viejo,Benique Viejo del Carmen,Benque Viejo,Benque Viejo del Carmen,Cayo	17.075	-89.13917	P	PPL	BZ		02				7092		89	America/Belize	2012-01-18
+608872	Maqat	Maqat	MAKAT,Makat,Makat Severnyy,Maqat,МАКАТ	47.65	53.31667	P	PPL	KZ		06				14082		-25	Asia/Oral	2012-01-17
+775717	Boguchwała	Boguchwala	Boguchwala,Boguchwała	49.98473	21.94528	P	PPLA3	PL		80	1816	181603		5823		222	Europe/Warsaw	2010-10-13
+685506	Băluşeni	Baluseni		47.66667	26.8	P	PPLA2	RO		07	36300			5017		96	Europe/Bucharest	2012-06-12
+4529353	Anadarko	Anadarko		35.07256	-98.24366	P	PPLA2	US		OK	015			6762	360	365	America/Chicago	2011-05-14
+4075692	Meadowbrook	Meadowbrook		33.40205	-86.69665	P	PPL	US		AL	117			8769	191	195	America/Chicago	2011-05-14
+458460	Kuldīga	Kuldiga	Goldingen,Kuldiga,Kuldigas,Kuldyga,Kuldīga,Kuldīgas,Кулдига	56.97399	21.95721	P	PPLA	LV		15				13289		28	Europe/Riga	2013-06-28
+2742309	Beduido	Beduido		40.76427	-8.5611	P	PPL	PT		02	0108	010802		8201		33	Europe/Lisbon	2011-08-28
+2505854	Bab Ezzouar	Bab Ezzouar	Bab Ezzouar,Le Retour de la Chasse	36.72615	3.18291	P	PPL	DZ		01				275630		20	Africa/Algiers	2012-01-19
+670232	Poenari-Burchi	Poenari-Burchi	Burchi,Poenari-Burchi,Poenarii-Burchi	44.75	26.01667	P	PPL	RO		00				5681		113	Europe/Bucharest	2012-01-18
+1786587	Yingshang Chengguanzhen	Yingshang Chengguanzhen	Yin-shang,Ying-shang-hsien,Yingshang,Yingshang Chengguanzhen,ying shang cheng guan zhen,颖上城关镇	32.62945	116.27014	P	PPLA3	CN		01				61771		26	Asia/Shanghai	2012-01-18
+631376	Virrat	Virrat	Virdois,Virrat,Virtois,Wirrat,Виррат	62.24759	23.78004	P	PPLA3	FI	FI	15	06	936		7707		127	Europe/Helsinki	2012-02-20
+3458161	Madre de Deus	Madre de Deus	Suape	-12.74083	-38.62083	P	PPL	BR		05	2919926			14887		2	America/Bahia	2012-08-03
+2906143	Herdorf	Herdorf	Herdorf	50.77704	7.95366	P	PPL	DE		08				7239		262	Europe/Berlin	2012-09-06
+5091744	Rindge	Rindge		42.7512	-72.0098	P	PPL	US		NH	005			6049	397	403	America/New_York	2006-01-17
+1786067	Qianjiang	Qianjiang	Ch'ien-chiang,Ch'ien-chiang-hsien,Chien-kou,Ch’ien-chiang,Ch’ien-chiang-hsien,JQJ,Juan'lin',Qianjiang,Qiánjiāng,Tsienkiang,Yuanlin,Yuanlin Jiedao,yuan lin,yuan lin jie dao,Юаньлинь,园林,园林街道	30.421	112.8919	P	PPLA4	CN		12				179079		36	Asia/Shanghai	2013-11-23
+4275393	Merriam	Merriam		39.02362	-94.69357	P	PPL	US		KS	091			11003	277	279	America/Chicago	2011-05-14
+667458	Secusigiu	Secusigiu	Secusigiu,Secusigiul,Sekeschut,Sekushich,Szekeskut,Székeskút	46.08333	20.98333	P	PPLA2	RO		02	11940			5748		97	Europe/Bucharest	2012-06-12
+3026823	Chantonnay	Chantonnay	Chantonnay,La Prairiale,La Resolue,La Résolue	46.68702	-1.05024	P	PPL	FR		B5	85	852	85051	8375		61	Europe/Paris	2012-01-18
+1264551	Madhupur	Madhupur	Madhupur	24.27419	86.63929	P	PPL	IN		38				50671		250	Asia/Kolkata	2012-09-06
+5852275	Pearl City	Pearl City		21.39722	-157.97333	P	PPL	US		HI	003			47698	27	32	Pacific/Honolulu	2011-05-14
+5257784	Jefferson	Jefferson	Dzhefferson,Джефферсон	43.00556	-88.80733	P	PPLA2	US		WI	055			7973	244	246	America/Chicago	2011-05-14
+2562966	Vittoriosa	Vittoriosa	Birgu,Il-Birgu,Vittoriosa,Vittorioza,Биргу,Витториоза	35.89222	14.51833	P	PPLA	MT		03				2936		-9999	Europe/Malta	2012-07-04
+6621338	Klemzig	Klemzig		-34.87928	138.63562	P	PPL	AU		05	45890			5087		52	Australia/Adelaide	2011-06-04
+3024783	Clamart	Clamart	Clamart,Klamar,Le Vignoble,ke la ma er,klamar,klmr,kuramaru,Кламар,كلامار,کلمر,クラマール,克拉马尔	48.80299	2.26692	P	PPL	FR		A8	92	921	92023	51400		101	Europe/Paris	2012-01-18
+2794707	Kaprijke	Kaprijke	Caprycke,Kaprijke	51.2172	3.61519	P	PPL	BE		VLG	VOV	43	43007	6114		4	Europe/Brussels	2012-01-18
+2037335	Fuyu	Fuyu	Betuna,Bodune,Fu-yu-chen,Fu-yu-hsien,Fu-yü-chen,Fu-yü-hsien,Fuyu,Hsin-ch'eng,Hsin-ch'eng-hsien,Hsin-ch’eng,Hsin-ch’eng-hsien,Petuna,Po-tu-na,Po-tu-no,Sincheng	45.18333	124.81667	P	PPL	CN		05				138704		141	Asia/Harbin	2012-01-18
+1274868	Chālisgaon	Chalisgaon	Chalisgaon,Chālisgaon	20.46317	75.01213	P	PPL	IN		16				96381		341	Asia/Kolkata	2013-02-08
+4188815	College Park	College Park	Kolledzh Park,Колледж Парк	33.65344	-84.44937	P	PPL	US		GA	121			13942	320	321	America/New_York	2011-05-14
+4354428	Essex	Essex	Ehsseks,Эссекс	39.30927	-76.47496	P	PPL	US		MD	005			39262	12	15	America/New_York	2011-05-14
+1686874	Siasi	Siasi	Banting,Maddas,Muddas,SSV,Si Ase,Siasi	5.5462	120.8145	P	PPL	PH		14	60			12566		8	Asia/Manila	2012-02-01
+3590449	San Antonio La Paz	San Antonio La Paz	San Antonio La Paz	14.74972	-90.28667	P	PPL	GT		05				7781		1329	America/Guatemala	2012-01-18
+2856930	Oschersleben	Oschersleben	Oschersleben,Oshersleben,awksrzlbn,osshasureben,Ошерслебен,اوکسرزلبن,オッシャースレーベン	52.0304	11.22898	P	PPL	DE		14				17900		82	Europe/Berlin	2012-08-04
+4985552	Belding	Belding		43.09781	-85.22891	P	PPL	US		MI	067			5757	237	236	America/Detroit	2011-05-14
+1274987	Cannanore	Cannanore	Cananor,Kananorskom,Kannanur,Kannur,Kanoor,Кананорском	11.86752	75.35763	P	PPL	IN		13				62836		13	Asia/Kolkata	2010-10-18
+616108	Vardenis	Vardenis	Basargech'ar,Basargech’ar,VARDENIS,Vardenis,ВАРДЕНИС	40.18272	45.7311	P	PPL	AM		04				11382		1940	Asia/Yerevan	2012-01-17
+2875379	Ludwigsfelde	Ludwigsfelde	Ljudvigsfel'de,Ludvigsfelde,Ludwigsfelde,lu de wei ge si fei er de,lwdwygzfldh,Лудвигсфелде,Людвигсфельде,لودویگزفلده,卢德维格斯费尔德	52.30322	13.25405	P	PPL	DE		11				24164		47	Europe/Berlin	2012-08-04
+415534	Nurdağı	Nurdagi	Nurdagi,Nurdağı	37.1773	36.74194	P	PPLA2	TR		83				12827		504	Europe/Istanbul	2012-01-19
+2160063	Lismore	Lismore	LSY,Lismor,Lizmor,li si mo er,liseumo-eo,lismori,lsmwr,lysmwr, astralya,rizumo,Лизмор,Лисмор,لسمور,لیسمور، استرالیا,ლისმორი,リズモー,利斯莫尔,리스모어	-28.81354	153.2773	P	PPL	AU		02	14850			30086		11	Australia/Sydney	2013-06-25
+3536724	Santiago de las Vegas	Santiago de las Vegas	Sant'jago-de-las-Vegas,Santiago de las Vegas,Сантьяго-де-лас-Вегас	22.97	-82.38694	P	PPL	CU		02				35241		95	America/Havana	2012-01-18
+2110427	Baiti	Baiti		-0.50803	166.92945	P	PPLA	NR		05				810		7	Pacific/Nauru	2013-08-10
+586573	Kyadabek	Kyadabek	Gadabay,Gǝdǝbǝy,Gədəbəy,KEDABEK,Kedabek,Kedabeko,Kedalek,Kyadabek,КЕДАБЕК	40.57055	45.81229	P	PPLA	AZ		19				8657		1460	Asia/Baku	2013-05-07
+3129231	Astorga	Astorga	Astorga,Asturica Augusta,Асторга	42.45879	-6.05601	P	PPLA3	ES		55	LE	24008		12078		865	Europe/Madrid	2012-03-04
+2954695	Aue	Aue	Aue,Aue-Auerhammer,Aueh,Auje,Aujė,Stadt Aue,ao e,aue,ayw,Ауе,Ауэ,آئو,アウエ,奧厄	50.59034	12.70657	P	PPL	DE		13				18554		399	Europe/Berlin	2012-09-06
+2743949	Zevenaar	Zevenaar	Zevenar,Зевенар	51.93	6.07083	P	PPL	NL		03	0299			26063		12	Europe/Amsterdam	2010-01-29
+4527879	Wellston	Wellston		39.12341	-82.53294	P	PPL	US		OH	079			5663	226	225	America/New_York	2011-05-14
+5247415	Caledonia	Caledonia	Kaledonija,Каледония	42.8078	-87.92425	P	PPL	US		WI	101			24705	220	223	America/Chicago	2011-05-14
+3050719	Kalocsa	Kalocsa	Kalocsa	46.52639	18.98583	P	PPL	HU		01				18242		89	Europe/Budapest	2012-01-18
+1724128	Bone South	Bone South	Bone,Bone South	16.2446	120.9958	P	PPL	PH		02	48			6573		449	Asia/Manila	2012-01-17
+1714728	Dingras	Dingras	Dingras	18.1032	120.6967	P	PPLA3	PH		01	28	1714729		6866		29	Asia/Manila	2011-07-31
+2636484	Sutton in Ashfield	Sutton in Ashfield	Sutton in Ashfield	53.12542	-1.26135	P	PPL	GB		ENG	J9	37UB		43912		157	Europe/London	2011-03-03
+2827989	Steinheim am Albuch	Steinheim am Albuch		48.6909	10.06382	P	PPLA4	DE		01	081	08135	08135032	9013		534	Europe/Berlin	2011-07-31
+3457928	Mantenópolis	Mantenopolis	Ametista,Manteninha	-18.8625	-41.12278	P	PPL	BR		08	3203304			8547		413	America/Sao_Paulo	2012-08-03
+2620425	Herning	Herning	Gerning,Herning,Herningas,Kherning,Munisipalitas Herning,Munisipaliti Herning,ZRY,hai ning,herningi,Гернінг,Хернинг,ჰერნინგი,海宁	56.13932	8.97378	P	PPLA2	DK		18	657			44763		58	Europe/Copenhagen	2011-03-01
+1255175	Talāja	Talaja	Talaja,Talāja	21.3527	72.03524	P	PPL	IN		09				29948		25	Asia/Kolkata	2013-02-08
+3112008	Reocín	Reocin	Reocin,Reocín	43.33915	-4.09403	P	PPLA3	ES		39	S	39060		7230		105	Europe/Madrid	2012-03-04
+1276032	Bhāvnagar	Bhavnagar	Baunagar,Bharnagar,Bhaunagar,Bhavnagar,Bhunagar,Bhāvnagar,Bkhavnagarom,bhavanagara,Бхавнагаром,ભાવનગર	21.77446	72.1525	P	PPL	IN		09				554978		21	Asia/Kolkata	2013-02-08
+3055287	Bátonyterenye	Batonyterenye	Batonyterenye,Bátonyterenye,Kisterenye,Nagybatony,Nagybátony,Szupatak,Szúpatak	47.96962	19.84076	P	PPL	HU		14				14214		223	Europe/Budapest	2012-01-18
+1269570	Jaggayyapeta	Jaggayyapeta	Jaggayyapeta	16.8938	80.09807	P	PPL	IN		02				41180		56	Asia/Kolkata	2013-02-08
+2381291	’Ayoûn el ’Atroûs	'Ayoun el 'Atrous	'Ayoun el 'Atrous,Aioun el Atrouss,Ayoun El Atrous,Aïoun el Atrouss,’Ayoûn el ’Atroûs	16.6614	-9.6149	P	PPLA	MR		02				12635		235	Africa/Nouakchott	2013-08-04
+2817719	Velden	Velden	Velden	48.36632	12.25596	P	PPL	DE		02	092	09274	09274183	6488		480	Europe/Berlin	2013-02-19
+1863018	Hatsukaichi	Hatsukaichi	Hatsukaichi,Hatukaiti,hasseukaichi si,nian ri shi shi,廿日市市,하쓰카이치 시	34.35	132.33333	P	PPL	JP		11				77341		4	Asia/Tokyo	2012-01-19
+3394649	Mombaça	Mombaca	Maria Pereira	-5.74306	-39.6275	P	PPL	BR		06	2308500			17065		251	America/Fortaleza	2012-08-03
+4370201	Spring Ridge	Spring Ridge		39.40149	-77.35248	P	PPL	US		MD	021			5795	112	111	America/New_York	2011-05-14
+2814392	Waltershausen	Waltershausen	Val'terskhauzen,Valterskhauzen,Waltershausen,wa er te er si hao sen,Валтерсхаузен,Вальтерсхаузен,والترس‌هاوزن,瓦尔特尔斯豪森	50.89827	10.55791	P	PPL	DE		15				11445		330	Europe/Berlin	2012-09-06
+2953418	Bad Kösen	Bad Kosen	Bad Kezen,Bad Kosen,Bad Kösen,Bad-Kjozen,Cusne,Kosen,Kösen,Бад Кезен,Бад-Кёзен,バート・ケーゼン	51.13431	11.72203	P	PPL	DE		14				5522		118	Europe/Berlin	2012-09-06
+1273181	Depālpur	Depalpur	Depalpur,Depālpur	22.85176	75.54237	P	PPL	IN		35				16936		537	Asia/Kolkata	2012-11-08
+1270583	Gwalior	Gwalior	GWL,Gvalior,Gwalior,Гвалиор	26.22982	78.17337	P	PPL	IN		35				882458		220	Asia/Kolkata	2012-09-06
+3083749	Szczytna	Szczytna	Zhitna,Житна	50.41343	16.44743	P	PPL	PL		72	0208	020814		5234		457	Europe/Warsaw	2010-09-12
+298935	Torbalı	Torbali	Tepekoey,Tepeköy,Torbali,Torbaly,Torbalı,Торбалы	38.1519	27.36223	P	PPL	TR		35				50303		34	Europe/Istanbul	2012-01-18
+526815	Mikhaylovsk	Mikhaylovsk	Mikhajlovsk,Mikhalovskiy,Mikhaylovka,Mikhaylovsk,Mikhaylovskiy,Михайловск	56.43583	59.12	P	PPL	RU		71				10209		257	Asia/Yekaterinburg	2012-01-17
+751335	Bafra	Bafra	Bafra,Paura,Бафра	41.56778	35.90694	P	PPLA2	TR		55				92944		28	Europe/Istanbul	2012-01-18
+3433349	Jardín América	Jardin America		-27.04346	-55.22698	P	PPL	AR		14				24905		227	America/Argentina/Cordoba	2010-05-31
+3597993	Concepción Chiquirichapa	Concepcion Chiquirichapa	Concepcion,Concepcion Chiquirichapa,Concepción,Concepción Chiquirichapa	14.85	-91.61667	P	PPL	GT		13				8080		2666	America/Guatemala	2012-01-18
+787050	Pirot	Pirot	Pirot,pi luo te,piloteu,piroto,pyrwt,Пирот,Пірот,פירוט,پیروت,پیرۆت,ピロト,皮罗特,피로트	43.15306	22.58611	P	PPLA2	RS		SE	22	70939		40678		371	Europe/Belgrade	2012-04-17
+1721695	Cabayangan	Cabayangan	Cabayangan	7.40722	125.73306	P	PPL	PH		11	I7			16539		5	Asia/Manila	2012-02-01
+2619216	Jyllinge	Jyllinge	Jyllinge	55.75843	12.11227	P	PPL	DK		20	265			9981		18	Europe/Copenhagen	2012-01-17
+1184655	Alīpur	Alipur		29.38464	70.91157	P	PPL	PK		04				33601		104	Asia/Karachi	2006-01-17
+151599	Ngudu	Ngudu		-2.96667	33.33333	P	PPL	TZ		12				22658		1246	Africa/Dar_es_Salaam	2011-03-06
+1264523	Madukkūr	Madukkur	Madukkur,Madukkūr	10.48134	79.39681	P	PPL	IN		25				15631		22	Asia/Kolkata	2013-02-08
+934479	Grand Gaube	Grand Gaube	Grand Gaube,Grande Gaube	-20.00639	57.66083	P	PPL	MU		19				7156		10	Indian/Mauritius	2012-01-18
+1262403	Murud	Murud	Janjira,Marad,Murad,Murud	18.32817	72.9621	P	PPL	IN		16				12665		14	Asia/Kolkata	2013-02-08
+1275248	Borivli	Borivli	Borivali,Borivli	19.23496	72.85976	P	PPL	IN		16				609617		22	Asia/Kolkata	2013-02-08
+1488253	Zelenogorsk	Zelenogorsk	Barga,Krasnoyarsk-45,Ust'-Barga,Ust’-Barga,Zelenogorsk,Зеленогорск	56.1124	94.5985	P	PPL	RU		91				71354		167	Asia/Krasnoyarsk	2012-08-04
+3685823	Corozal	Corozal	CZU,Corozal	9.31505	-75.29283	P	PPLA2	CO		27				39800		158	America/Bogota	2013-08-17
+2432678	Faya-Largeau	Faya-Largeau	FYT,Faya,Faya-Largeau,Largeau	17.9257	19.10428	P	PPLA	TD		23				13400		242	Africa/Ndjamena	2013-05-08
+4292182	Francisville	Francisville		39.10506	-84.72439	P	PPL	US		KY	015			7944	248	248	America/New_York	2011-05-14
+1803791	Licheng	Licheng	Licheng,Licheng Jiedao,Tseng-ch'eng,Tseng-ch'eng-hsien,Tseng-ch’eng,Tseng-ch’eng-hsien,Tsengching,Tsengshing,Zengcheng,ceng cheng,li cheng,li cheng jie dao,曾城,荔城,荔城街道	23.29549	113.82465	P	PPLA3	CN		30				172775		24	Asia/Shanghai	2013-10-05
+5101848	Newton	Newton	N'juton,Njuton,nywtwn, nywjrsy,Њутон,Ньютон,نیوتون، نیوجرسی	41.05815	-74.75267	P	PPLA2	US		NJ	037			7997	196	198	America/New_York	2011-05-14
+1269592	Jagannāthpur	Jagannathpur		22.22172	85.63801	P	PPL	IN		38				7020		434	Asia/Kolkata	2012-11-08
+2904985	Heusweiler	Heusweiler	Heusweiler	49.35	6.93333	P	PPLA4	DE		09	00	10041	10041513	20006		235	Europe/Berlin	2011-07-31
+768216	Konstancin-Jeziorna	Konstancin-Jeziorna	KONSTANCIN-EZERNA,Konstanchin-Jezh'orna,Konstancin-Ez'orna,Konstancin-Ezjorna,Konstancin-Jeziorna,Konstancina-Jezjorna,Skolimow-Konstancin,Skolimów-Konstancin,kang si tan qin-ye jiao er na,КОНСТАНЦИН-ЕЗЕРНА,Констанцин-Єзьорна,Констанцин-Езёрна,Констанчин-Йежьорна,康斯坦欽-耶焦爾納	52.0938	21.11761	P	PPLA3	PL		78	1418	141802		16548		89	Europe/Warsaw	2010-10-31
+3069136	Odry	Odry	Odrau	49.66255	17.83084	P	PPL	CZ		00				7395		305	Europe/Prague	2013-12-12
+2747713	Schaijk	Schaijk	Schaaik,Schaik,Schayk	51.74583	5.63194	P	PPL	NL	NL	06	1685			6840		13	Europe/Amsterdam	2008-12-27
+3169093	Rodigo	Rodigo2	Rodigo,rodigo,ローディゴ	45.19958	10.62498	P	PPLA3	IT		09	MN	020051		5023		35	Europe/Rome	2012-02-15
+1861449	Isehara	Isehara	Isehara	35.39056	139.30778	P	PPL	JP		19				103401		49	Asia/Tokyo	2012-01-19
+1581364	Hà Đông	Ha Dong	Ha Dong,Hà Đông	20.97136	105.77876	P	PPLA2	VN		44				50877		13	Asia/Ho_Chi_Minh	2013-10-04
+2220849	Yoko	Yoko	Joko,Yoko	5.53333	12.31667	P	PPL	CM		11				5269		992	Africa/Douala	2012-01-16
+4503544	Penns Grove	Penns Grove		39.72956	-75.46797	P	PPL	US		NJ	033			5147	3	8	America/New_York	2011-05-14
+662285	Zărneşti	Zarnesti		45.3	26.86667	P	PPLA2	RO		11	50415			5459		245	Europe/Bucharest	2012-06-12
+5128549	New Rochelle	New Rochelle	N'ju-Roshel',N'ju-Roshell,New Rochelle,Nju Roshel,Nouvelle-Rochelle,Nueva Rochelle,nyulosyel,nyurosheru,nyw rashl, nywywrk,nyw rwtshyly, nywywrk,xin luo xie er,Њу Рошел,Нью-Рошелл,Нью-Рошель,نيو روتشيلي، نيويورك,نیو راشل، نیویورک,ニューロシェル,新羅謝爾,뉴로셸	40.91149	-73.78235	P	PPL	US		NY	119			77062	26	37	America/New_York	2011-05-14
+3021570	Déols	Deols	Cereale,Céréale,Deol',Deols,Déols,dai ao er,Деоль,代奥尔	46.82934	1.70428	P	PPL	FR		A3	36	362	36063	8635		149	Europe/Paris	2012-01-18
+3084415	Strzelce Opolskie	Strzelce Opolskie	Gross Strehlitz,Gross Strohlitz,Strehlitz,Strzelce,Strzelce Opolskie,Stshel'ce-Opol'ske,Стшельце-Опольске	50.5107	18.30056	P	PPLA2	PL		79	1611	161105		20241		236	Europe/Warsaw	2010-09-24
+1528182	Kara-Balta	Kara-Balta	Imeni Mikoyana,Kara-Balta,Kara-Balty,Karabalto,Karabaltö,Кара-Балта	42.81423	73.84813	P	PPLA2	KG		02				62796		789	Asia/Bishkek	2012-02-28
+2983393	Rivesaltes	Rivesaltes	Ribesaltes,Rivesaltes	42.76945	2.87239	P	PPL	FR		A9	66	662	66164	8836		29	Europe/Paris	2012-01-18
+3991148	Quila	Quila	Quila,Quilla	24.42395	-107.21977	P	PPL	MX		25				5603		44	America/Mazatlan	2012-08-04
+3472473	Alto Araguaia	Alto Araguaia	Santa Rita do Araguaia,Santa Rita do Araguaya	-17.31472	-53.21528	P	PPL	BR		14	5100300			8780		672	America/Cuiaba	2012-08-03
+2945474	Bramsche	Bramsche	Bramsche,Bramshe,bramshh,bu la mu she,Брамше,برامشه,布拉姆舍	52.40881	7.97288	P	PPL	DE		06				31394		62	Europe/Berlin	2012-08-04
+2797500	Glabbeek-Zuurbemde	Glabbeek-Zuurbemde	Glabbeek,Glabbeek-Suerbempde,Glabbeek-Zuurbemde	50.87348	4.94442	P	PPL	BE		VLG	VBR	24	24137	5070		50	Europe/Brussels	2012-01-18
+2624886	Aalborg	Aalborg	AAL,Aalborg,Alaborg,Alborg,Almpornk,Ol'borg,Olbor,Olborg,Olborga,Olborgas,albrg,albwrg,albwrgh,ao er bao,olboleu,olborgi,orubo,xx lb xr,Álaborg,Ålborg,Άλμποργκ,Олбор,Олборг,Ольборг,Օլբորգ,אולבורג,آلبرگ,آلبورغ,آلبورگ,ออลบอร์,ოლბორგი,オールボー,奥尔堡,올보르	57.048	9.9187	P	PPLA	DK		19	851			122219		10	Europe/Copenhagen	2010-07-09
+712930	Balaklava	Balaklava	Balaclava,Balaklava,Balaklavo,Balaklawa,Baliklava,Balıklava,Bałakława,Балаклава	44.51428	33.60013	P	PPLX	UA		20				20000		16	Europe/Simferopol	2012-01-18
+3653882	Naranjal	Naranjal		-2.67364	-79.6183	P	PPL	EC		10				32045		25	America/Guayaquil	2013-02-08
+2893837	Kalkar	Kalkar	Calkar,Kal'kar,Kalkar,kalkar,karuka,Калкар,Калькар,کالکار,カルカー	51.73907	6.29101	P	PPL	DE		07				13997		19	Europe/Berlin	2012-08-04
+3022242	Crozon	Crozon	Crozon,Kraozon,Kroazon	48.24643	-4.48993	P	PPL	FR		A2	29	292	29042	8123		82	Europe/Paris	2007-12-28
+2524882	Crosia	Crosia	Crosia,Crosta	39.5676	16.7728	P	PPLA3	IT		03	CS	078047		8671		213	Europe/Rome	2012-02-15
+738064	Yakuplu	Yakuplu	Tarakatya	40.98894	28.67582	P	PPL	TR		34				28811		74	Europe/Istanbul	2010-01-11
+2170139	Cowra	Cowra	CWT,Cowra	-33.83554	148.69662	P	PPL	AU		02	12350			6795		302	Australia/Sydney	2012-02-28
+2516896	Guareña	Guarena	Guarena,Guareña	38.85952	-6.09987	P	PPL	ES		57	BA	06094		7330		281	Europe/Madrid	2012-01-19
+2633397	Yeadon	Yeadon		53.86437	-1.68743	P	PPL	GB		ENG	H3			37379		165	Europe/London	2013-07-11
+1261186	North Guwāhāti	North Guwahati	North Gauhati,North Gauhāti,North Guwahati,North Guwāhāti	26.1975	91.7202	P	PPL	IN		03				17516		57	Asia/Kolkata	2012-10-06
+3530527	Coatepec Harinas	Coatepec Harinas	Coatepec,Harinas	18.89492	-99.72153	P	PPL	MX		15				7243		2446	America/Mexico_City	2007-02-18
+4126923	Pocahontas	Pocahontas		36.26146	-90.97123	P	PPLA2	US		AR	121			6608	92	95	America/Chicago	2011-05-14
+723747	Revúca	Revuca	Nagyroce,Nagyrőce,Revuca,Revúca,Ревуца	48.68346	20.11734	P	PPL	SK		01				13466		318	Europe/Bratislava	2012-01-18
+1163724	Taunsa	Taunsa	Taunsa	30.70484	70.65051	P	PPL	PK		04				44869		172	Asia/Karachi	2012-02-01
+2341641	Gassol	Gassol		8.53333	10.46667	P	PPL	NG		43				14326		121	Africa/Lagos	2013-05-18
+1130131	Qalāt	Qalat	Kalat,Kalat-i-Ghilzai,Kalāt-i-Ghilzai,Qalat,Qalāt,qlat,قلات	32.10575	66.90833	P	PPLA	AF		28				12191		1568	Asia/Kabul	2012-01-16
+5044290	Saint Anthony	Saint Anthony		45.02052	-93.218	P	PPL	US		MN	053			8226	281	281	America/Chicago	2011-05-14
+2647451	Harpenden	Harpenden		51.81684	-0.35706	P	PPL	GB		ENG	F8	6615330		28966		107	Europe/London	2010-05-24
+533541	Lukhovka	Lukhovka	Lukhovka,Луховка	54.14844	45.25728	P	PPL	RU		46				8892		139	Europe/Moscow	2012-01-17
+2864005	Neustrelitz	Neustrelitz	Neistrelica,Neištrēlica,Neustrelitz,Nieg Strelitz,Nojshtrelic,Nojshtrelice,Nojstrelic,Nojštrelic,Stadt Neustrelitz,nuo yi si te lei li ci,Нойштрелиц,Нойштрелице,Нојштрелиц,نوی‌اشترلیتز,诺伊斯特雷利茨	53.3613	13.07292	P	PPL	DE		12				22291		71	Europe/Berlin	2012-07-04
+3168239	San Giovanni in Persiceto	San Giovanni in Persiceto	Persiceto,San Giovanni in Persiceto	44.63997	11.18411	P	PPLA3	IT		05	BO	037053		24007		21	Europe/Rome	2012-02-15
+5371261	Maywood	Maywood		33.98668	-118.18535	P	PPL	US		CA	037			27395	46	49	America/Los_Angeles	2011-05-14
+704422	Krasnoarmiys’k	Krasnoarmiys'k	Grishino,Krasnoarmejsk,Krasnoarmeysk,Krasnoarmeyskoye,Krasnoarmijs'k,Krasnoarmiys'k,Krasnoarmiys’k,Krassnoarmeiskoje,Красноармейск,Красноармійськ	48.28198	37.17585	P	PPL	UA		05				68263		199	Europe/Kiev	2013-11-23
+1683949	Taligaman	Taligaman		8.90444	125.65583	P	PPL	PH		00	A8			7430		199	Asia/Manila	2010-08-14
+3095413	Koluszki	Koluszki	Koljushki,Koluski,Koluszki,Koluški,ke lu shen ji,Колюшки,Колюшкі,科卢什基	51.73872	19.81994	P	PPLA3	PL		74	1006	100607		13343		210	Europe/Warsaw	2010-10-15
+3187047	Vukovar	Vukovar	Cornacum,Gorad Vukavar,Neo-Vukovar,Novi Vukovar,Ovukovar,Stari Vukovar,Ujvukovar,Valko,Valkovar,Valkó,Valkóvár,Vetus-Vukovar,Vukovar,Vukovaras,Vukovari,Vukovár,Wukowar,bukobaleu,fwkwfar,vukovu~aru,wu ke wa er,wwkwar,wwqwbr,Óvukovár,Újvukovár,Вуковар,Горад Вукавар,ווקובר,فوكوفار,ووکوار,ڤوکۆڤار,ヴコヴァル,武科瓦尔,부코바르	45.34333	18.99972	P	PPLA	HR		18				29584		103	Europe/Zagreb	2012-02-28
+3164241	Villafranca di Verona	Villafranca di Verona	Villafranca di Verona,ヴィッラフランカ・ディ・ヴェローナ	45.35238	10.84019	P	PPLA3	IT		20	VR	023096		29353		51	Europe/Rome	2012-02-15
+2754652	Heerlen	Heerlen	Coriovalo,Heele,Heerlen,Heële,Kheerlen,Хеерлен	50.88365	5.98154	P	PPL	NL		05	0917			93084		114	Europe/Amsterdam	2008-12-22
+3577887	Kingstown	Kingstown	Kin'nkstaoun,Kingstaun,Kingstaunas,Kingstown,SVD,kingseutaun,kingusutaun,kynghstawn,Κινγκστάουν,Кингстаун,קינגסטאון,كينغستاون,ኪንግስታውን,キングスタウン,킹스타운	13.15872	-61.22475	P	PPLC	VC		04				24518		14	America/St_Vincent	2010-05-30
+4612862	Chattanooga	Chattanooga	CHA,Chattanooga,Chattanuga,chatanuga,Чаттануга,チャタヌーガ	35.04563	-85.30968	P	PPLA2	US		TN	065			167674	206	208	America/New_York	2011-05-14
+2671392	Strängnäs	Strangnas	Strangnass,Strängnäss	59.37741	17.03119	P	PPLA2	SE		18	0486			12555		14	Europe/Stockholm	2011-12-20
+751949	Ardeşen	Ardesen	ARDESHEN,Ardasen,Ardaşen,Ardesen,Ardeşen,Ardisin,Ardişin,АРДЕШЕН	41.19111	40.9875	P	PPLA2	TR		53				67965		12	Europe/Istanbul	2012-01-18
+4165565	Naples	Naples	APF,Neapol',Nejpls,Nejplz,Nejpuls,na bu lei si,nyblz, flwryda,nyplz, flwryda,Неаполь,Нейплз,Нейплс,Нейпълс,Нејплс,نيبلز، فلوريدا,نیپلز، فلوریدا,那不勒斯	26.14204	-81.79481	P	PPLA2	US		FL	021			19537	1	7	America/New_York	2011-05-14
+1262891	Mohgaon	Mohgaon	Mohgaon	21.63947	78.73616	P	PPL	IN		35				10446		366	Asia/Kolkata	2012-11-08
+4608408	Brentwood	Brentwood	brntwwd, tnsy,burentouddo,برنتوود، تنسی,ブレントウッド	36.03312	-86.78278	P	PPL	US		TN	187			37060	227	231	America/Chicago	2011-05-14
+3449933	Santana do Paraíso	Santana do Paraiso	Santana-du-Paraiso,Сантана-ду-Параисо	-19.36361	-42.56861	P	PPL	BR		15	3158953			25515		566	America/Sao_Paulo	2012-08-03
+3064358	Tanvald	Tanvald	Tannwald	50.73735	15.30585	P	PPL	CZ		83	0512			6921		479	Europe/Prague	2013-01-11
+2651214	Diss	Diss	Diss,Diss i England	52.37675	1.1091	P	PPL	GB		ENG	I9	33UH		7610		31	Europe/London	2010-08-03
+3164270	Villa d'Almè	Villa d'Alme	Ela,Villa d'Alme,Villa d'Almè,Éla	45.74968	9.61445	P	PPLA3	IT		09	BG	016239		6617		299	Europe/Rome	2012-02-15
+677458	Gheorgheni	Gheorgheni	Gheorghem,Gheorgheni,Gheorghieni,Gyergoszentmiklos,Gyergyo,Gyergyoszentmiklos,Gyergyószentmiklós,Gyergòszentmiklòs	46.72292	25.60055	P	PPLA2	RO		20	83561			19777		816	Europe/Bucharest	2012-06-12
+5253219	Fitchburg	Fitchburg		42.96083	-89.46984	P	PPL	US		WI	025			25260	310	310	America/Chicago	2011-05-14
+3402050	Cocal	Cocal		-3.47194	-41.5575	P	PPL	BR		20	2202703			12097		129	America/Fortaleza	2012-08-03
+1270818	Gudāri	Gudari	Gudari,Gudāri	19.34836	83.78095	P	PPL	IN		21				6895		130	Asia/Kolkata	2013-02-08
+3106868	Valdemoro	Valdemoro	Val'demoro,Valdemoro,Vallis Mauri,ba er de mo luo,Валдеморо,Вальдеморо,巴尔德莫罗	40.19081	-3.67887	P	PPLA3	ES		29	M	28161		62750		607	Europe/Madrid	2012-03-04
+1841976	Kurye	Kurye	Kurye,Kyurei,Kyūrei,gulye,gulyegun,구례,구례군	35.20944	127.46444	P	PPL	KR		16				30000		46	Asia/Seoul	2012-01-18
+2110506	Yokotemachi	Yokotemachi	Jokote,Yokote,Yokotemachi,heng shou ding,横手町	39.31691	140.55034	P	PPL	JP		02				39178		61	Asia/Tokyo	2013-07-06
+1360491	Tando Ghulām Ali	Tando Ghulam Ali		25.13111	68.86759	P	PPL	PK		05				16299		15	Asia/Karachi	2011-05-08
+3446038	Trindade	Trindade		-16.64944	-49.48889	P	PPL	BR		29	5221403			97521		768	America/Sao_Paulo	2012-08-03
+3170191	Pontremoli	Pontremoli	Pontremoli,pontoremori,ポントレーモリ	44.37515	9.87888	P	PPLA3	IT		16	MS	045014		8252		245	Europe/Rome	2012-02-15
+1182775	Bhān	Bhan		26.55831	67.72139	P	PPL	PK		05				16961		40	Asia/Karachi	2011-05-07
+3062111	Zábřeh	Zabreh	Azbreh,Hohenstadt,Zebreh	49.8826	16.87223	P	PPL	CZ		84				14360		304	Europe/Prague	2006-11-25
+730013	Kozloduy	Kozloduy	Koslodui,Kozlodui,Kozloduj,Kozloduy,Kozloudoui,Kozludui,kozloduj,козлодуй	43.78333	23.73333	P	PPL	BG		64	VRC20			14717		26	Europe/Sofia	2012-01-18
+2112527	Iwanuma	Iwanuma	Iwanuma	38.10472	140.85944	P	PPL	JP		24				42411		5	Asia/Tokyo	2012-01-19
+2708016	Handen	Handen		59.16809	18.13796	P	PPLA2	SE		26	0136			11524		66	Europe/Stockholm	2011-12-20
+2834240	Schwetzingen	Schwetzingen	Schwetzingen,Shvecingen,Shvetcingen,shi wei qing gen,shuvu~etsu~ingen,shwtsyngn,Шветцинген,Швецинген,شوتسینگن,シュヴェツィンゲン,施韦青根	49.38217	8.5823	P	PPL	DE		01	082	08226	08226084	22593		101	Europe/Berlin	2013-02-16
+124193	Meybod	Meybod	Maibud,Meybod,mibud,mybd,ميبد,مِيبُد	32.25014	54.01658	P	PPL	IR		40				51874		1071	Asia/Tehran	2012-01-16
+2658277	Uetendorf	Uetendorf	Uetendorf,Utendorf,Ütendorf	46.77392	7.57251	P	PPL	CH		BE	247	944		5654		557	Europe/Zurich	2013-02-28
+2111943	Miharu	Miharu	Miharu	37.43333	140.48333	P	PPL	JP		08				19708		352	Asia/Tokyo	2012-01-19
+711350	Bucha	Bucha	Bucha,Bychansk,Dachi Bucha,Буча	50.54345	30.21201	P	PPL	UA		13				42279		135	Europe/Kiev	2013-04-04
+3190865	Sinj	Sinj	Signo,Sinj,seni,セーニ	43.70361	16.63944	P	PPL	HR		15				11524		322	Europe/Zagreb	2012-01-19
+4986994	Brighton	Brighton	Brajton,Брайтон	42.52948	-83.78022	P	PPL	US		MI	093			7444	282	283	America/Detroit	2011-05-14
+2854653	Petershagen	Petershagen		52.52078	13.78748	P	PPL	DE		11				12931		57	Europe/Berlin	2012-08-04
+3024421	Cogolin	Cogolin	Cogolin	43.25221	6.53002	P	PPL	FR		B8	83	831	83042	9838		33	Europe/Paris	2012-01-18
+1690119	San Enrique	San Enrique	San Enrique	10.4161	122.8504	P	PPLA3	PH		06	H3	1690121		9818		8	Asia/Manila	2011-07-31
+3542167	Río Cauto	Rio Cauto	Rio Cauto,Río Cauto	20.56284	-76.92122	P	PPL	CU		09				23737		12	America/Havana	2013-08-06
+3711668	David	David	Ciudad de David,DAV,David,Dehvid,Дэвид	8.42729	-82.43085	P	PPLA	PA		02				82859		47	America/Panama	2010-05-11
+2562545	Sannat	Sannat	Is-Sannat,Sannat	36.02444	14.24278	P	PPLA	MT		54				1681		119	Europe/Malta	2012-07-04
+3832923	Victorica	Victorica	Victorica	-36.21505	-65.43586	P	PPL	AR		11				6565		314	America/Argentina/Salta	2012-02-02
+3598968	Casillas	Casillas	Casillas	14.42222	-90.24417	P	PPL	GT		18				8970		1080	America/Guatemala	2012-01-18
+1682196	Tiglauigan	Tiglauigan	Tiglauigan,Tiglawigan	10.9527	123.3575	P	PPL	PH		06	H3			6848		8	Asia/Manila	2012-06-05
+3466708	Castilho	Castilho	Alfredo Castilho	-20.87222	-51.4875	P	PPL	BR		27	3511003			11419		382	America/Sao_Paulo	2012-08-03
+653180	Kerimäki	Kerimaeki	Kerimaeki,Kerimjaki,Kerimäki,Керимяки	61.91667	29.28333	P	PPL	FI		14	10	740		5841		92	Europe/Helsinki	2013-01-03
+5814047	Tulalip	Tulalip		48.06843	-122.29181	P	PPL	US		WA	061			9246	30	33	America/Los_Angeles	2011-06-29
+481350	Trubchevsk	Trubchevsk	Trubchevsk,Trubchëvsk,Trubtschewsk,Trubtsjevsk,Трубчевск	52.5798	33.7644	P	PPL	RU		10				16100		177	Europe/Moscow	2012-01-17

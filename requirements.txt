@@ -1,0 +1,10 @@
+# Don't support newer SQLAlchemy until GeoAlchemy2 fixes this:
+
+SQLAlchemy>=0.8
+GeoAlchemy2>=0.2.2
+requests>=2.0
+cdecimal>=2.3
+psycopg2>=2.5
+
+# NOTE: Not py3.3 compatible, use fixed release in setup.py dependency_links
+# progressbar==2.3

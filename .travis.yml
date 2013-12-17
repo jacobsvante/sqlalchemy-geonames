@@ -1,0 +1,60 @@
+language: python
+
+python:
+  - 2.7
+  - 3.3
+
+notifications:
+  email:
+    on_failure: change
+
+services:
+  - postgresql
+
+env:
+  - POSTGIS_VERSION=2
+
+install:
+  # Add PPA for geos 3.3.x
+  - sudo apt-add-repository -y ppa:sharpie/for-science
+
+  # Add PPA for PostGIS 2.x
+  - sudo apt-add-repository -y ppa:sharpie/postgis-nightly
+  - sudo apt-get update
+
+  # Install PostGIS
+  - sudo apt-get install postgresql-9.1-postgis -q
+
+  # Install flake8 style checker and the coverage module
+  - pip install flake8 coverage
+
+before_script:
+  # Create database user "sqla_geonames"
+  - psql -c "CREATE ROLE sqla_geonames PASSWORD 'sqla_geonames' SUPERUSER CREATEDB CREATEROLE INHERIT LOGIN;" -U postgres
+
+  # Create database "sqla_geonames"
+  - psql -c 'CREATE DATABASE sqla_geonames;' -U postgres
+
+  # Create schema "sqla_geonames" into database "sqla_geonames"
+  - psql -d sqla_geonames -c 'CREATE SCHEMA sqla_geonames;' -U postgres
+
+  # Grant CREATE permission on database "sqla_geonames" to role "sqla_geonames"
+  - psql -c 'GRANT CREATE ON DATABASE sqla_geonames TO "sqla_geonames";' -U postgres
+
+  # Grant USAGE and CREATE permission on schema "sqla_geonames" to role "sqla_geonames"
+  - psql -d sqla_geonames -c 'GRANT USAGE,CREATE ON SCHEMA sqla_geonames TO "sqla_geonames";' -U postgres
+
+  # Add PostGIS extension to "sqla_geonames" database
+  - psql -d sqla_geonames -U postgres -c "CREATE EXTENSION postgis;"
+
+script:
+  # Run the library through flake8
+  - flake8 sqlalchemy_geonames
+
+  # Run the unit test suite
+  - python setup.py nosetests --verbosity=2 --with-coverage
+
+after_script:
+  # Report coverage results to coveralls.io
+  - pip install coveralls
+  - coveralls

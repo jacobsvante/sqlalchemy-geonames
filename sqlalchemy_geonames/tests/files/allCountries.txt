@@ -1,0 +1,1000 @@
+8225640	Qixing	Qixing	Qixing,qi xing,七星	32.89201	118.60084	P	PPL	CN		04				0		42	Asia/Shanghai	2012-04-06
+7526151	Zhengfang	Zhengfang	Zhengfang,zheng fang,郑坊	25.8836	116.33976	P	PPL	CN		07				0		362	Asia/Shanghai	2012-01-21
+5617566	04S45E03CCC_01 Well	04S45E03CCC_01 Well		45.51028	-106.17334	H	WLL	US		MT	075			0	921	922	America/Denver	2006-01-15
+7199789	Fern Creek Elementary School	Fern Creek Elementary School		38.15567	-85.595	S	SCH	US		KY	111			0	217	220	America/Kentucky/Louisville	2010-02-05
+8120243	Brundidge Volunteer Fire Department	Brundidge Volunteer Fire Department		31.72045	-85.8148	S	BLDG	US		AL	109			0	144	148	America/Chicago	2011-12-13
+5360284	Jahant Slough	Jahant Slough		38.20825	-121.31467	H	STM	US		CA	077			0	8	9	America/Los_Angeles	2006-01-15
+3820371	Plan de La Mina	Plan de La Mina		13.78	-87.22861	P	PPL	HN		08				0		941	America/Tegucigalpa	2004-07-09
+2124953	Katinem	Katinem	Katinem,Катинем	60.26667	166.96667	H	STM	RU		92				0		-9999	Asia/Anadyr	2012-01-17
+5958753	Fundy Hill	Fundy Hill		47.3166	-53.91482	T	HLL	CA		05				0		12	America/St_Johns	2006-01-18
+6685115	Tŏkhŭng-ni	Tokhung-ni	Tokhung-ni,Tŏkhŭng-ni,deogheungli,덕흥리	34.52376	127.45313	L	LCTY	KR		16				0		75	Asia/Seoul	2012-01-20
+2101563	Zizirae Island	Zizirae Island		-8.28437	157.40195	T	ISL	SB		00				0		0	Pacific/Guadalcanal	1994-01-05
+6928200	Qādir Juwāmīr	Qadir Juwamir	Qadir Juwamir,Qadir Juwayid,Qādir Juwayīd,Qādir Juwāmīr,qadr jwamyr,qadr jwyd,قادر جوامير,قادر جويد	34.10179	45.19823	P	PPL	IQ		10				0		126	Asia/Baghdad	2012-04-06
+3888860	Goyonechea	Goyonechea		-25.92506	-70.33567	L	LCTY	CL		05				0		909	America/Santiago	2013-01-11
+4186129	Cane Creek	Cane Creek		30.92466	-82.47819	H	STM	US		GA	299			0	36	41	America/New_York	2010-02-15
+3052046	Gyömöre Vasútállomás	Gyomore Vasutallomas	Gyomore Allomas,Gyomore Vasutallomas,Gyömöre Vasútállomás,Gyömöre Állomás	47.48681	17.5598	S	RSTN	HU		09				0		129	Europe/Budapest	2012-01-18
+1391295	Chokel Bānda	Chokel Banda	Chokel Banda,Chokel Bānda	35.36057	72.65308	P	PPL	PK		03				0		3174	Asia/Karachi	2012-01-19
+8113053	Knot 2 Shabby Airport	Knot 2 Shabby Airport		31.93595	-99.89637	S	AIRP	US		TX	399			0	555	555	America/Chicago	2013-03-08
+1573847	Na Duong	Na Duong		22.41667	104.78333	P	PPL	VN		50				0		138	Asia/Ho_Chi_Minh	2012-06-05
+4850719	Township of Cedar Falls	Township of Cedar Falls	Cedar Falls Township	42.50995	-92.52378	A	ADMD	US		IA	013			0	300	299	America/Chicago	2013-03-07
+5862263	Flat Lake	Flat Lake		66.30035	-148.67411	H	LK	US		AK	290			0	99	99	America/Anchorage	2011-12-12
+7122508	Rose Hill Cemetery (historical)	Rose Hill Cemetery (historical)		48.23806	-96.71667	S	CMTY	US		MN	089			0	269	266	America/Chicago	2010-01-31
+6926836	Jicaicun	Jicaicun	Jicaicun,ji cai cun,吉才村	23.17393	112.37009	P	PPL	CN		30				0		21	Asia/Shanghai	2012-01-20
+3478495	Ribeirão do Bugre	Ribeirao do Bugre	Ribeirao do Bugre,Ribeirão do Bugre	-26.21298	-49.82402	H	STM	BR		26				0		796	America/Sao_Paulo	2012-01-19
+3592071	Ojo de Agua	Ojo de Agua		14.33333	-90	P	PPL	GT		11				0		1143	America/Guatemala	1993-12-23
+6873797	Longxi	Longxi	Longxi,long xi,龙溪	30.14788	105.20684	P	PPL	CN		32				0		324	Asia/Chongqing	2012-01-20
+6847211	Susnyag	Susnyag	Susnjag,Susnyach,Susnyag,Сусняг	53.58032	33.48466	P	PPL	RU		10				0		199	Europe/Moscow	2012-01-20
+796724	Nizhniy	Nizhniy		48.83056	41.79028	P	PPL	RU		61				0		88	Europe/Moscow	1996-02-08
+3173842	Punta Martina	Punta Martina		42.8597	10.76853	T	PT	IT		16				0		4	Europe/Rome	2008-07-01
+5449706	10080 Water Well	10080 Water Well		32.26175	-107.63975	H	WLL	US		NM	029			0	1292	1297	America/Denver	2006-01-15
+3253767	Botnaneset	Botnaneset		60.29889	5.21028	T	PT	NO		07	1201			0		41	Europe/Oslo	2010-10-15
+5396579	Smith Creek	Smith Creek		37.91937	-120.87021	H	STM	US		CA	099			0	47	48	America/Los_Angeles	2010-02-14
+6567997	Pasir Seureuh	Pasir Seureuh	Pasir Seureuh	-6.61722	107.80417	T	HLL	ID		30				0	180	193	Asia/Jakarta	2012-01-20
+2367029	Djabiré	Djabire		10.65	0.15	P	PPL	TG		00				0		250	Africa/Lome	1993-12-23
+6917116	‘Abd Allāh al Ḩammār	`Abd Allah al Hammar	`Abd Allah al Hammar,عبد الله الحمار,‘Abd Allāh al Ḩammār	34.46828	44.27638	P	PPL	IQ		18				0		75	Asia/Baghdad	2012-02-29
+2778736	Geipersdorf	Geipersdorf		46.83778	15.22111	P	PPL	AT		06	603	60302		0		370	Europe/Vienna	2013-07-28
+4375620	Bald Knob Mountain	Bald Knob Mountain		37.112	-92.25044	T	MT	US		MO	229			0	434	432	America/Chicago	2006-01-15
+6252909	Giriharjo	Giriharjo		-7.45667	110.54889	P	PPL	ID		07				0		679	Asia/Jakarta	2006-03-06
+6756909	Māhnīān	Mahnian	Mahian,Mahnian,Mahniyan,Mahnīyan,Manian,Maniyan,Maniyau,Manīyāu,Māhnīān,Māhīān,Mānīyān,Mānīān,mahnyan,mahyan,manyan,مانيان,مانيّان,ماهنیان,ماهيان,مَهنيَّن	35.5024	49.0659	P	PPL	IR		09				0		2053	Asia/Tehran	2012-01-20
+5916352	Cape Ursula	Cape Ursula		77.17257	-95.21271	T	CAPE	CA		14				0		-9999	America/Rankin_Inlet	2006-01-18
+1112774	Cheshmeh Zard	Cheshmeh Zard	Cheshmeh Zard,chshmh zrd,چشمه زرد	35.89791	60.92994	P	PPLQ	IR		42				0		1131	Asia/Tehran	2012-01-16
+5108083	Bass Lake	Bass Lake		43.48757	-75.94214	H	LK	US		NY	075			0	196	199	America/New_York	2006-01-15
+7196651	Warren Mall	Warren Mall		32.8812	-117.2353	L	PRK	US		CA	073			0	111	115	America/Los_Angeles	2010-02-05
+4891802	Farnsworth Elementary School	Farnsworth Elementary School		41.98031	-87.76645	S	SCH	US		IL	031			0	187	190	America/Chicago	2006-01-15
+7206391	Ralph Korte Stadium Bob Guelker Soccer Field	Ralph Korte Stadium Bob Guelker Soccer Field		38.7862	-90.0114	L	PRK	US		IL	119			0	138	136	America/Chicago	2010-02-05
+6056767	Little North Magnetawan River	Little North Magnetawan River		45.7001	-79.29964	H	STM	CA		08				0		330	America/Toronto	2006-01-18
+3134680	Tennvatnet	Tennvatnet		67.59458	15.4927	H	LK	NO		09	1845			0		164	Europe/Oslo	2013-07-04
+701538	Maydan-Bobrik	Maydan-Bobrik		49.44082	28.22189	P	PPL	UA		23				0		276	Europe/Kiev	2011-09-11
+1166977	Razāband	Razaband		26.8938	63.4054	T	RDGE	PK		02				0		1012	Asia/Karachi	2011-06-05
+5158862	Ira Cemetery	Ira Cemetery		41.18922	-81.59179	S	CMTY	US		OH	153			0	242	241	America/New_York	2010-09-05
+22148	Kūh-e Āleh	Kuh-e Aleh	Kuh-e Aleh,Kūh-e Āleh,kwh alh,كوه آله	34.33297	50.48835	T	MT	IR		39				0	1990	1972	Asia/Tehran	2012-01-16
+124296	Shūrehzār-e Mehragān	Shurehzar-e Mehragan	Shurehzar-e Mehragan,Shūrehzār-e Mehragān,shwrh zar mhrgan,شوره زار مهرگان	26.67989	54.7356	H	MRSHN	IR		11				0		4	Asia/Tehran	2013-02-07
+3160664	Borgen	Borgen		59.26522	11.15843	P	PPLL	NO		13	0105			0		70	Europe/Oslo	2013-07-13
+8207481	Zabornyye Gumna	Zabornyye Gumna	Zabornye Gumna,Zabornyye Gumna,Zabornyye Gumny,Заборные Гумна	55.6279	27.0848	P	PPL	BY		07				0		138	Europe/Minsk	2012-02-29
+1451331	Dê Ghunḏêy Wunē Māndêh	De Ghundey Wune Mandeh	De Ghundey Wone Mandeh,De Ghundey Woni Mandah,De Ghundey Wune Mandeh,De Ghūnḏey Wonī Māndah,Dê Ghunḏêy Wunē Māndêh,Gundayvune-Mandekh,د غنډۍ ونې مانده,Ḏe Ghundey Wonē Manḏeh	32.70169	64.55254	H	STMI	AF		10				0		1377	Asia/Kabul	2012-01-19
+6528685	Best Western Mckenzie	BEST WESTERN MCKENZIE		36.1303	-88.5077	S	HTL	US		TN	017			0		149	America/Chicago	2007-04-14
+5635422	35N05W22CB__01 Well	35N05W22CB__01 Well		48.77415	-112.25144	H	WLL	US		MT	035			0	1257	1253	America/Denver	2010-02-19
+6243902	Lake Timara	Lake Timara		-41.52828	173.81018	H	LK	NZ		F4				0		78	Pacific/Auckland	2006-03-04
+4801120	Calvary Tabernacle	Calvary Tabernacle		39.47703	-80.13452	S	CH	US		WV	049			0	311	314	America/New_York	2007-02-14
+6934944	Vorder Busenhorn	Vorder Busenhorn		46.52572	7.86474	T	PK	CH		BE	250	584		0	2206	2165	Europe/Zurich	2012-04-21
+7217468	Crabcake	Crabcake		27.9785	-82.4762	P	PPL	US		FL	057			0	3	11	America/New_York	2010-02-06
+2232361	Ébang	Ebang		4.08333	10.03333	H	STM	CM		05				0		16	Africa/Douala	2011-03-06
+8053521	Al Janāb	Al Janab	Al Janab,Al Janāb,aljnab,الجناب	14.55321	45.28879	P	PPL	YE		14				3		2085	Asia/Aden	2012-01-21
+1469231	Chahārbāgh	Chaharbagh	Caharbagh,Chaharbagh,Chahārbāgh,Chakharbag,chharbagh,Čahārbāgh,چهارباغ	35.60023	68.57796	P	PPL	AF		03				0		911	Asia/Kabul	2012-01-20
+5643315	Camas Creek	Camas Creek		46.7055	-111.1919	H	STM	US		MT	059			0	1396	1406	America/Denver	2006-01-15
+4877749	Stringtown	Stringtown		40.97888	-94.55774	P	PPL	US		IA	003			0	395	389	America/Chicago	2006-01-15
+8420469	Bondata	Bondata	Bondata	-8.3551	124.8779	P	PPL	ID		18				0		131	Asia/Makassar	2012-11-10
+6058064	Lobe Lake	Lobe Lake		57.41222	-110.37389	H	LK	CA		01				0		497	America/Edmonton	2013-07-22
+2741955	Cabeço de Bugalheira	Cabeco de Bugalheira		41.8	-6.86667	T	MT	PT		05				0		1033	Europe/Lisbon	1994-01-08
+103422	Qabr Bandar	Qabr Bandar	Qabr Bandar	30.25	43.63333	S	RUIN	IQ		17				0		405	Asia/Baghdad	2012-01-16
+748541	Degirmen	Degirmen	Degirmen,Degirmendere,Değirmendere	40.98333	39.75	P	PPL	TR		61				0		20	Europe/Istanbul	2012-01-18
+7150943	The Iron Bridge	The Iron Bridge		38.36947	-83.79416	S	BDG	US		KY	069			0	219	230	America/New_York	2010-02-01
+6969130	Karahan	Karahan	Karahan	38.94174	43.67462	P	PPL	TR		65				0		1648	Europe/Istanbul	2012-01-20
+8084946	Chatham Post Office	Chatham Post Office		42.36241	-73.59501	S	PO	US		NY	021			0	145	142	America/New_York	2011-12-12
+4499475	Wilson Shepard Dam	Wilson Shepard Dam		35.00342	-83.69489	S	DAM	US		NC	043			0	697	705	America/New_York	2010-02-16
+5169371	Saint James School (historical)	Saint James School (historical)		41.48588	-81.81736	S	SCH	US		OH	035			0	205	209	America/New_York	2007-02-14
+7175016	Town of Erin Springs	Town of Erin Springs		34.8114	-97.60544	A	ADMD	US		OK	049			87	299	309	America/Chicago	2011-05-14
+1161426	Darreh	Darreh	Darra,Darreh,drh,درّه	34.28218	60.35403	S	FRM	IR		42				0		749	Asia/Tehran	2012-01-17
+5956651	Four Mile Pond	Four Mile Pond		43.25012	-79.11627	H	PND	CA		08				0		83	America/Toronto	2006-01-18
+828419	Vyryp	Vyryp	Vyryp,Вырып	61.35756	52.49021	P	PPL	RU		34				0		138	Europe/Moscow	2012-01-19
+7177440	Christian Reformed Church	Christian Reformed Church		41.94861	-85.65111	S	CH	US		MI	149			0	253	252	America/Detroit	2010-02-03
+433509	‘Izbat al Jafāniwah	`Izbat al Jafaniwah	`Izbat al Jafaniwah,`Izbat al Jafanwah,عزبة الجفانوة,‘Izbat al Jafāniwah,‘Izbat al Jafānwah	30.71549	31.67693	P	PPL	EG		14				0		11	Africa/Cairo	2012-01-19
+5899440	Bidgood Pothole	Bidgood Pothole		48.16149	-79.87618	H	LK	CA		08	6166724			0		307	America/Toronto	2013-07-21
+1407327	Mundêy Kārēz Māndêh	Mundey Karez Mandeh	Mundaykarez-Mandekh,Mundey Karez Mandeh,Mundey Kariz Mandah,Mundey Kārīz Māndah,Mundêy Kārēz Māndêh,Munḏey Kāṟēz Mānḏeh,شيلۀ كريزٔٔٔ مندی,مندۍ کارېز مانده	31.80365	65.80814	H	STMI	AF		23				0		1064	Asia/Kabul	2012-01-19
+7475124	Saltuk	Saltuk		38.4811	41.25704	P	PPL	TR		21				0		1417	Europe/Istanbul	2010-08-08
+5711987	Azalea Lake	Azalea Lake		42.70292	-124.07281	H	LK	US		OR	011			0	546	554	America/Los_Angeles	2011-12-11
+5911015	Bull Creek	Bull Creek		45.9501	-67.71562	H	STM	CA		04				0		135	America/Moncton	2006-01-18
+4526729	Twin Elementary School	Twin Elementary School		39.28395	-83.15907	S	SCH	US		OH	141			0	214	213	America/New_York	2006-01-15
+5022382	County Ditch Number Five	County Ditch Number Five		43.94719	-93.83106	H	CNL	US		MN	013			0	311	308	America/Chicago	2006-01-15
+1748887	Sungai Rawu	Sungai Rawu	Sungai Rawoo,Sungai Rawu	1.71667	111.76667	H	STM	MY	MY	11				0		89	Asia/Kuching	2012-01-17
+1945668	Gunung Becomean	Gunung Becomean	Gunung Becomean,Monte Beco Mean	-8.73306	126.01917	T	MT	TL	TL	00				0		1076	Asia/Dili	2012-01-20
+4099180	Alder Creek	Alder Creek		35.82119	-91.86737	H	STM	US		AR	137			0	81	82	America/Chicago	2010-09-05
+456875	Pārtavas Ezers	Partavas Ezers		56.30901	27.64589	H	LK	LV		24				0		178	Europe/Riga	2010-12-04
+5428619	Little Alkali Creek	Little Alkali Creek		39.38692	-108.11924	H	STM	US		CO	045			0	1520	1524	America/Denver	2006-01-15
+2803742	Zühlen	Zuhlen		53.07484	12.81804	P	PPL	DE		11				0		71	Europe/Berlin	2012-07-04
+4866292	Marion Mobile Home Park	Marion Mobile Home Park		42.03333	-91.56962	P	PPL	US		IA	113			0	254	255	America/Chicago	2006-01-15
+7722445	Fortuna Volunteer Fire Department Campton Heights Station	Fortuna Volunteer Fire Department Campton Heights Station		40.57004	-124.1346	S	BLDG	US		CA	023			0	50	49	America/Los_Angeles	2011-03-12
+7700173	Sítio José Gogola	Sitio Jose Gogola	Sitio Jose Gogola,Sítio José Gogola	-25.93119	-49.93933	P	PPL	BR		18	4113205			0		800	America/Sao_Paulo	2012-08-03
+173878	Al Ghāşibīyah	Al Ghasibiyah	Ain Houssaine Rharbiye,Al Ghasibiyah,Al Ghāşibīyah,Aïn Houssaïne Rharbîyé,El Gasbieh,El Rhasbiye	34.85	36.86667	P	PPL	SY	SY	11				0		478	Asia/Damascus	2012-01-17
+4363503	Nathaniels Retreat	Nathaniels Retreat		38.17095	-75.34797	P	PPL	US		MD	047			0	12	12	America/New_York	2006-01-15
+7533828	Monroe Woodbury High School	Monroe Woodbury High School		41.3225	-74.13417	S	SCH	US		NY	071			0	190	196	America/New_York	2010-09-05
+6051601	Leech Lake	Leech Lake		46.16006	-81.55178	H	LK	CA		08	6158840			0		219	America/Toronto	2013-07-22
+4089039	Section	Section		34.70037	-87.47641	P	PPL	US		AL	033			0	176	176	America/Chicago	2010-02-14
+928303	Kawozya Peaks	Kawozya Peaks		-10.25	33.81667	T	PKS	MW		N	04			0		1761	Africa/Blantyre	2011-03-10
+6019710	Lac en Coeur	Lac en Coeur		48.33583	-73.58306	H	LK	CA		10	04			0		518	America/Montreal	2013-07-22
+856403	Urochishche Terbey	Urochishche Terbey		53.745	36.5125	L	AREA	RU		76				0		235	Europe/Moscow	2000-03-03
+3785534	Quebrada Arenal	Quebrada Arenal		10.74389	-68.475	H	STM	VE		11				0		48	America/Caracas	2002-05-06
+3176251	Gazzata	Gazzata	Gazzata,Gazzati	44.7	10.78333	P	PPL	IT	IT	05	RE	035037		0		37	Europe/Rome	2012-01-19
+6052779	Les Chenaux	Les Chenaux		46.50005	-72.41578	A	ADMD	CA		10	04			0		34	America/Montreal	2006-01-18
+2107347	Kondoma River	Kondoma River		-9.41667	159.6	H	STM	SB		00				0		46	Pacific/Guadalcanal	1994-01-05
+6129715	Ruisseau Benoît	Ruisseau Benoit		45.21819	-72.2247	H	STM	CA		10				0		207	America/Montreal	2006-01-18
+5376014	Mutton Canyon	Mutton Canyon		38.92212	-120.64104	T	VAL	US		CA	017			0	1156	1174	America/Los_Angeles	2006-01-15
+1968518	Salumbone	Salumbone	Salumbone	-1.0991	120.5618	P	PPL	ID		21				0		14	Asia/Makassar	2012-01-20
+2663303	Vessmanstorp	Vessmanstorp		56.06667	13.3	P	PPL	SE		27	1276			0		64	Europe/Stockholm	2011-10-30
+409100	Wādī Umm Nab‘ah	Wadi Umm Nab`ah	Wadi Umm Nab`ah,Wadi am Nab`ah,Wādī Umm Nab‘ah,Wādī am Nab‘ah	13.09722	44.46306	H	WAD	YE		24	2511			0		468	Asia/Aden	2012-01-19
+2460374	Banna	Banna		15.27802	-9.61771	P	PPL	ML		03				0		216	Africa/Bamako	2008-05-07
+5417884	Coon Creek	Coon Creek		37.43306	-107.79507	H	STM	US		CO	067			0	2034	2036	America/Denver	2006-01-15
+1596547	Nam Kat	Nam Kat		19.13333	100.55	H	STM	TH		41				0		639	Asia/Bangkok	1994-04-10
+1471923	Mullāyān	Mullayan	Molayan,Mollayan,Mollāyān,Molāyān,Mullayan,Mullāyān,mlayan,ملايان,ملایان	34.17172	69.72887	P	PPL	AF		17				0		2148	Asia/Kabul	2012-01-20
+3369513	Brak Fontein	Brak Fontein		-34.18748	19.91055	S	FRM	ZA		11	DC3	WC034		0		217	Africa/Johannesburg	2012-07-11
+7579459	Desa Wajak Kidul	Desa Wajak Kidul	Desa Wajak Kidul,Wajak Kidul	-8.109	111.9089	A	ADM4	ID		08				0		88	Asia/Jakarta	2012-01-21
+6199211	Malanggaten	Malanggaten		-7.48694	110.22583	P	PPL	ID		07				0		375	Asia/Jakarta	2006-01-03
+4426659	Fish Lake	Fish Lake		33.83182	-90.21426	H	LK	US		MS	135			0	38	42	America/Chicago	2011-12-11
+2553932	Bou Tayeb	Bou Tayeb		34.84273	-2.46708	P	PPL	MA		54				0		300	Africa/Casablanca	2005-04-12
+1504545	Karakul’	Karakul'	Karakul,Karakul',Karakul’,Каракуль	56.3175	74.0953	P	PPL	RU		54				0		101	Asia/Omsk	2012-01-17
+480726	Tsypnavolok	Tsypnavolok	Cypnavolok,Tsip-Navolok,Tsyp-Navalok,Tsypnavolok,Цыпнаволок	69.72876	33.08622	P	PPL	RU		49				0		3	Europe/Moscow	2012-01-17
+3721250	Marre Rocou	Marre Rocou		18.25	-74.01667	P	PPL	HT		12				0		972	America/Port-au-Prince	1993-10-14
+7479780	Mathurāpur	Mathurapur	Mathurapur,Mathurāpur	23.14819	89.3049	P	PPL	BD		82				0		12	Asia/Dhaka	2012-07-05
+7533049	Brześć Kujawski	Brzesc Kujawski		52.6045	18.9008	A	ADM3	PL		73	0418	041804		0		80	Europe/Warsaw	2010-09-04
+5638873	Bear Creek	Bear Creek		47.92779	-106.27919	H	STM	US		MT	055			0	686	682	America/Denver	2010-02-16
+4055338	Church of Christ	Church of Christ		31.3035	-86.47024	S	CH	US		AL	039			0	109	116	America/Chicago	2007-02-14
+4996689	Hoyt Lake	Hoyt Lake		43.55604	-85.8237	H	LK	US		MI	123			0	245	245	America/Detroit	2011-12-12
+6711644	Madara	Madara		13.51245	7.01874	P	PPL	NE		04				0		356	Africa/Niamey	2009-01-03
+7790368	Wat Siri Chai Nimit	Wat Siri Chai Nimit	Wat Siri Chai Nimit,wad sirichay nimitr,วัดศิริชัยนิมิตร	18.60197	98.8057	S	MSTY	TH		02				0		315	Asia/Bangkok	2012-01-21
+6319140	Marques de Souza	Marques De Souza		-29.27327	-52.1572	A	ADM2	BR		23	4312054			4068		380	America/Sao_Paulo	2011-04-21
+2886759	Kohlberg	Kohlberg		49.57382	11.54612	T	HLL	DE		02	095	09574	09574129	0	565	569	Europe/Berlin	2013-02-19
+7635619	Emāmzādeh Ḩoseyn	Emamzadeh Hoseyn	Emamzadeh Hoseyn,Emāmzādeh Ḩoseyn,amamzadh hsyn,امامزاده حسین	36.37968	51.78243	S	SHRN	IR		35				0		1527	Asia/Tehran	2012-02-02
+8372905	Ysyk-Köl	Ysyk-Kol	Issyk-Kul',Issyk-Kul’,Ysyk-Kol,Ysyk-Köl,Иссык-Куль	42.60087	78.15034	P	PPL	KG		07				0		1621	Asia/Bishkek	2012-08-06
+2737617	Ribeiro de Moadoira	Ribeiro de Moadoira		42.02783	-8.21674	H	STM	PT		20				0		823	Europe/Lisbon	2010-02-12
+3997472	Los Molinos	Los Molinos		27.31397	-108.88239	P	PPL	MX		26				0		197	America/Hermosillo	2012-07-04
+6328538	Saint Hubert Catholic School	Saint Hubert Catholic School		44.85472	-93.53139	S	SCH	US		MN	019			0	284	283	America/Chicago	2007-02-16
+3706558	Las Dos Bocas	Las Dos Bocas		7.78583	-81.35694	P	PPL	PA		10				0		45	America/Panama	1995-08-22
+4106698	Corning Post Office	Corning Post Office		36.40923	-90.58317	S	PO	US		AR	021			0	87	89	America/Chicago	2010-09-05
+3255639	Kuzmanovići	Kuzmanovici		44.85859	18.19093	P	PPL	BA		02				0		304	Europe/Sarajevo	2012-05-06
+1971344	Setasiun Kriyan	Setasiun Kriyan	Setasiun Krijan,Setasiun Kriyan	-7.41056	112.58556	S	RSTN	ID	ID	08				0		14	Asia/Jakarta	2012-01-20
+2929839	Eppers-Berg	Eppers-Berg		50.71753	10.09482	T	HLL	DE		15				0		525	Europe/Berlin	2012-09-06
+293622	Sde Moshe	Sde Moshe		31.61667	34.8	P	PPL	IL		01				0		136	Asia/Jerusalem	2011-04-17
+7418424	Kunis	Kunis		35.2086	76.13132	P	PPL	PK		07				0		2427	Asia/Karachi	2010-08-07
+4201869	Hutchinson Cemetery	Hutchinson Cemetery		32.85596	-85.08105	S	CMTY	US		GA	145			0	215	217	America/New_York	2010-02-15
+4291817	Flat Creek	Flat Creek		37.07898	-83.55269	H	STM	US		KY	051			0	270	275	America/New_York	2006-01-15
+2308035	Mibe	Mibe		2.02342	10.5571	P	PPL	GQ		00				0		459	Africa/Malabo	2011-04-19
+6981072	Changxuganma	Changxuganma	Changxuganma,zhang xu gan ma,长须干马	32.75444	99.01157	P	PPL	CN		32				0		3819	Asia/Chongqing	2012-01-20
+2758501	Boven-Haastrecht	Boven-Haastrecht		52.00917	4.79444	P	PPL	NL		11	0623			0		-2	Europe/Amsterdam	2007-06-03
+2762975	Untere Steinwenderalm	Untere Steinwenderalm		47.31667	13.76667	S	HUT	AT		06	612	61237		0		1151	Europe/Vienna	2013-07-28
+3981059	Arroyo Tres Trienta	Arroyo Tres Trienta		29.88333	-108	H	STM	MX		06				0		1724	America/Chihuahua	1994-01-04
+8552279	La Envidia	La Envidia	La Envidia	31.32917	-116.32742	P	PPL	MX		02				0		81	America/Santa_Isabel	2013-06-06
+5250242	Deadman Creek	Deadman Creek		45.0647	-88.66622	H	STM	US		WI	078			0	302	308	America/Chicago	2006-01-15
+7093624	Pustoshka	Pustoshka	Pustoshka,Пустошка	57.46054	28.96891	P	PPL	RU		60				0		77	Europe/Moscow	2012-01-21
+7027615	Nūnāri Shorān	Nunari Shoran		28.74527	67.44426	P	PPL	PK		02				0		96	Asia/Karachi	2011-05-09
+2776886	Hansen Kogel	Hansen Kogel		47.68333	14.93333	T	MT	AT		06	612	61251		0		718	Europe/Vienna	2013-07-28
+7642991	Dahaneh-ye Shīr Gasht	Dahaneh-ye Shir Gasht	Dahaneh-ye Shir Gasht,Dahaneh-ye Shīr Gasht,dhnh shyr gsht,دهنه شير گشت	33.95824	56.79144	L	AREA	IR		40				0		1079	Asia/Tehran	2012-01-21
+7694583	Capela de Santa Teresa	Capela de Santa Teresa	Capela de Santa Teresa	-25.9116	-49.25647	S	CH	BR		18	4127601			0		888	America/Sao_Paulo	2012-08-03
+2927021	Feuerleite	Feuerleite	Feuerleite,Feuerleithe	50.76829	13.42707	S	FRM	DE		13				0		519	Europe/Berlin	2012-06-05
+5863431	Grogg Creek	Grogg Creek		63.21944	-147.16528	H	STM	US		AK	170			0	1125	1158	America/Anchorage	2010-01-30
+6428640	Forléans	Forleans		47.48361	4.205	A	ADM4	FR		A1	21	213	21282	89		317	Europe/Paris	2012-05-10
+7804938	Khartanchha3	Khartanchha3		27.3287	86.8948	A	ADM5	NP		ER	13	13	130040	0		2320	Asia/Kathmandu	2012-02-08
+4379891	Cane Hollow	Cane Hollow		37.04061	-91.15374	T	VAL	US		MO	035			0	206	214	America/Chicago	2006-01-15
+5498396	Wimberly Ranch	Wimberly Ranch		32.22538	-105.66109	S		US		NM	035			0	1446	1447	America/Denver	2010-02-16
+3069623	Nová Ves	Nova Ves		49.46555	13.53639	P	PPL	CZ		87				0		498	Europe/Prague	2011-03-07
+7909527	Barun-Zerinka	Barun-Zerinka	Barun-Zerinka,Барун-Зеринка	50.9031	103.3377	H	STM	RU		11				0		1424	Asia/Irkutsk	2012-01-21
+1953671	Ban Ving-Tai	Ban Ving-Tai	Ban Ving-Tai	19.91495	101.92709	P	PPL	LA		17				0		986	Asia/Vientiane	2012-09-07
+5171507	Scott Corners	Scott Corners		40.07451	-82.60544	P	PPL	US		OH	089			0	304	302	America/New_York	2006-01-15
+7483031	Sākoa	Sakoa	Sakoa,Sākoa	24.58009	88.65396	P	PPL	BD		83				0		21	Asia/Dhaka	2013-02-10
+4976695	Robbins Brook	Robbins Brook		46.74531	-69.16977	H	STM	US		ME	003			0	283	286	America/New_York	2010-02-15
+6873953	Oukoulourou	Oukoulourou		14.519	-1.6598	V	SCRB	BF		12	40			0		297	Africa/Ouagadougou	2010-07-31
+2739033	Gende	Gende		41.04346	-8.50447	P	PPL	PT		17	1317	131715		0		183	Europe/Lisbon	2011-08-28
+6999209	Iīleh	Iileh	Iileh,Iīleh,aylh,ايله	34.67471	60.41155	P	PPL	IR		42				0		1369	Asia/Tehran	2012-01-20
+1838979	Pŏmnam	Pomnam	Habom-ni,Habom-ri,Habŏm-ni,Habŏm-ri,Hap'yong-ni,Hap’yŏng-ni,Pomnam,Pŏmnam	36.2	127.18333	P	PPL	KR	KR	17				0		95	Asia/Seoul	2012-01-18
+5523724	Indian Creek	Indian Creek		31.52515	-101.26761	H	STM	US		TX	383			0	743	746	America/Chicago	2010-02-18
+5607370	Lower Loon Creek Airport	Lower Loon Creek Airport		44.80832	-114.80879	S	AIRP	US		ID	059			0	1241	1240	America/Boise	2013-03-07
+4746856	Bethany Church	Bethany Church		37.03875	-80.05726	S	CH	US		VA	067			0	446	444	America/New_York	2006-01-15
+6535431	San Giacomo Vercellese	San Giacomo Vercellese		45.49816	8.32673	P	PPLA3	IT		12	VC	002035		356		197	Europe/Rome	2012-02-15
+1962521	Sukaraja	Sukaraja	Sukaradja,Sukaraja	-6.8975	107.53861	P	PPL	ID		30				0		730	Asia/Jakarta	2012-01-20
+4887819	Church of Christ	Church of Christ		41.74309	-87.75116	S	CH	US		IL	031			0	189	192	America/Chicago	2007-02-14
+2627995	Nónás	Nonas		66.11801	-15.47968	T	RDGE	IS		40				0		115	Atlantic/Reykjavik	2011-03-06
+693844	Shypovtse	Shypovtse	Shipovtsy,Shupovtsy,Shypovtse,Szypowce	48.82925	25.82221	P	PPL	UA		22				0		186	Europe/Kiev	2012-01-18
+2868328	Sömberg	Soemberg		51.22436	8.28266	T	MT	DE		07				0	616	612	Europe/Berlin	2011-03-05
+206877	Nyamikuba	Nyamikuba		-2.69594	27.29021	P	PPL	CD		12				0		587	Africa/Lubumbashi	2012-12-05
+24737	Gharīzābād	Gharizabad	Gharizabad,Gharīzābād,`Azizabad,ghryzabad,عَزيز آباد,غریزآباد,‘Azīzābād	34.9665	47.9483	S	RUIN	IR		09				0		1875	Asia/Tehran	2012-01-16
+1498901	Mezhovka	Mezhovka	Mezhevka,Mezhovka,Mezjovka,Межовка	56.64542	77.73852	P	PPL	RU		53				0		102	Asia/Novosibirsk	2012-01-17
+3947149	Punta Atico	Punta Atico	Blanca,Punta Atico,Punta Blanca,Punta Blanca de Atico,Punta de Atico	-16.23333	-73.71667	T	PT	PE	PE	04				0		-9999	America/Lima	2012-01-19
+5878565	Yuzhni Point	Yuzhni Point		57.92194	-152.78028	T	CAPE	US		AK	150			0	52	26	America/Anchorage	2010-01-30
+4785412	Shiloh Church	Shiloh Church		36.88987	-78.54778	S	CH	US		VA	037			0	169	170	America/New_York	2006-01-15
+4719579	Pleasant Hill	Pleasant Hill		31.0088	-94.79771	P	PPL	US		TX	373			522	71	73	America/Chicago	2011-05-14
+6405344	Nangka	Nangka	Nangka	-8.06944	111.20444	P	PPL	ID		08				0		446	Asia/Jakarta	2012-01-20
+2384987	Mafinga	Mafinga		4	15.15	H	STM	CF		00				0		575	Africa/Bangui	1993-12-22
+2954745	Au bei Bad Aibling	Au bei Bad Aibling	Au	47.79719	11.97381	P	PPL	DE	DE	02	091	09187	09187129	0		508	Europe/Berlin	2013-02-19
+4264378	Sally Hill	Sally Hill		38.74477	-86.5761	T	MT	US		IN	093			0	270	275	America/Indiana/Indianapolis	2006-01-15
+531885	Maksimovskaya	Maksimovskaya	Maksimovskaja,Maksimovskaya,Максимовская	62.10599	38.81953	P	PPL	RU		06				0		86	Europe/Moscow	2012-01-17
+1654439	Phou Pahin	Phou Pahin	Phou Pa Hine,Phou Pahin	19.54889	103.76889	T	MT	LA	LA	14				0	1302	1257	Asia/Vientiane	2012-01-17
+640949	Porosaari	Porosaari		65.91667	29.31667	T	ISL	FI		08				0		257	Europe/Helsinki	1993-12-28
+3851553	La Escandinava	La Escandinava		-34.91667	-67.53333	P	PPL	AR		13				0		467	America/Argentina/Mendoza	1993-12-21
+4725747	Saint Thomas Church	Saint Thomas Church		32.33181	-96.63332	S	CH	US		TX	139			0	166	169	America/Chicago	2006-01-15
+6776289	Ḩājīyat Banī Ḩuchaym	Hajiyat Bani Huchaym	Hajiyat Bani Huchaym,hajyt bny hchym,حاجية بني حچيم,Ḩājīyat Banī Ḩuchaym	31.45088	45.22468	P	PPL	IQ		03				0		15	Asia/Baghdad	2012-04-06
+6248755	Kaikanohi	Kaikanohi		-41.06826	174.27019	T	PT	NZ		F4				0		40	Pacific/Auckland	2006-03-04
+309177	Karayusuf	Karayusuf	Karayusuf,Karayusuflu	36.8702	35.24478	P	PPL	TR		81				0		13	Europe/Istanbul	2012-01-18
+1066141	Betsioky	Betsioky		-23.81667	46.86667	P	PPL	MG		02				0		1076	Indian/Antananarivo	1993-12-08
+1145921	Kōh-e Chādar Tapah	Koh-e Chadar Tapah	Koh-e Chadar Tapah,Koh-i-Cadar Tepa,Koh-i-Čādar Tepa,Kuh-e Chadar Tappeh,Kuh-e Chador Tappeh,Kōh-e Chādar Tapah,Kūh-e Chādar Tappeh,Kūh-e Chādor Tappeh,kwh chadr tph,کوه چادر تپه	36.19902	68.12356	T	MT	AF		32				0	1521	1502	Asia/Kabul	2012-01-16
+4304934	Poplar Grove Branch	Poplar Grove Branch		37.42812	-85.57941	H	STM	US		KY	217			0	201	204	America/Chicago	2006-01-15
+4438976	North Hopewell Church	North Hopewell Church		34.26927	-89.6187	S	CH	US		MS	071			0	120	117	America/Chicago	2010-02-16
+842502	Övre Själhuvudet	Ovre Sjalhuvudet		62.9	21.13333	H	RF	FI		15				0		-9999	Europe/Helsinki	2001-10-04
+1852545	Shigei-mura	Shigei-mura	Shigei-mura	34.33333	133.15	A	ADM4H	JP	JP	00				0		92	Asia/Tokyo	2012-07-21
+6269459	Old Railway Station	Old Railway Station		37.9785	-0.69116	R	RRQ	ES		60	A	03133		0		7	Europe/Madrid	2006-07-13
+433581	Nyesoko	Nyesoko		-3.8905	29.8938	P	PPLL	BI		20				0		1711	Africa/Bujumbura	2001-06-14
+3720073	Nan Fougère	Nan Fougere		18.21667	-71.91667	P	PPL	HT		13				0		490	America/Port-au-Prince	1993-10-14
+7783953	Zanga	Zanga		-9.89519	14.79499	H	STMI	AO		06				0		562	Africa/Luanda	2011-05-09
+7478745	Raipāra	Raipara	Raipara,Raipāra	23.58628	89.04238	P	PPL	BD		82				0		17	Asia/Dhaka	2012-11-09
+6743405	Dampang	Dampang	Dampang	-5.50027	120.03892	P	PPL	ID		38				0		231	Asia/Makassar	2012-01-20
+2502576	Kef Bou Nif	Kef Bou Nif		36.20903	2.81262	T	PK	DZ		06				0		1001	Africa/Algiers	1997-01-21
+6872535	Sénamongo	Senamongo		15.4751	-2.56637	L	AREA	ML		08				0		290	Africa/Bamako	2012-11-09
+185295	Mutondoni	Mutondoni		-1.43333	37.28333	S	CTRF	KE		31				0		1891	Africa/Nairobi	2013-09-06
+7121972	Tremont	Tremont		39.93972	-85.98889	P	PPL	US		IN	057			0	249	248	America/Indiana/Indianapolis	2010-01-31
+8596619	Qiryat Borochov	Qiryat Borochov	Qiryat Borochov,qryt bwrwkwb,קרית בורוכוב	32.06868	34.81942	P	PPLX	IL		05				0		55	Asia/Jerusalem	2013-08-10
+4515298	Ivorydale Post Office (historical)	Ivorydale Post Office (historical)		39.17784	-84.49578	S	PO	US		OH	061			0	161	161	America/New_York	2006-01-15
+175516	Nandase	Nandase	Nanaase,Nandase	-9.26667	31.8	H	STM	ZM		05				0		1442	Africa/Lusaka	2012-01-17
+314856	Garipuşağı	Garipusagi		39.25405	39.31471	P	PPL	TR		62				0		1715	Europe/Istanbul	1993-12-18
+7472703	Haoxing	Haoxing	Haoxing,hao xing,豪兴	26.43994	115.20057	P	PPL	CN		03				0		246	Asia/Shanghai	2012-01-21
+1429076	Lār Kol	Lar Kol		34.28487	74.82314	H	STM	IN		12				0		1682	Asia/Kolkata	2012-09-07
+618737	Zhydoviche	Zhydoviche	Zhydoviche,Zydowicze,Żydowicze	52.74333	26.56519	P	PPL	BY		00				0		156	Europe/Minsk	2012-01-18
+5285616	Lookout Tank	Lookout Tank		32.05227	-108.1109	H	RSVT	US		NM	029			0	1394	1398	America/Denver	2011-12-11
+340768	Chīlībra	Chilibra		12.68333	39	P	PPL	ET		46				0		2048	Africa/Addis_Ababa	2008-11-24
+1070074	Antongo	Antongo		-21.16667	44.3	P	PPL	MG		06				0		186	Indian/Antananarivo	1993-12-08
+2423123	Bézégréga	Bezegrega		8.77389	-9.80056	P	PPL	GN		N	21			0		646	Africa/Conakry	2012-06-14
+7736174	Rongrian Wat Khao Noi	Rongrian Wat Khao Noi	Rongrian Wat Khao Noi,rongreiyn wad khea nxy,โรงเรียนวัดเขาน้อย	12.76033	101.77566	S	SCH	TH		47				0		17	Asia/Bangkok	2012-01-21
+7576861	Quinta da Regaleira	Quinta da Regaleira		38.79595	-9.39728	S	RNCH	PT		14	1111	111111		0		254	Europe/Lisbon	2011-08-28
+4328324	Independence Mall Shopping Center	Independence Mall Shopping Center		30.00576	-90.17924	S	MALL	US		LA	051			0	-2	1	America/Chicago	2006-01-15
+5205006	Panther Hollow	Panther Hollow		40.94228	-78.11779	T	VAL	US		PA	027			0	417	427	America/New_York	2010-09-05
+2737737	Melres	Melres	Melres	41.06989	-8.40091	P	PPL	PT		17	1304	130407		0		44	Europe/Lisbon	2012-08-04
+1165893	Sarwāni	Sarwani	Sarwani,Sarwāni	34.15368	71.6449	P	PPL	PK		03				0		307	Asia/Karachi	2012-01-17
+541017	Kriusha	Kriusha	Kriusha,Kriushi,Kriusja,Криуша	54.9419	39.97519	P	PPL	RU		62				0		113	Europe/Moscow	2012-01-17
+8546365	Hujiawan	Hujiawan	Hujiawan,hu jia wan,胡家湾	31.89802	109.97502	P	PPL	CN		12				0		704	Asia/Shanghai	2013-06-06
+377754	Bansit Plain	Bansit Plain		22.66667	35.5	T	PLN	SD		36				0		245	Africa/Khartoum	2009-08-18
+697407	Hora Petros	Hora Petros	Gora Petros,Hora Petros,Гора Петрос	48.17159	24.42167	T	MT	UA		25				0	2020	2002	Europe/Uzhgorod	2012-06-06
+3941355	El Común	El Comun		-17.15229	-70.8598	P	PPL	PE		18	1801	180104		0		1788	America/Lima	2012-11-08
+8488953	Camden Pit	Camden Pit		43.27611	-75.76639	S	MN	US		NY	065			0	193	187	America/New_York	2013-03-08
+4204748	Lake Wendi	Lake Wendi		31.20454	-82.26698	H	RSV	US		GA	025			0	34	45	America/New_York	2011-12-11
+1396602	Gara Rūd	Gara Rud		30.53859	68.9946	H	STM	PK		02				0		1369	Asia/Karachi	2011-05-08
+2188249	Longburn	Longburn		-45.9	166.91667	H	STM	NZ		00				0		65	Pacific/Auckland	1993-12-30
+33952	Ja‘farābād	Ja`farabad	Chah-e Abrishami,Chāh-e Abrīshamī,Ja`farabad,Ja‘farābād	35.56944	59.31083	P	PPL	IR		42				0		1670	Asia/Tehran	2012-01-16
+8178818	Kennedia Island	Kennedia Island	Kennedia Island	-20.505	115.5331	T	ISL	AU		08				0		-9999	Australia/Perth	2012-01-22
+7989131	Rupakot	Rupakot		28.32979	82.09645	P	PPLL	NP		MR	12	55	550029	0		1368	Asia/Kathmandu	2011-08-27
+6572582	Siheungbondong-samuso	Siheungbondong-samuso	Siheungbondong-samuso,Sihungbondong-samuso,Sihŭngbondong-samuso,siheungbondongsamuso,시흥본동사무소	37.45556	126.90417	S	ADMF	KR		11				0		27	Asia/Seoul	2012-01-20
+1774134	Sungai Gungum	Sungai Gungum	Sungai Gungum,Sungai Jugam	1.21667	111.3	H	STM	MY	MY	11				0		14	Asia/Kuching	2012-01-17
+1984159	Xiyangjing	Xiyangjing	Xiyangjing,xi yang jing,西洋境	27.19167	119.68972	P	PPL	CN		07				0		266	Asia/Shanghai	2012-01-20
+2742142	Bolelo	Bolelo		41.7535	-8.70907	P	PPL	PT		20	1609	160918		0		52	Europe/Lisbon	2011-08-28
+8521795	Deroukianá	Deroukiana	Deroukiana,Deroukianá,Δερουκιανά	35.39028	23.6594	P	PPL	GR		ESYE43				0		389	Europe/Athens	2013-05-10
+8251982	Dyadichi	Dyadichi	Didichi,Djadichi,Dyadichi,Дядичи	54.1569	25.8866	P	PPL	BY		03				0		162	Europe/Minsk	2012-04-07
+6551686	Heede	Heede		53.7833	9.8	A	ADM4	DE		10	00	01056	01056022	688		14	Europe/Berlin	2010-11-24
+4087027	Rosebud School	Rosebud School		31.94126	-87.14499	S	SCH	US		AL	131			0	73	83	America/Chicago	2006-01-15
+3479904	Sítio Miguel Carax	Sitio Miguel Carax	Sitio Miguel Carax,Sítio Miguel Carax	-25.96806	-49.50778	P	PPL	BR		18	4121208			0		893	America/Sao_Paulo	2012-08-03
+2731571	Crozierpynten	Crozierpynten	Crozierpynten,Hecla Cove-udden,Point Crozier	79.91871	16.84709	T	PT	SJ		21	2111			0		-9999	Arctic/Longyearbyen	2012-01-17
+561021	Glumenka	Glumenka	Glumenk,Glumenka,Глуменка	53.95889	32.30667	P	PPL	RU	RU	69				0		209	Europe/Moscow	2012-01-17
+8132811	Ramundeboda	Ramundeboda		58.98333	14.61667	A	ADM3	SE		15	1860	186001		3636		101	Europe/Stockholm	2012-01-13
+5539503	Garden Basin	Garden Basin		38.51526	-111.42101	T	DPR	US		UT	041			0	2414	2415	America/Denver	2006-01-15
+2561640	Agadir ej Jdid	Agadir ej Jdid	Agadir aj Jdid,Agadir ej Jdid	30.45046	-8.01944	P	PPL	MA		55				0		999	Africa/Casablanca	2012-01-19
+7677833	Huai Phai	Huai Phai	Huai Phai,hwy phi,ห้วยไผ่	17.58144	103.89396	H	STMI	TH		20				0		152	Asia/Bangkok	2012-01-21
+6290226	Six Hills Leisure	Six Hills Leisure		52.78492	-1.06257	S	RECG	GB		ENG	H5	31UC		0		128	Europe/London	2010-05-24
+3526492	Río de Jiménez	Rio de Jimenez		24.23333	-98.5	H	STMI	MX		28				0		121	America/Monterrey	1994-01-04
+1807964	Hongxi	Hongxi	Hongxi,Hung-hsi	28.60833	103.12667	P	PPL	CN	CN	32				0		2364	Asia/Chongqing	2012-01-18
+2117111	Levaya Bryumka	Levaya Bryumka	Levaja Brjumka,Levaya Bryumka,Левая Брюмка	54.53054	156.35698	H	STM	RU		92				0		137	Asia/Kamchatka	2012-10-06
+4939338	Herter Hall	Herter Hall		42.38731	-72.5287	S	BLDG	US		MA	015			0	68	75	America/New_York	2006-01-15
+898632	Shilenda	Shilenda		-12.4054	25.76152	P	PPL	ZM		06				0		1293	Africa/Lusaka	2011-04-18
+651363	Korpijoki	Korpijoki		63.45	27.01667	P	PPL	FI		14	11	140		0		142	Europe/Helsinki	2011-12-31
+6616442	Orthoux-Sérignac-Quilhan	Orthoux-Serignac-Quilhan		43.8921	4.0571	A	ADM4	FR		A9	30	303	30192	396		121	Europe/Paris	2012-05-10
+5390644	Saint Lukes Lutheran Church	Saint Lukes Lutheran Church		38.48185	-121.44134	S	CH	US		CA	067			0	7	9	America/Los_Angeles	2006-01-15
+4766120	Irby	Irby		37.03154	-78.0425	P	PPL	US		VA	135			0	113	118	America/New_York	2010-02-18
+4496180	Union Church	Union Church		35.31627	-79.3478	S	CH	US		NC	125			0	124	126	America/New_York	2006-01-15
+1227103	Tammennawa	Tammennawa	Tammannewa,Tammennawa	8.095	80.2566	L	LCTY	LK		32				0		87	Asia/Colombo	2012-01-17
+5140444	Taghkanic Creek	Taghkanic Creek		42.22314	-73.7554	H	STM	US		NY	021			0	37	45	America/New_York	2006-01-15
+4550785	Sandy Creek	Sandy Creek		35.64786	-96.35223	H	STM	US		OK	037			0	210	222	America/Chicago	2006-01-15
+1047036	Dique	Dique		-21.17833	33.97722	P	PPL	MZ		10				0		122	Africa/Maputo	1998-12-08
+7222095	Wyomissing Hills Swimming Association Pool	Wyomissing Hills Swimming Association Pool		40.33448	-75.98237	H	RSV	US		PA	011			0	115	110	America/New_York	2010-02-06
+6952719	Halifax Railway Station	Halifax Railway Station	HFX	53.72065	-1.85379	S	RSTN	GB		ENG	C2			0		119	Europe/London	2010-05-25
+6898645	Sosa	Sosa	Sosa,sosa,소사	35.3317	128.47365	P	PPL	KR		20				0		33	Asia/Seoul	2012-01-20
+8258549	Glacier Rock Farms	Glacier Rock Farms		43.23778	-88.56278	S	FRM	US		WI	027			0	265	264	America/Chicago	2012-04-10
+6057822	Little Woody River	Little Woody River		52.90475	-101.49061	H	STM	CA		03				0		262	America/Winnipeg	2006-01-18
+2198330	Solalete	Solalete		-12.5	177.06667	T	HLL	FJ		00				0		115	Pacific/Fiji	1993-12-22
+6683352	Zoutang	Zoutang	Zoutang,zou tang,邹堂	23.43489	116.55669	P	PPL	CN		30				0		7	Asia/Shanghai	2012-01-20
+5321409	Windsor Square	Windsor Square		33.5656	-112.17571	P	PPL	US		AZ	013			0	361	359	America/Phoenix	2006-01-15
+776723	Aleksandrowo	Aleksandrowo		53.16792	21.41782	P	PPL	PL		78				0		110	Europe/Warsaw	2011-05-08
+8249767	Megaël’	Megael'	Megael',Megajol',Megaël’,Мегаёль	63.5054	47.226	H	STM	RU		34				0		183	Europe/Moscow	2012-04-06
+288433	Falaj al ‘Awāmir	Falaj al `Awamir	Falaj al `Awamir,Falaj al ‘Awāmir	22.8	57.76667	L	LCTY	OM		01				0		446	Asia/Muscat	2012-04-05
+2872822	Mauenheim	Mauenheim		47.90046	8.75288	P	PPL	DE		01	083	08327	08327025	0		685	Europe/Berlin	2013-02-15
+5081543	Weis Lagoon	Weis Lagoon		40.45603	-97.73459	H	SWMP	US		NE	059			0	506	506	America/Chicago	2011-12-11
+933081	Setse Pan	Setse Pan		-23.98333	24.51667	T	PAN	BW		00				0		1102	Africa/Gaborone	1993-12-22
+1601621	Ban Maeo Hua Pha	Ban Maeo Hua Pha		16.88333	101.05	P	PPL	TH		14				0		1375	Asia/Bangkok	1994-04-10
+6018673	Lac du Tamia Doré	Lac du Tamia Dore		47.13309	-73.1379	H	LK	CA		10	04			0		413	America/Montreal	2013-07-22
+3826748	La Losa	La Losa		13.92278	-87.91194	L	LCTY	HN		12				0		972	America/Tegucigalpa	2005-09-07
+258134	Longísio Réma	Longisio Rema	Longisio Rema,Longisto,Longísio Réma	38.78333	22.06667	H	STM	GR	GR					0		1046	Europe/Athens	2012-01-18
+2960270	Mertzig	Mertzig	Mertzig,Merzig	49.83389	6.0075	P	PPL	LU		01	07	11		1482		312	Europe/Luxembourg	2012-01-18
+5758504	Vanishing Falls	Vanishing Falls		45.24355	-121.89428	H	OVF	US		OR	005			0	639	707	America/Los_Angeles	2011-12-11
+5861596	Elk Head Point	Elk Head Point		60.71417	-147.36167	T	CAPE	US		AK	261			0	2	5	America/Anchorage	2010-01-30
+5889663	Baie Campeau	Baie Campeau		46.96682	-75.43257	H	BAY	CA		10				0		322	America/Montreal	2006-01-18
+3873670	Grupo Ratones	Grupo Ratones		-47.66427	-75.0553	T	ISLS	CL		02				0		1	America/Santiago	2013-01-11
+3335628	Siljevik	Siljevik		42.34083	18.89083	H	WLL	ME		00				0		1122	Europe/Podgorica	2006-09-30
+4341270	Shady Oaks	Shady Oaks		31.30602	-92.3468	P	PPL	US		LA	079			0	48	44	America/Chicago	2006-01-15
+8018411	Singkup	Singkup	Singkup,Sinkoep	-7.0745	108.0242	P	PPL	ID		30				0		736	Asia/Jakarta	2012-01-21
+6748104	Wuniulankeng	Wuniulankeng	Wu-niu-lan-k'eng,Wu-niu-lan-k’eng,Wunioulankeng,Wuniulankeng,wu niu lan keng,烏牛欄坑	24.23568	120.74351	P	PPL	TW		04				0		274	Asia/Taipei	2012-01-20
+2110915	Taishin-mura	Taishin-mura	Oya-mura,Shinobu-mura,Taishin-mura,Ōya-mura	37.21667	140.23333	A	ADMD	JP	JP	00				0		357	Asia/Tokyo	2010-08-03
+7729891	Carribean	Carribean		20.38583	-72.33398	L	AREA							0		-9999		2012-04-28
+4670651	American Indoor Sports Facility	American Indoor Sports Facility		33.0204	-96.92639	L	PRK	US		TX	121			0	140	143	America/Chicago	2006-01-15
+859745	Gatnjanska Bačila	Gatnjanska Bacila	Gatnjanska Bacila,Gatnjanska Bačila	42.30778	21.08861	S	SHPF	XK		00				0		1245	Europe/Belgrade	2012-01-20
+4831680	Battleground	Battleground		33.53538	-86.65026	P	PPLX	US		AL	073			0	210	213	America/Chicago	2007-02-14
+4708048	Lost Prairie Church	Lost Prairie Church		31.49906	-96.37136	S	CH	US		TX	293			0	137	141	America/Chicago	2006-01-15
+3670649	Rincón de Rodeo Chiquito	Rincon de Rodeo Chiquito		9.18333	-73.81667	H	COVE	CO		10				0		22	America/Bogota	1994-04-13
+4668306	Wilson Knob	Wilson Knob		35.40563	-84.44493	T	MT	US		TN	107			0	388	395	America/New_York	2006-01-15
+6527619	Chanhassen Inn	CHANHASSEN INN		44.8593	-93.5334	S	HTL	US		MN	019			0		288	America/Chicago	2007-04-14
+668661	Roşeşti	Rosesti		46.26667	22.73333	P	PPLX	RO		00				0		621	Europe/Bucharest	1994-01-04
+385455	Umm al Jafā	Umm al Jafa	Umm al Jafa,Umm al Jafā,am aljfa,أم الجفا	36.19942	40.42745	P	PPL	SY		01				0		388	Asia/Damascus	2012-01-19
+4824237	Sycamore Fork	Sycamore Fork		38.14704	-81.9943	H	STM	US		WV	043			0	233	247	America/New_York	2006-01-15
+7745299	Tchassaluca	Tchassaluca		-7.03672	19.91993	H	STM	AO		17				0		672	Africa/Luanda	2011-04-20
+5584477	Badger Mine	Badger Mine		44.10685	-113.12834	S	MN	US		ID	023			0	2289	2298	America/Boise	2006-01-15
+7218279	Lake Ellen Estates	Lake Ellen Estates		28.0613	-82.4862	P	PPL	US		FL	057			0	13	23	America/New_York	2010-02-06
+2513176	Obispo Hernández	Obispo Hernandez	Eras,Obispo Hernandez,Obispo Hernández	39.88333	-1	P	PPL	ES	ES	60	V	46036		0		1094	Europe/Madrid	2012-01-19
+766301	Limanowa	Limanowa	Limanova,Limanowa,li ma nuo wa,Лиманова,Ліманова,利馬諾瓦	49.70594	20.42204	P	PPL	PL		77	1207	120701		14714		408	Europe/Warsaw	2010-09-10
+796361	Mustakari	Mustakari		63.93333	23.37778	T	PEN	FI		15				0		19	Europe/Helsinki	1999-03-22
+5535544	Blue Castle Canyon	Blue Castle Canyon		39.09247	-110.18931	T	VAL	US		UT	015			0	1348	1357	America/Denver	2006-01-15
+5612862	Woodland	Woodland		46.31101	-116.06847	P	PPL	US		ID	049			0	918	917	America/Los_Angeles	2006-01-15
+844432	Baggholmen	Baggholmen		60.46861	25.97778	T	ISL	FI		13				0		1	Europe/Helsinki	2001-10-05
+62052	Daieno	Daieno		6.3	46.68333	P	PPL	SO		05				0		317	Africa/Mogadishu	1994-02-25
+3896709	Loma del Cardón	Loma del Cardon		-34.66667	-71.06667	T	HLL	CL		08	63	06308		0		558	America/Santiago	2012-05-03
+4826892	Weston Post Office	Weston Post Office		39.03732	-80.46704	S	PO	US		WV	041			0	310	313	America/New_York	2006-01-15
+7373001	Lihuawan	Lihuawan	Lihuawan,li hua wan,梨花湾	33.52954	105.61139	P	PPL	CN		15				0		1157	Asia/Chongqing	2012-01-21
+112514	Beyk Tūkūr-e Pā’īn	Beyk Tukur-e Pa'in	Beyk Tukur-e Pa'in,Beyk Tūkūr-e Pā’īn,Bik-e Tukur,Bīk-e Tūkūr,Tugur,Tukur,Tūgūr,Tūkūr,byk twkwr payyn,twkwr,بیک توکور پایین,توکور	37.63306	57.78142	P	PPL	IR		43				0		1423	Asia/Tehran	2012-01-16
+2567257	Arrecife del Canaveral	Arrecife del Canaveral		36.1761	-5.99338	H	RF	ES		51	CA	11007		0		-9999	Europe/Madrid	2011-10-12
+6651631	Gūrak Mazār Ḩoseynī	Gurak Mazar Hoseyni	Gurak Mazar Hoseyni,Gūrak Mazār Ḩoseynī,Mazar Hoseyni,Mazār Ḩoseynī,gwrk mzar hsyny,mzar hsyny,مزار حسینی,گورک مزار حسینی	28.9266	51.0383	P	PPL	IR		22				0		14	Asia/Tehran	2013-05-10
+5693606	Beyersdorf Ranch	Beyersdorf Ranch		42.9	-101.83737	S		US		NE	031			0	1028	1026	America/Denver	2010-02-19
+4644958	New Bethel School	New Bethel School		35.09619	-87.26585	S	SCH	US		TN	099			0	275	275	America/Chicago	2006-01-15
+7953627	Dandakhet	Dandakhet		28.69794	82.13346	P	PPLL	NP		MR	02	61	610021	0		1270	Asia/Kathmandu	2011-08-27
+3998028	Los Camaleones	Los Camaleones	Los Camaleones,Mina Los Camaleones	30.81323	-107.14115	S	MNQ	MX		06				0		1240	America/Chihuahua	2013-10-06
+3254067	Prvakovac	Prvakovac		44.9418	18.52021	H	STMI	BA		00				0		90	Europe/Sarajevo	2012-04-06
+1146608	Bēkhān	Bekhan	Bekhan,Bēkhān,بېخان	30.58318	66.08755	L	AREA	AF		23				0		1103	Asia/Kabul	2012-01-16
+4624695	Gibson Rosewald School	Gibson Rosewald School		35.42841	-88.59755	S	SCH	US		TN	023			0	153	152	America/Chicago	2010-02-17
+1954529	Ban Môkkôk	Ban Mokkok		20.8259	102.57048	P	PPL	LA		17				0		445	Asia/Vientiane	2012-11-09
+1168990	Nihang	Nihang		31.83731	72.28551	P	PPL	PK		04				0		172	Asia/Karachi	2011-05-07
+1507607	Chusovaya	Chusovaya	Chusovaja,Chusovaya,Tsjusovaja,Чусовая	56.1846	62.5432	P	PPL	RU		40				0		154	Asia/Yekaterinburg	2012-01-17
+2756562	Drongelen	Drongelen		51.71583	5.05417	P	PPL	NL		06	0738			0		2	Europe/Amsterdam	2007-06-03
+528474	Matveyevskaya	Matveyevskaya	Matveevskaja,Matveyevskaya,Матвеевская	60.65441	41.81695	P	PPL	RU		85				0		104	Europe/Moscow	2012-01-17
+1216328	Pirmamet	Pirmamet		39.76667	67.31667	P	PPL	UZ		00				0		756	Asia/Samarkand	1994-03-11
+7123056	Fairview Baptist Church	Fairview Baptist Church		39.83977	-105.01987	S	CH	US		CO	001			0	1639	1644	America/Denver	2012-04-10
+1891047	Wŏlch’on-gol	Wolch'on-gol	Wolch'on-gol,Wolch'on-kol,Wŏlch’on-gol,Wŏlch’on-kol	38.40528	126.13306	P	PPL	KP		07				0		118	Asia/Pyongyang	2012-01-19
+5071680	Laclede Cemetery	Laclede Cemetery		41.10501	-97.7895	S	CMTY	US		NE	143			0	536	536	America/Chicago	2006-01-15
+4823514	Stone Coal Run	Stone Coal Run		39.29342	-80.36231	H	STM	US		WV	033			0	285	286	America/New_York	2006-01-15
+488275	Staros’yanovo	Staros'yanovo	Staros'janovo,Staros'yanovo,Staros’yanovo,Staroye S'yanovo,Staroye S’yanovo,Старосьяново	55.5	37.8	P	PPL	RU		47				0		169	Europe/Moscow	2012-01-17
+1705103	Luna	Luna	Luna	14.94919	120.09143	P	PPL	PH		03	64			0		18	Asia/Manila	2012-01-17
+5226662	C Wulff Stockwater Dam	C Wulff Stockwater Dam		44.05666	-99.07538	S	DAM	US		SD	017			0	522	517	America/Chicago	2006-01-15
+4373972	Wood Acres	Wood Acres		38.96817	-77.12359	P	PPL	US		MD	031			0	95	107	America/New_York	2006-01-15
+3726692	Derrière Lagon	Derriere Lagon		19.66667	-72.8	P	PPL	HT		06				0		610	America/Port-au-Prince	1993-10-14
+525771	Mokiny	Mokiny	Mokiny,Мокины	58.64099	50.10485	P	PPL	RU		33				0		113	Europe/Volgograd	2012-01-17
+4249776	Shakerag School (historical)	Shakerag School (historical)		38.05394	-89.28814	S	SCH	US		IL	145			0	138	139	America/Chicago	2006-01-15
+4019561	Agua Caliente	Agua Caliente		26.88333	-105.96667	S	RSTN	MX		06				0		2046	America/Chihuahua	1994-01-04
+5824304	East Side Canal	East Side Canal		42.98187	-111.00605	H	CNL	US		WY	023			0	1797	1799	America/Denver	2006-01-15
+8531986	Ballarat Airport	Ballarat Airport	Ballarat Aerodrome,Ballarat Airport,YBLT	-37.50996	143.7922	S	AIRP	AU		07	20570			0		441	Australia/Melbourne	2013-06-13
+1166015	Sardashti	Sardashti	Sardasht,Sardashti	25.49583	63.0175	P	PPL	PK	PK	02				0		29	Asia/Karachi	2012-01-17
+1411109	Māri Ochi Māl	Mari Ochi Mal		29.32083	71.09167	P	PPL	PK		04				0		101	Asia/Karachi	2001-12-14
+5358841	Ibex Mine	Ibex Mine		35.80885	-116.45531	S	MN	US		CA	027			0	519	502	America/Los_Angeles	2006-01-15
+2441737	Ladan Kwara	Ladan Kwara	Ladan Kwara,Ladankpira	11.74566	3.63162	P	PPL	NE		03				0		162	Africa/Niamey	2012-01-18
+697751	Perebykovtsy	Perebykovtsy	Perebijkowce,Perebikauts',Perebikauts’,Perebyikovtsy,Perebykovtsy,Peribecauti,Peribecăuţi	48.58846	26.13818	P	PPL	UA		03				0		152	Europe/Kiev	2012-01-18
+2311896	Nselo	Nselo		-4.89611	15.21167	P	PPL	CD		08				0		620	Africa/Kinshasa	1999-12-14
+538545	Kursko	Kursko	Kursk,Kursko,Курско	58.3475	29.32722	P	PPL	RU	RU	60				0		78	Europe/Moscow	2012-01-17
+5485912	RG-15579 Water Well	RG-15579 Water Well		36.16947	-105.97363	H	WLL	US		NM	039			0	1758	1758	America/Denver	2006-01-15
+613898	Khop’uri	Khop'uri	Khop'uri,Khop’uri,khopuri,ხოფური	42.73115	42.76095	P	PPL	GE		70				0		609	Asia/Tbilisi	2013-08-05
+4644418	Mustin Lake Number Two	Mustin Lake Number Two		35.10842	-89.52508	H	RSV	US		TN	047			0	126	132	America/Chicago	2006-01-15
+8015709	Ertaishang	Ertaishang	Ertaishang,er tai shang,二台上	29.78554	110.34307	P	PPL	CN		12				0		1005	Asia/Shanghai	2012-01-21
+6713252	Deleng Pintu Kerabangen	Deleng Pintu Kerabangen	Deleng Pintu Kerabangen,Deleng Pintukerbangen	3.2111	98.0678	T	MT	ID		26				0		1278	Asia/Jakarta	2012-01-20
+1362331	Kangni Minor	Kangni Minor		25.3368	69.49858	H	CNLI	PK		05				0		12	Asia/Karachi	2011-07-10
+8037665	Huai Phai	Huai Phai	Huai Phai,hwy phi,ห้วยไผ่	16.58121	104.5404	H	STM	TH		78				0		155	Asia/Bangkok	2012-01-21
+76758	Wādī Bitān	Wadi Bitan	Wadi Bitain,Wadi Bitan,Wādī Bitain,Wādī Bitān	12.97711	43.95213	H	WAD	YE		24	2513			0		337	Asia/Aden	2012-02-01
+1223733	Weliganwala	Weliganwala	Weliganwala	7.5945	80.5951	P	PPL	LK		29				0		418	Asia/Colombo	2012-01-17
+594252	Steponkaimis	Steponkaimis		55.41667	23.45	P	PPL	LT		00				0		107	Europe/Vilnius	1994-01-12
+8297362	Bureau de Poste de Villelaure	Bureau de Poste de Villelaure		43.7106	5.44862	S	PO	FR		B8	84	841	84147	0		240	Europe/Paris	2013-07-30
+7869378	Travyanistoye	Travyanistoye	Travjanistoe,Travyanistoye,Травянистое	56.9712	50.5164	P	PPL	RU		33				0		70	Europe/Volgograd	2012-01-21
+2838331	Schloßberg	Schlossberg		47.99052	10.12485	T	MT	DE		02	097	09778	09778123	0		626	Europe/Berlin	2013-02-19
+3729120	Rivière Bras Droit	Riviere Bras Droit		19.64556	-72.89	H	STM	HT		06				0		145	America/Port-au-Prince	1994-08-17
+581897	Andreykovo	Andreykovo	Andrejkovo,Andreykovo,Андрейково	56.23333	37.31667	P	PPL	RU		47				0		197	Europe/Moscow	2012-01-17
+7137428	Fields Fire Tower	Fields Fire Tower		30.55815	-93.53935	S	TOWR	US		LA	011			0	36	42	America/Chicago	2011-12-12
+3423644	Griffenfeld Ø	Griffenfeld O	Griffenfeld O,Griffenfeld Ø,Griffenfelds O,Griffenfelds Ø,Griffenfeldt Island,Griffenfeldt O,Griffenfeldt Ö,Omanaq,Ománaq,Umanaq	62.93333	-41.55	T	ISL	GL		07				0		115	America/Godthab	2012-01-18
+5958855	Gabarus Bay	Gabarus Bay		45.85014	-60.11514	H	BAY	CA		07				0		-9999	America/Glace_Bay	2006-01-18
+3133888	Tromvik	Tromvik	Tromvik,Tronvik	69.77702	18.39896	P	PPL	NO	NO	18	1902			0		1	Europe/Oslo	2013-07-05
+3164009	Vizzarete	Vizzarete		44.11667	11.21667	P	PPL	IT		05	BO	037022		0		708	Europe/Rome	2011-09-11
+7694334	Chácara Sant’Ana	Chacara Sant'Ana	Chacara Sant'Ana,Chácara Sant’Ana	-25.8967	-49.393	S	FRM	BR		18	4114302			0		825	America/Sao_Paulo	2012-08-03
+5582642	Tara Institute of the Performing Arts	Tara Institute of the Performing Arts		40.05054	-105.27388	S	SCH	US		CO	013			0	1660	1663	America/Denver	2006-01-15
+2476867	Gara ti-n-Tibhaouine	Gara ti-n-Tibhaouine		24.04549	8.68898	T	BUTE	DZ		53				0		951	Africa/Algiers	2011-03-07
+1168670	Pachakhush Glacier	Pachakhush Glacier		36.56733	72.31777	H	GLCR	PK		03				0		3781	Asia/Karachi	2011-07-09
+3474418	Fazenda Estrela do Guaporé	Fazenda Estrela do Guapore		-14.14722	-59.81667	S	FRM	BR		14	5103304			0		227	America/Cuiaba	2012-08-03
+389094	Boneh-ye ‘Asgar	Boneh-ye `Asgar	Boneh-ye `Asgar,Boneh-ye ‘Asgar,بنه عسگر	31.23357	49.64607	P	PPL	IR		15				0		186	Asia/Tehran	2012-01-19
+951575	Suidkaaprivier	Suidkaaprivier	South Kaap,South Kaap River,Suidkaap,Suidkaaprivier	-25.66657	31.08368	H	STM	ZA		07				0		574	Africa/Johannesburg	2012-01-18
+2170402	Copper Creek	Copper Creek		-40.91667	145.1	S	RSD	AU		06	61210			0		22	Australia/Hobart	2011-06-04
+7703231	Lincoln Emergency Medical Services Yawkey Substation	Lincoln Emergency Medical Services Yawkey Substation		38.22458	-81.96366	S	BLDG	US		WV	043			0	210	213	America/New_York	2011-03-12
+4068431	Hudson Cemetery	Hudson Cemetery		31.49516	-86.13162	S	CMTY	US		AL	031			0	118	120	America/Chicago	2006-01-15
+5688027	Bismarck Municipal Airport	Bismarck Municipal Airport	BIS,KBIS	46.77622	-100.75763	S	AIRP	US		ND	015			0	502	503	America/Chicago	2011-03-10
+6368675	Cerro Accoccalla	Cerro Accoccalla		-13.55556	-75.37278	T	MT	PE		09	0906	090609		0	3920	3901	America/Lima	2012-07-19
+1447596	Ling-e Mullā Amān	Ling-e Mulla Aman	Leng-e Molla Aman,Leng-e Mollā Amān,Lenge Mulla Aman,Lenge Mullā Amān,Ling-e Mulla Aman,Ling-e Mullā Amān,lng mla aman,لنگ ملا امان	33.3304	65.9426	T	MT	AF		41				0	2916	2901	Asia/Kabul	2012-01-19
+714452	Új-kert	Uj-kert		47.51667	21.9	L	AREA	HU		10				0		128	Europe/Budapest	1993-12-28
+3792566	El Desegaño	El Desegano		2.1781	-75.93	P	PPL	CO		16				0		2129	America/Bogota	2011-10-13
+4328411	Indian Village Plantation (historical)	Indian Village Plantation (historical)		30.25436	-91.314	S		US		LA	047			0	3	2	America/Chicago	2010-02-15
+5466863	Encino Trailhead	Encino Trailhead		34.74811	-106.47002	S		US		NM	061			0	1888	1885	America/Denver	2010-02-20
+2890818	Kinzigtal	Kinzigtal		48.3	8.3	A	ADMD	DE		01				0		612	Europe/Berlin	1994-01-08
+8176517	Yoogali Public School	Yoogali Public School	Yoogali Public School	-34.2985	146.0846	S	SCH	AU		02				0		126	Australia/Sydney	2012-01-22
+4647873	Panther Branch	Panther Branch		36.32173	-85.02357	H	STM	US		TN	049			0	235	240	America/Chicago	2006-01-15
+5549308	Wattis Junction	Wattis Junction		39.53413	-110.9935	P	PPL	US		UT	007			0	2136	2136	America/Denver	2006-01-15
+1996160	Aoshangtang	Aoshangtang		26.31611	112.41444	P	PPL	CN		11				0		95	Asia/Shanghai	2005-07-26
+597117	Medžiukai	Medziukai	Medziuikai,Medziukai,Medzyuki,Medžiukai	54.91667	25.08333	P	PPL	LT	LT	00				0		149	Europe/Vilnius	2012-01-17
+7302386	market	market		41.34003	21.55341	S	HSPC	MK						0		649	Europe/Skopje	2010-06-05
+6038925	Lac Quentin	Lac Quentin		47.81278	-76.10222	H	LK	CA		10	08			0		406	America/Montreal	2013-07-22
+5644701	Chico School (historical)	Chico School (historical)		45.32105	-110.70521	S	SCH	US		MT	067			0	1652	1653	America/Denver	2006-01-15
+1369449	Sirāj Punjābi	Siraj Punjabi	Saraj Khan,Sarāj Khān,Siraj Punjabi,Sirāj Punjābi	26.42914	68.17243	P	PPL	PK		05				0		35	Asia/Karachi	2012-01-19
+4036385	Rimatuu	Rimatuu		-17.02917	-149.56	T	ISL	PF		00				0		9	Pacific/Tahiti	1996-03-19
+7153337	Owasco Elementary School	Owasco Elementary School		42.9175	-76.54111	S	SCH	US		NY	011			0	238	239	America/New_York	2010-02-01
+4404597	Prairie View School (historical)	Prairie View School (historical)		39.09946	-93.39854	S	SCH	US		MO	195			0	246	246	America/Chicago	2006-01-15
+5374492	Montgomery Number Three Spring	Montgomery Number Three Spring		34.83137	-119.76541	H	SPNG	US		CA	083			0	1361	1375	America/Los_Angeles	2006-01-15
+6955942	Las Caldas	Las Caldas		43.33304	-5.92052	P	PPL	ES		34	O	33044		0		156	Europe/Madrid	2011-09-11
+7404160	Nanqijiazi	Nanqijiazi	Nanqijiazi,nan qi jia zi,南七家子	41.77438	121.47418	P	PPL	CN		19				0		98	Asia/Shanghai	2012-01-21
+4075537	McKinney Branch	McKinney Branch		31.59349	-87.18748	H	STM	US		AL	099			0	77	96	America/Chicago	2010-02-14
+7592867	Burambira	Burambira		-1.5191	30.2471	P	PPLL	RW		11				0		1407	Africa/Kigali	2010-11-05
+776726	Aleksandrów Mały	Aleksandrow Maly		51.01429	21.46506	P	PPL	PL		84				0		181	Europe/Warsaw	1993-12-28
+7199056	Gospel Assembly Church	Gospel Assembly Church		38.18706	-85.81103	S	CH	US		KY	111			0	139	143	America/Kentucky/Louisville	2010-02-05
+4455768	Big Juniper Run	Big Juniper Run		35.2735	-78.58446	H	STM	US		NC	163			0	45	47	America/New_York	2010-02-16
+3737806	Alto de Correderos	Alto de Correderos		4.21758	-74.0496	T	MT	CO		33				0		3573	America/Bogota	2011-10-12
+7992336	Anptar	Anptar		27.06465	86.2511	P	PPLL	NP		CR	05	20	200002	0		559	Asia/Kathmandu	2011-08-27
+7586745	Ponizor’ye	Ponizor'ye	Ponizor'e,Ponizor'ye,Ponizor’ye,Понизорье	57.0524	37.3557	P	PPL	RU		77				0		117	Europe/Moscow	2012-01-21
+3225671	Klåholmen	Klaholmen	Klaholmen,Kloholmen,Klåholmen	58.59769	9.07409	S	FRM	NO	NO	02	0914			0		11	Europe/Oslo	2013-07-04
+3353522	Richtberg	Richtberg	Richfberg,Richtberg	-27.43333	16.98333	T	MT	NA	NA	31				0		1194	Africa/Windhoek	2012-01-17
+4183098	Binions Mill (historical)	Binions Mill (historical)		31.84905	-84.70686	S		US		GA	243			0	122	127	America/New_York	2010-02-15
+5585691	Big Pipe Spring	Big Pipe Spring		42.21117	-114.02178	H	SPNG	US		ID	031			0	1815	1801	America/Boise	2011-12-11
+6319713	Igarapé do Meio	Igarape Do Meio		-3.72514	-45.10975	A	ADM2	BR		13	2105153			12543		23	America/Belem	2011-04-21
+2750515	Naastenbest	Naastenbest		51.50484	5.38579	P	PPLX	NL		06	0753			0		16	Europe/Amsterdam	2008-02-01
+7323118	Sathani Anamai Tambon Mae Khaotom	Sathani Anamai Tambon Mae Khaotom	Sathani Anamai Tambon Mae Khaotom,สถานีอนามัยตำบลแม่ข้าวต้ม	20.01125	99.91681	S	HSPD	TH		03				0		387	Asia/Bangkok	2012-01-21
+2800327	Chifontaine	Chifontaine		50.03333	5.83333	P	PPL	BE		WAL	WLX			0		497	Europe/Brussels	2010-03-06
+3508549	El Alto de La Caya	El Alto de La Caya		19.7566	-70.88058	L	LCTY	DO		18				0		173	America/Santo_Domingo	1994-03-11
+4793061	Westover Hills Branch Richmond Public Library	Westover Hills Branch Richmond Public Library		37.52181	-77.48887	S	LIBR	US		VA	159			0	59	62	America/New_York	2006-01-15
+6041314	Lac Saint-Pierre	Lac Saint-Pierre		48.89167	-72.91611	H	LK	CA		10	02			0		183	America/Montreal	2013-07-22
+8602175	Três Irmãos	Tres Irmaos	3 Irmaos,3 Irmãos,Tres Irmaos,Três Irmãos	-0.85628	-52.538	P	PPLX	BR		16				0		7	America/Santarem	2013-08-10
+5767434	No Heart Creek	No Heart Creek		44.85776	-100.63903	H	STM	US		SD	041			0	491	486	America/Denver	2010-02-17
+6747923	Huanan Guoxiao	Huanan Guoxiao	Hua-nan Kuo-hsiao,Huanan Guosiao,Huanan Guoxiao,hua nan guo xiao,華南國小	24.0162	120.5523	S	SCH	TW		04				0		22	Asia/Taipei	2012-01-20
+363501	Zarqā’ Ḩadīdah	Zarqa' Hadidah	Zarqa Hadida,Zarqa' Hadidah,Zarqā’ Ḩadīdah	11.83333	27.15	P	PPL	SD		55				0		474	Africa/Khartoum	2012-01-19
+3841942	Pareditas	Pareditas		-33.94107	-69.0784	P	PPL	AR		13				0		1075	America/Argentina/Mendoza	2011-04-19
+5876419	Tom Creek	Tom Creek		63.65889	-157.38917	H	STM	US		AK	290			0	35	31	America/Anchorage	2010-01-30
+7218242	Knoxville Acres	Knoxville Acres		27.9757	-82.0617	P	PPL	US		FL	057			0	38	38	America/New_York	2010-02-06
+7941807	Dandabasa	Dandabasa		27.88938	84.98383	P	PPLL	NP		CR	01	30	300023	0		947	Asia/Kathmandu	2011-08-27
+2716667	Ekeby	Ekeby		59.16667	15.11667	P	PPL	SE		15	1881			0		39	Europe/Stockholm	2011-10-30
+601283	Shatly	Shatly		42.4	59.6	P	PPL	UZ		09				0		76	Asia/Samarkand	1997-07-14
+4902227	Miles Memorial Christian Methodist Episcopal Church	Miles Memorial Christian Methodist Episcopal Church		42.25224	-89.11288	S	CH	US		IL	201			0	230	231	America/Chicago	2006-01-15
+1605827	Huai Mae Tam	Huai Mae Tam		18.5	100.15	H	STMI	TH		07				0		185	Asia/Bangkok	1994-04-06
+4476928	Long Branch	Long Branch		36.55207	-81.44344	H	STM	US		NC	009			0	803	812	America/New_York	2010-02-16
+7715445	Grace Christian Center	Grace Christian Center		47.92744	-122.6838	S	CH	US		WA	031			0	28	34	America/Los_Angeles	2011-03-12
+3207802	Minkelfeld	Minkelfeld		50.31667	7.28333	P	PPL	DE		08				0		296	Europe/Berlin	1998-04-03
+6660495	Āb Mārūn	Ab Marun	Ab Marun,ab marwn,Āb Mārūn,آب مارون	32.476	48.9081	P	PPLQ	IR		15				0		456	Asia/Tehran	2012-01-20
+722637	Balmaz	Balmaz		47.91667	20.63333	L	AREA	HU		04				0		138	Europe/Budapest	1993-12-28
+6375946	Jatiduwur	Jatiduwur	Jatiduwur	-8.18472	110.91722	P	PPL	ID		08				0		211	Asia/Jakarta	2012-01-19
+3980397	Ventura de Abajo	Ventura de Abajo		25.76667	-107.81667	P	PPL	MX		25				0		319	America/Mazatlan	1994-01-04
+8260135	Frutigen-Niedersimmental	Frutigen-Niedersimmental		46.60236	7.62292	A	ADM2	CH		BE	249			0		1605	Europe/Zurich	2012-04-16
+7529711	Kūh-e Chahār Ţāq	Kuh-e Chahar Taq	Kuh-e Chahar Taq,Kūh-e Chahār Ţāq,kwh chhar taq,کوه چهار طاق	31.49511	50.58935	T	MT	IR		03				0	2672	2658	Asia/Tehran	2012-01-21
+5210774	Sand Beach	Sand Beach		40.3087	-76.6683	P	PPL	US		PA	043			0	110	110	America/New_York	2006-01-15
+6055912	Little Harbour	Little Harbour		46.3668	-62.18191	P	PPLL	CA		09				0		12	America/Halifax	2006-01-18
+7342219	Jabal al Jalḩah	Jabal al Jalhah	Jabal Anwa`,Jabal Anwa‘,Jabal al Jalhah,Jabal al Jalḩah	15.25784	44.49154	T	MT	YE		16				0		2461	Asia/Aden	2012-01-21
+2300451	Hasuwodi	Hasuwodi		5.58333	-1.03333	P	PPL	GH		00				0		109	Africa/Accra	1994-01-06
+7747014	Yesi	Yesi	Yesi,ye si,叶四	30.23019	115.23506	P	PPL	CN		12				0		18	Asia/Shanghai	2012-01-21
+3181039	Stazione Campasso	Stazione Campasso	Campasso,Genova Campasso,Stazione Campasso	44.42197	8.88954	S	RSTN	IT	IT	08	GE	010025		0		16	Europe/Rome	2011-02-25
+3139567	Sjøbuvika	Sjobuvika	Sjobuvika,Sjøbuvika,Sobodvigen,Söbodvigen	58.01667	7.35	S	FRM	NO	NO	19	1002			0		7	Europe/Oslo	2012-01-19
+4658545	Smithville United Methodist Church	Smithville United Methodist Church		35.96173	-85.81332	S	CH	US		TN	041			0	317	317	America/Chicago	2006-01-15
+3232797	La Hargouette	La Hargouette		43.5157	-1.50376	P	PPL	FR		97	64	641	64024	0		11	Europe/Paris	2012-02-27
+4387365	Friend Church	Friend Church		37.46004	-93.76715	S	CH	US		MO	057			0	278	287	America/Chicago	2006-01-15
+3446684	Tauá	Taua		-12.5	-38.83333	S	RSTP	BR		05	2928604			0		171	America/Bahia	2012-08-03
+3401960	Cologne	Cologne		3.21667	-51.23333	P	PPL	BR		03	1600501			0		22	America/Belem	2012-08-03
+5165178	Oak Grove Cemetery	Oak Grove Cemetery		40.28673	-83.07463	S	CMTY	US		OH	041			0	279	284	America/New_York	2006-01-15
+5370582	Marino Mine	Marino Mine		35.4294	-118.26091	S	MN	US		CA	029			0	1479	1505	America/Los_Angeles	2006-01-15
+1543584	Ozero Bol’shoye Stepankovo	Ozero Bol'shoye Stepankovo		55.33794	67.345	H	LK	RU		40				0		128	Asia/Yekaterinburg	2012-07-05
+947870	Tshipu	Tshipu		-23.76667	29.2	H	STMI	ZA		09				0		1309	Africa/Johannesburg	2004-05-11
+3528651	El Naranjito	El Naranjito		17.83572	-91.14703	P	PPL	MX		27				0		58	America/Mexico_City	2012-08-04
+5721767	Crump Reservoir	Crump Reservoir		42.2217	-119.99638	H	RSV	US		OR	037			0	1734	1732	America/Los_Angeles	2011-12-11
+2830630	Sperberhart	Sperberhart		48.50384	8.26395	T	MT	DE		01	082	08237	08237004	0	936	937	Europe/Berlin	2013-02-15
+5620615	07S39E07BDB_01 Spring	07S39E07BDB_01 Spring		45.24942	-107.0059	H	SPNG	US		MT	003			0	1330	1331	America/Denver	2006-01-15
+5449743	10087 Water Well	10087 Water Well		34.78284	-106.0828	H	WLL	US		NM	057			0	1877	1878	America/Denver	2006-01-15
+4374193	Worthington Basin	Worthington Basin		38.984	-76.47135	H	HBR	US		MD	003			0	0	1	America/New_York	2006-01-15
+7661747	Dongjiatai	Dongjiatai	Dongjiatai,dong jia tai,董家台	30.37565	112.62156	P	PPL	CN		12				0		25	Asia/Shanghai	2012-01-21
+4510645	East Park Church of God	East Park Church of God		39.75478	-84.13855	S	CH	US		OH	113			0	269	272	America/New_York	2007-02-14
+6270904	El Biyad	El Biyad		33.10222	35.38806	T	RDGE	LB		07				0		672	Asia/Beirut	2006-08-23
+6361397	Tortosa	Tortosa		40.83485	0.47756	A	ADM3	ES		56	T	43155		34734		63	Europe/Madrid	2013-11-10
+5591509	Dry Creek	Dry Creek		47.46521	-115.81738	H	STM	US		ID	079			0	963	972	America/Los_Angeles	2006-01-15
+884700	Nabob	Nabob		-20.11667	30.58333	S	MN	ZW		00				0		1093	Africa/Harare	1994-01-08
+388206	Qaryah Banī Sālā	Qaryah Bani Sala	Qaryah Bani Sala,Qaryah Banī Sālā	31.47222	47.98139	L	AREA	IR		15				0		12	Asia/Tehran	2012-01-19
+1439401	Murād Tsāh	Murad Tsah	Morad Ca,Morad Chah,Morād Chāh,Moṟāḏ Cā,Murad Tsah,Murād Tsāh,مراد څاه	31.59979	63.59445	H	WLL	AF		10				0		780	Asia/Kabul	2012-01-19
+4159885	Istokpoga Creek	Istokpoga Creek		27.41615	-81.14368	H	STM	US		FL	055			0	9	13	America/New_York	2006-01-15
+7141254	Blue Head Knob	Blue Head Knob		37.27306	-82.36423	T	MT	US		KY	195			0	558	561	America/New_York	2010-01-31
+2432678	Faya-Largeau	Faya-Largeau	FYT,Faya,Faya-Largeau,Largeau	17.9257	19.10428	P	PPLA	TD		23				13400		242	Africa/Ndjamena	2013-05-08
+7256718	Exit 122	Exit 122		33.91694	-118.07972	R	RDJCT	US		CA	037			0	37	36	America/Los_Angeles	2010-02-07
+3004193	Le Fouras	Le Fouras		49.48106	1.47794	P	PPL	FR		A7	76			0		174	Europe/Paris	2006-04-30
+6778218	Obricha	Obricha		15.68192	13.89223	L	LCTY	NE		02				0		327	Africa/Niamey	2009-01-04
+5994107	Kotaneelee Range	Kotaneelee Range		60.24991	-124.16984	T	MT	CA		12				0		1055	America/Whitehorse	2006-01-18
+8148742	Kūh-e Qāzān Dāghī	Kuh-e Qazan Daghi	Kuh-e Qazan Daghi,Kūh-e Qāzān Dāghī,kwh qazan daghy,کوه قازان داغی	38.62106	45.9799	T	MTS	IR		33				0	2575	2587	Asia/Tehran	2012-01-22
+2018915	Novomikhaylovka	Novomikhaylovka	Lung-wang-miao,Novaya Mikhaylovka,Novo-Mikhaylovskoye,Novomikhajlovka,Novomikhaylovka,Новомихайловка	45.0535	132.8552	P	PPL	RU		59				0		69	Asia/Vladivostok	2012-04-05
+7909528	Namdu	Namdu	Namdu,Намду	50.9638	103.2219	H	STM	RU		11				0		1573	Asia/Irkutsk	2012-01-21
+5180948	Blossburg	Blossburg		41.67952	-77.06386	P	PPL	US		PA	117			1538	408	409	America/New_York	2011-05-14
+4569868	Bailey School (historical)	Bailey School (historical)		34.4704	-81.9726	S	SCH	US		SC	059			0	184	192	America/New_York	2006-01-15
+3222629	Sildvika	Sildvika		69.14889	18.01028	P	PPL	NO		18	1925			0		143	Europe/Oslo	2010-10-15
+4029802	Cerro Los Apaches	Cerro Los Apaches		30.855	-111.78694	T	MT	MX		26				0		567	America/Hermosillo	2001-01-02
+594506	Skriaužiupis	Skriauziupis		56.06667	24.13333	H	STM	LT		00				0		46	Europe/Vilnius	2007-05-30
+8387940	Khao I-Lokho	Khao I-Lokho	Khao I-Lokho,khea xi loa khoa,เขาอีโละโคะ	16.44531	99.14333	T	MT	TH		11				0		1029	Asia/Bangkok	2012-09-08
+8009366	Ghaireni	Ghaireni		28.28945	81.60506	P	PPLL	NP		MR	02	58	580004	0		175	Asia/Kathmandu	2011-08-27
+6332963	North Pape Pit	North Pape Pit		42.94361	-110.07917	S	MN	US		WY	035			0	2259	2259	America/Denver	2007-02-16
+2150187	Savernake	Savernake	Savernake	-35.73333	146.05	P	PPL	AU		02	12300			0		131	Australia/Sydney	2012-01-18
+7003073	Mevlat	Mevlat		37.42161	43.44703	P	PPL	TR		70				0		2354	Europe/Istanbul	2009-11-28
+79904	Al ‘Awādhil	Al `Awadhil	Al `Awadhil,Al ‘Awādhil	14.11667	45.91667	L	TRB	YE		20	1408			0		1926	Asia/Aden	2012-01-16
+6184646	Wraith's Lake	Wraith's Lake		43.96815	-81.4295	H	LK	CA		08	5910071			0		313	America/Toronto	2013-07-22
+1741079	Parit Semani	Parit Semani	Parit Semani,Tebok Semanik	3.8777	100.7352	H	DTCH	MY		07				0		2	Asia/Kuala_Lumpur	2012-01-17
+2084612	Urakukur	Urakukur		-4.13204	152.45059	P	PPL	PG		10				0		-9999	Pacific/Port_Moresby	2011-06-05
+3522167	El Palenque	El Palenque		15.62542	-92.65526	P	PPL	MX		05	117			243		1564	America/Mexico_City	2013-08-01
+8410371	Kian	Kian	Kian	-9.9472	124.5272	P	PPL	ID		18				0		866	Asia/Makassar	2012-10-08
+8073410	Masjid al Khaḑir	Masjid al Khadir	Al Khader Mosque,Masjid al Khadir,Masjid al Khaḑir,msjd alkhdr,مسجد الخضر	31.69733	35.16375	S	MSQE	PS		00				0		841	Asia/Gaza	2012-01-22
+3079377	Bílá hora	Bila hora	Weisser Berg,White Hill,White Mountain	50.08333	14.33333	T	MT	CZ	CZ	00				0		380	Europe/Prague	2006-10-07
+3551987	La Prusiana	La Prusiana		20.06194	-75.16417	L	LCTY	CU		10				0		14	America/Havana	2004-10-26
+6276408	Tarîq Aïn es Saouda	Tariq Ain es Saouda		33.58833	36.02556	R	TRL	LB		08				0		1202	Asia/Beirut	2006-08-23
+2256566	Mpala	Mpala		-1.82222	16.21917	P	PPL	CG		08				0		298	Africa/Brazzaville	1995-11-15
+1813281	Daxingzhuang	Daxingzhuang	Daxingzhuang,Ta-hsing,Ta-hsing-chuang	33.73333	119.03333	P	PPL	CN	CN	04				0		10	Asia/Shanghai	2012-01-18
+4904751	Olive Branch	Olive Branch		40.74337	-89.11147	H	STM	US		IL	203			0	199	208	America/Chicago	2006-01-15
+3286970	Bakuša	Bakusa		43.65111	16.82167	L	LCTY	HR		15				0		541	Europe/Zagreb	2005-06-04
+4623531	Francis Spring School (historical)	Francis Spring School (historical)		35.09285	-85.56413	S	SCH	US		TN	115			0	208	214	America/Chicago	2006-01-15
+6979391	Vereda Borugo	Vereda Borugo		1.48	-75.43	L	LCTY	CO		08				0		245	America/Bogota	2009-11-28
+3600194	Cerro de Yoro	Cerro de Yoro	Cerro Quiscamote,Cerro de Yoro	14.78333	-88.38333	T	MT	HN	HN	13				0		1571	America/Tegucigalpa	2012-01-18
+3934240	Nuevo Cuzco	Nuevo Cuzco		-11	-72.7	P	PPL	PE		25	2502	250202		0		360	America/Lima	2012-07-19
+2235892	Akak	Akak		2.86667	11.23333	P	PPL	CM		14				0		614	Africa/Douala	2011-03-06
+6275128	El Hariqa	El Hariqa		33.89333	35.6125	T	SLP	LB		05				0		422	Asia/Beirut	2006-08-23
+352885	Manshīyat al Awqāf	Manshiyat al Awqaf	Manshiyat al Awqaf,Manshiyet el-Auqaf,Manshîyet el-Auqâf,Manshīyat al Awqāf	31.13824	30.09077	P	PPL	EG		03				0		-3	Africa/Cairo	2012-01-19
+585645	Ləkit Kötüklü	Lakit Kotuklu	Lakit Kotuklu,Lekit Ketyuklyu,Lekit Këtyuklyu,Ləkit Kötüklü	41.51469	46.88341	P	PPL	AZ		39				0		999	Asia/Baku	2012-01-17
+3366504	Jakob se Vlei	Jakob se Vlei		-30.33638	19.07494	T	PAN	ZA		08				0		895	Africa/Johannesburg	2011-04-19
+1482890	Ie Masin	Ie Masin		5.89028	95.32806	P	PPL	ID		01				0		58	Asia/Jakarta	2005-08-18
+6879873	Sinch’on-soryuji	Sinch'on-soryuji	Sinch'on-soryuji,Sinch’on-soryuji,sinchonsolyuji,신촌소류지	35.77092	127.89951	H	RSV	KR		20				0		318	Asia/Seoul	2012-01-20
+1095934	Chefe Cavina	Chefe Cavina		-16.61611	39.28944	P	PPL	MZ		06				0		25	Africa/Maputo	1998-12-04
+6622306	Niuyan Hu	Niuyan Hu		-69.38	76.34833	H	LK	AQ						0		-9999	Antarctica/Mawson	2008-01-20
+1517756	Ozero Ul’kun-Kara-Kul	Ozero Ul'kun-Kara-Kul		43.75	78.05	H	LK	KZ		00				0		477	Asia/Almaty	1994-03-01
+605819	Harrträsk	Harrtrask		67.03333	20.73333	S	FRM	SE		14	2523			0		415	Europe/Stockholm	2011-10-30
+7283507	Umspannwerk Mehrum	Umspannwerk Mehrum		52.31441	10.08791	S	PS	DE		06				0		69	Europe/Berlin	2010-03-24
+1044432	Joe	Joe		-18.47528	35.40722	P	PPL	MZ		05				0		121	Africa/Maputo	1998-12-07
+5926261	Colwell Lake	Colwell Lake		55.0834	-104.68377	H	LK	CA		11				0		385	America/Regina	2013-07-21
+58619	Ghedgoi	Ghedgoi		0.51667	42.73333	P	PPL	SO		08				0		23	Africa/Mogadishu	2011-06-05
+8397208	Rongrian Ban Nong Yaplong	Rongrian Ban Nong Yaplong	Rongrian Ban Nong Yaplong,rongreiyn ban hnxnghyaplxng,โรงเรียนบ้านหนองหญ้าปล้อง	15.37261	99.80458	S	SCH	TH		15				0		61	Asia/Bangkok	2012-10-08
+7133523	Ki-a-kuts Bicycle and Pedestrian Bridge	Ki-a-kuts Bicycle and Pedestrian Bridge		45.3931	-122.7642	S	BDG	US		OR	067			0	34	34	America/Los_Angeles	2010-01-31
+2246214	Santiaba Mandjak	Santiaba Mandjak		12.37306	-16.55861	P	PPL	SN		12				0		20	Africa/Dakar	2000-04-06
+1503692	Khayryuzovka	Khayryuzovka	Khajrjuzovka,Khayruzovka,Khayryuzovka,Хайрюзовка	52.9598	84.9149	P	PPL	RU		04				0		247	Asia/Omsk	2012-01-17
+5798910	Jonas E Salk Junior High School	Jonas E Salk Junior High School		47.71711	-117.44883	S	SCH	US		WA	063			0	634	630	America/Los_Angeles	2006-01-15
+7914529	Sukasari	Sukasari	Sukasari	-7.5424	107.9297	P	PPL	ID		30				0		530	Asia/Jakarta	2012-01-21
+2435795	Bédélé	Bedele		9.14747	17.10628	P	PPL	TD		14				0		418	Africa/Ndjamena	2008-10-30
+3675984	Ciénaga Los Palos	Cienaga Los Palos		8.71792	-74.99424	H	LK	CO		27				0		13	America/Bogota	2011-10-11
+1228291	Sandycroft	Sandycroft		7.0975	79.9009	S	EST	LK		36				0		15	Asia/Colombo	1994-01-08
+4143635	Middleford Acres	Middleford Acres		38.68067	-75.60882	P	PPL	US		DE	005			0	9	9	America/New_York	2006-01-15
+5035858	Township of Louriston	Township of Louriston	Louriston Township	45.10859	-95.43088	A	ADMD	US		MN	023			0	319	318	America/Chicago	2013-03-07
+6275427	Ech Châhoût	Ech Chahout		33.94667	35.73861	L	AREA	LB		05				0		1064	Asia/Beirut	2006-08-23
+6920393	Vāfūrābād	Vafurabad	Vafurabad,Vāfūrābād,wafwr abad,وافور آباد	28.8815	58.9469	P	PPL	IR		29				0		635	Asia/Tehran	2013-07-07
+505577	Pravoyegorlykskiy Kanal	Pravoyegorlykskiy Kanal	Pravoegorlykskij Kanal,Pravoyegorlykskiy Kanal,Правоегорлыкский Канал	45.3114	41.5332	H	CNL	RU		70				0		154	Europe/Moscow	2012-01-17
+1657015	Phou Houaypan	Phou Houaypan		19.68611	104.12694	T	MT	LA		14				0		1268	Asia/Vientiane	2001-05-01
+8350534	Cuñumbuqui	Cunumbuqui		-6.61566	-76.46838	A	ADM3	PE		22	2205	220505		0		427	America/Lima	2012-07-18
+6461371	Gulubinci	Gulubinci	Gulubinci,Гълъбинци	42.43333	26.25	A	ADM3	BG		65	JAM25	JAM25-09		0		164	Europe/Sofia	2007-04-23
+8043926	Tanjung Batuitam	Tanjung Batuitam	Tandjoeng Batoeitam,Tanjung Batuitam	-3.63475	128.4159	T	PT	ID		28				0		0	Asia/Jayapura	2012-01-21
+2759867	Alphense Bergen	Alphense Bergen	Alphensche Bergen,Alphense Bergen	51.48183	4.92566	T	HLLS	NL		06				0		32	Europe/Amsterdam	2012-01-17
+912145	Katasha	Katasha		-14.96667	25.25	P	PPL	ZM		01				0		1184	Africa/Lusaka	1994-01-08
+6528506	Super 8 Motel - San Mateo/Sf Intl. Arpt Se	SUPER 8 MOTEL - SAN MATEO/SF INTL. ARPT SE		37.5758	-122.3187	S	HTL	US		CA				0		-2	America/Los_Angeles	2007-04-14
+2734166	Selores	Selores		41.20448	-7.29264	P	PPL	PT		05	0403	040317		0		617	Europe/Lisbon	2011-08-28
+4066399	Harris Mill (historical)	Harris Mill (historical)		33.9926	-86.31165	S		US		AL	055			0	267	267	America/Chicago	2010-02-14
+268292	Aïn es Salélam	Ain es Salelam	Ain es Salelam,Aïn es Salélam,`Ayn as Salalim,ʿyn alslalm,عين السلالم,‘Ayn as Salālim	33.38528	35.71611	H	SPNG	LB		07				0		949	Asia/Beirut	2013-04-04
+3979927	Yerbabuena	Yerbabuena		20.33209	-104.16787	P	PPL	MX		14				0		1688	America/Mexico_City	2012-08-04
+4190431	Curtis Creek	Curtis Creek		31.86855	-81.02594	H	STM	US		GA	051			0	1	-9999	America/Kentucky/Monticello	2006-01-15
+3051592	Hegyalja	Hegyalja		46.98333	17.93333	P	PPL	HU		23				0		140	Europe/Budapest	1993-12-28
+7511768	Sijiaolou	Sijiaolou	Sijiaolou,si jiao lou,四角楼	23.89877	115.19026	P	PPL	CN		30				0		106	Asia/Shanghai	2012-01-21
+1338656	Mūnan	Munan		33.98222	72.96041	P	PPL	PK		03				0		569	Asia/Karachi	2011-05-08
+4733086	South Mesquite Creek	South Mesquite Creek		32.70096	-96.53082	H	STM	US		TX	113			0	110	118	America/Chicago	2006-01-15
+7178459	Old Knorr Student Center	Old Knorr Student Center		41.93333	-84.63333	S	BLDG	US		MI	059			0	349	351	America/Detroit	2010-02-05
+8217439	Poplotsk	Poplotsk	Poplock,Poplotsk,Поплоцк	54.827	25.8486	P	PPL	BY		03				0		135	Europe/Minsk	2012-02-29
+1990544	Kebonmede	Kebonmede		-6.0975	106.70444	P	PPL	ID		04				0		5	Asia/Jakarta	2004-10-29
+8546132	Erdaokan	Erdaokan	Erdaokan,er dao kan,二道坎	50.04008	125.79995	P	PPL	CN		08				0		383	Asia/Harbin	2013-06-06
+4683001	Consolidated Schools	Consolidated Schools		29.41885	-95.25271	S	SCH	US		TX	039			0	14	18	America/Chicago	2006-01-15
+2020007	Mikhaylovka	Mikhaylovka	Mikhajlovka,Mikhaylovka,Tsezheski,Tsezhey,Tsezheyskiy,Михайловка	50.40694	104.15611	P	PPL	RU	RU	11				0		862	Asia/Irkutsk	2012-01-17
+3209871	Balaclava Bay	Balaclava Bay		50.56667	-2.425	H	COVE	GB		ENG				0		-9999	Europe/London	1994-12-23
+5492000	Socorro Baptist Temple	Socorro Baptist Temple		34.0584	-106.89142	S	CH	US		NM	053			0	1403	1405	America/Denver	2007-02-15
+7950702	Thanpati	Thanpati		27.97191	83.4008	P	PPLL	NP		WR	08	46	460075	0		1177	Asia/Kathmandu	2011-08-27
+1403622	Ali Nawāz Wāh	Ali Nawaz Wah		26.69908	68.43078	H	CNLI	PK		05				0		40	Asia/Karachi	2011-05-08
+7137189	Prince William County Criminal Justice Academy	Prince William County Criminal Justice Academy		38.66371	-77.58593	S	BLDG	US		VA	153			0	79	82	America/New_York	2011-01-10
+8461521	Mwamwako	Mwamwako		-9.66202	22.80555	P	PPL	CD		05				0		954	Africa/Lubumbashi	2013-02-10
+164127	Siḩāl	Sihal	S'hal,Sahal,Sahâl,Sihal,Siḩāl,S’hâl,shal,سحال	35.54473	36.86653	P	PPL	SY		12				0		433	Asia/Damascus	2012-02-01
+8325582	Lukakua	Lukakua		-5.36433	14.31108	P	PPL	CD		08				0		329	Africa/Kinshasa	2012-06-07
+1999871	Tangguanzhai	Tangguanzhai	Tangguanzhai,tang guan zhai,汤官寨	34.57639	108.96639	P	PPL	CN		26				0		413	Asia/Chongqing	2012-01-20
+286438	Shāţ	Shat	Shat,Shāţ	23.11329	58.51679	P	PPL	OM		12				0		446	Asia/Muscat	2012-11-08
+1325819	Gungasager Rocks	Gungasager Rocks		18.59741	94.12694	T	RKS	MM		01				0		-9999	Asia/Rangoon	2012-12-06
+5053387	Woodland Junior High School	Woodland Junior High School		46.81633	-92.07713	S	SCH	US		MN	137			0	321	323	America/Chicago	2006-01-15
+5236203	Fletcher Hill	Fletcher Hill		43.57063	-72.57787	T	MT	US		VT	027			0	585	583	America/New_York	2006-01-15
+6276050	Choaabet Charaf	Choaabet Charaf		34.14556	36.46583	H	WAD	LB		11				0		1793	Asia/Beirut	2006-08-23
+7279620	Aracaju Praia Hotel	Aracaju Praia Hotel		-10.9513	-37.0448	S	HTL	BR		28	2800308			0		3	America/Maceio	2012-08-03
+7945907	Lakhan Tola	Lakhan Tola		28.99309	80.83105	P	PPLL	NP		FR	14	70	700003	0		1136	Asia/Kathmandu	2011-08-27
+8255000	Kioka	Kioka		-5.76786	15.09171	P	PPL	CD		08				0		631	Africa/Kinshasa	2012-04-07
+5733756	Joes Prairie	Joes Prairie		43.58373	-122.37143	T	PLN	US		OR	039			0	1558	1566	America/Los_Angeles	2010-02-17
+923499	Uzumara	Uzumara	Usimvala Hill,Usivala Hill,Usmuala,Uzumala,Uzumara,Uzumora	-10.87068	34.13032	T	MT	MW		N	21			0		1951	Africa/Blantyre	2012-01-18
+2981991	Saigneville	Saigneville	Saigneville	50.13737	1.71288	P	PPL	FR		B6	80	801	80691	406		29	Europe/Paris	2012-01-18
+2334551	Keshezatso	Keshezatso		8.26667	12.13333	P	PPL	NG		00				0		473	Africa/Lagos	1994-01-05
+7199962	Colony Village Mobile Home Park	Colony Village Mobile Home Park		39.68389	-82.56667	P	PPL	US		OH	045			0	243	238	America/New_York	2010-02-05
+5296073	Goat Well	Goat Well		31.75037	-110.46758	H	WLL	US		AZ	019			0	1581	1586	America/Phoenix	2006-01-15
+8193686	Sheepwash Bay	Sheepwash Bay	Sheepwash Bay	-43.23	147.99	H	BAY	AU		06				0		-9999	Australia/Hobart	2012-02-02
+1105607	Ligongolo	Ligongolo		-25.195	32.17556	P	PPL	MZ		04				0		101	Africa/Maputo	1998-12-10
+1547644	Bangang	Bangang		33.50833	120.3	P	PPL	CN		04				0		-1	Asia/Shanghai	1999-01-20
+3657847	Cañil	Canil	Canil,Cañil,Ganil,Gañil	-3.58969	-79.32187	P	PPL	EC		12				0		2703	America/Guayaquil	2013-02-08
+6039809	Lac Ricard	Lac Ricard		48.84861	-78.90139	H	LK	CA		10	08			0		294	America/Montreal	2013-07-22
+777651	Skreifjorden	Skreifjorden	Skreifjord,Skreifjorden	70.52056	23.13917	H	FJD	NO	NO	05				0		-9999	Europe/Oslo	2012-01-19
+320381	Burhan	Burhan		37.07877	33.0735	P	PPL	TR		78				0		1344	Europe/Istanbul	2011-06-06
+7412661	Inpausan River	Inpausan River	Inpausan,Inpausan River	11.1057	122.1691	H	STMI	PH		06	06			0		156	Asia/Manila	2012-01-21
+6282791	Masang-nyŏng	Masang-nyong	Masang-nyong,Masang-nyŏng,masanglyeong,마상령	41.15861	126.52056	T	PASS	KP		01				0		954	Asia/Pyongyang	2012-01-19
+4752932	Clark Cemetery	Clark Cemetery		37.25623	-81.03286	S	CMTY	US		VA	021			0	671	658	America/New_York	2006-01-15
+5282573	Booth Hill	Booth Hill		41.56704	-73.29817	T	MT	US		CT	005			0	257	257	America/New_York	2006-01-15
+7755180	Ovrag Krasnyy	Ovrag Krasnyy	Ovrag Krasnyj,Ovrag Krasnyy,Овраг Красный	52.0772	48.6506	H	RVN	RU		67				0		55	Europe/Volgograd	2012-01-21
+5865086	Jackinsky Ranch	Jackinsky Ranch		60.08083	-151.62028	S		US		AK	122			0	53	59	America/Anchorage	2010-01-30
+2703074	Jertsbäcken	Jertsbacken	Gertsbacken,Gertsbäcken,Jertsbacken,Jertsbäcken	65.68333	17.28333	H	STM	SE	SE	23				0		340	Europe/Stockholm	2012-01-17
+1004592	Fairlie	Fairlie		-23.57839	29.06868	S	FRM	ZA		09	DC35	LIM352		0		1140	Africa/Johannesburg	2012-07-12
+2643724	Longa Skerry	Longa Skerry		60.45	-1.03333	T	RK	GB		SCT	W3			0		-9999	Europe/London	2004-09-24
+2645290	Kirkconnell	Kirkconnell		54.98333	-3.6	P	PPL	GB		SCT	U2			0		9	Europe/London	2007-06-16
+7196754	Life Christian Center	Life Christian Center		32.61025	-117.06847	S	CH	US		CA	073			0	33	34	America/Los_Angeles	2010-02-05
+1193458	Nandikāti	Nandikati		22.41667	89	P	PPL	BD		00				0		5	Asia/Dhaka	1994-01-27
+7865050	Quingangela	Quingangela		-10.65257	13.90631	L	LCTY	AO		06				0		69	Africa/Luanda	2011-06-07
+6030311	Lac Long	Lac Long		46.41806	-73.27444	H	LK	CA		10	14			0		204	America/Montreal	2013-07-22
+5862854	Glacier Creek	Glacier Creek		64.045	-147.605	H	STM	US		AK	068			0	557	589	America/Anchorage	2010-09-05
+6489377	B&B Ernestina	B&B Ernestina		45.717	12.20224	S	HTL	IT		20	TV	026059		0		38	Europe/Rome	2011-09-11
+7359753	Aḑ Ḑubab	Ad Dubab	Ad Dubab,Aḑ Ḑubab	14.12603	44.05556	P	PPL	YE		23	1108			0		1614	Asia/Aden	2012-01-21
+1712668	Green Island Bay	Green Island Bay	Green Island Bay	10.2463	119.4166	H	BAY	PH		41	49			0		-9999	Asia/Manila	2012-01-17
+1503747	Kharino	Kharino	Kharino,Харино	55.35	61.7494	P	PPL	RU		13				0		209	Asia/Yekaterinburg	2012-01-17
+3516264	Tapachula International Airport	Tapachula International Airport	Aeropuerto Internacional de Tapachula,Bandar Udara Internasional Tapachula,MMTP,San bay quoc te Tapachula,Sân bay quốc tế Tapachula,TAP,Tapachula International,Tapachula International Airport	14.79434	-92.37002	S	AIRP	MX		05				0	29	24	America/Merida	2011-03-28
+1291083	Tihring Klang	Tihring Klang		21.75	93.16667	T	MTS	MM		02				0		645	Asia/Rangoon	1993-12-21
+3657144	Hacienda Cristal	Hacienda Cristal	Cristal,Hacienda Cristal	-4.11667	-79.2	P	PPL	EC	EC	12				0		1988	America/Guayaquil	2012-01-18
+6486704	Eurostars Saint John	Eurostars Saint John		41.88899	12.50505	S	HTL	IT		07	RM	058091		0		48	Europe/Rome	2011-09-11
+8152950	Frankland Group National Park	Frankland Group National Park	Frankland Group National Park	-17.16235	146.01221	L	PRK	AU		04				0		-9999	Australia/Lindeman	2012-01-22
+1530106	Gora Nayzatas	Gora Nayzatas		49.54273	66.5325	T	MT	KZ		00				0		352	Asia/Almaty	2012-06-06
+2163712	Hazlemere	Hazlemere		-22.48333	145.71667	S	FRM	AU		04	30410			0		289	Australia/Brisbane	2011-06-04
+5486676	Ramona Spring	Ramona Spring		35.94333	-107.64363	H	SPNG	US		NM	031			0	2010	2016	America/Denver	2011-12-11
+7110977	Rahmān Textile Mills	Rahman Textile Mills		31.40328	73.06322	S	ML	PK		04				0		184	Asia/Karachi	2009-11-28
+875490	Lyubimovo	Lyubimovo	Ljubimovo,Lyubimovo,Любимово	57.6781	56.5311	P	PPL	RU		90				0		176	Asia/Yekaterinburg	2012-01-20
+5975828	Hoey Lake	Hoey Lake		48.99271	-93.60799	H	LK	CA		08	6116135			0		359	America/Winnipeg	2013-07-21
+2348788	Awerankale	Awerankale		8.11667	4.13333	P	PPL	NG		00				0		321	Africa/Lagos	1994-01-05
+7664095	Ozero Sokrat	Ozero Sokrat	Ozero Sokrat,Озеро Сократ	54.3581	75.7715	H	LK	RU		53				0		97	Asia/Novosibirsk	2012-01-21
+5926605	Confluent Babanakweaciwi Sibi	Confluent Babanakweaciwi Sibi		48.85739	-79.21294	H	STM	CA		10				0		273	America/Montreal	2006-01-18
+996537	Hilcrest Agricultural Holdings	Hilcrest Agricultural Holdings		-26.13696	28.39713	S	EST	ZA		06	EKU	EKU		0		1637	Africa/Johannesburg	2012-07-12
+3257810	Cvjetkovići	Cvjetkovici		44.63793	18.54186	P	PPL	BA		01				0		365	Europe/Sarajevo	2012-04-06
+5658374	Hummingbird Mine	Hummingbird Mine		46.62772	-111.4133	S	MN	US		MT	007			0	1972	1984	America/Denver	2006-01-15
+4189072	Conasauga Lake	Conasauga Lake		34.85954	-84.65072	H	LK	US		GA	213			0	957	965	America/New_York	2011-12-11
+8358573	Gayam	Gayam	Gayam	-8.2018	113.6235	P	PPL	ID		08				0		60	Asia/Jakarta	2012-08-06
+3895693	Río Chadmo	Rio Chadmo		-42.94224	-73.6429	H	STM	CL		14				0		5	America/Santiago	2013-01-11
+6775866	Ngadas	Ngadas	Ngadas	-7.9201	112.9963	P	PPL	ID		08				0		1781	Asia/Jakarta	2012-01-20
+1875324	Kŭmsang-gol	Kumsang-gol	Kumsang-gol,Kŭmsang-gol,geumsang-gol,금상골	39.82472	126.87028	P	PPL	KP		03				0		640	Asia/Pyongyang	2012-01-19
+3588250	Quebrada Trapiches	Quebrada Trapiches		14.68333	-89.23333	H	STMI	GT		04				0		663	America/Guatemala	1993-12-23
+5044725	Saint John's Lutheran Church	Saint John's Lutheran Church		45.62444	-94.05556	S	CH	US		MN	009			0	328	329	America/Chicago	2006-01-15
+1250837	Athagama	Athagama		6.53333	79.96667	P	PPL	LK		36				0		-9999	Asia/Colombo	1994-01-08
+1134950	Lālā Gul Kōr	Lala Gul Kor	Lala Gol Kowr,Lala Gul Kor,Lalagul Kor,Lalagul'kor,Lalagul’kor,Lālā Gol Kowr,Lālā Gul Kōr,Lālāgul Kōṟ,lala gl kwr,لالا گل كور,لالا گل کور	31.73153	64.43247	P	PPL	AF		10				0		800	Asia/Kabul	2012-01-16
+5279968	Zion Church (historical)	Zion Church (historical)		44.71722	-88.17566	S	CH	US		WI	083			0	236	238	America/Chicago	2007-02-14
+8419050	Tobin	Tobin	Tobin	-9.6559	124.7133	P	PPL	ID		18				0		457	Asia/Makassar	2012-11-10
+6772675	Pilangbango	Pilangbango	Pilangbango	-6.8972	109.2176	P	PPL	ID		07				0		10	Asia/Jakarta	2012-01-20
+7968780	Simpani	Simpani		27.52232	84.82557	P	PPLL	NP		CR	11	31	310029	0		342	Asia/Kathmandu	2011-08-27
+3791169	Las Vegas	Las Vegas		10.08611	-70.925	L	AREA	VE		23				0		109	America/Caracas	2002-05-15
+2211371	Sīdī Bin Ya‘qūb	Sidi Bin Ya`qub		32.15583	12.99083	S	SHRN	LY		57				0		766	Africa/Tripoli	1995-02-16
+2238196	Quimbambe	Quimbambe	Quimbambe,Quimbunga Zombo	-7.55	15.93333	P	PPL	AO	AO	15				0		1053	Africa/Luanda	2012-01-17
+1277424	Banār	Banar		26.32969	73.15163	P	PPL	IN		24				0		216	Asia/Kolkata	2012-10-06
+7473138	Salu Bajo	Salu Bajo	Salu Bajo	-3.3609	120.2027	H	STM	ID		38				0		176	Asia/Makassar	2012-01-21
+5191193	Glade Run	Glade Run		41.02506	-80.01395	H	STM	US		PA	019			0	348	355	America/New_York	2010-09-05
+5514362	Sierra Fire Protection District Verdi Volunteer Fire Department	Sierra Fire Protection District Verdi Volunteer Fire Department		39.51921	-119.99019	S	BLDG	US		NV	031			0	1496	1497	America/Los_Angeles	2011-01-10
+7885731	Sandaogou	Sandaogou	Sandaogou,san dao gou,三道沟	40.82722	122.955	P	PPL	CN		19				0		161	Asia/Shanghai	2012-01-21
+1023354	Alfalfa	Alfalfa		-31.21503	26.28476	P	PPL	ZA		05	DC14	EC144		0		1511	Africa/Johannesburg	2012-07-12
+5176740	Whittier Elementary School	Whittier Elementary School		41.03283	-83.63576	S	SCH	US		OH	063			0	238	239	America/New_York	2006-01-15
+878413	Johannesbrucke	Johannesbrucke	Johannes Bruck,Johannesbrucke	-10.68333	35.25	P	PPL	TZ		14				0		955	Africa/Dar_es_Salaam	2012-01-17
+174412	Wādī Abū Naytal	Wadi Abu Naytal	Ouadi Abou Neital,Ouâdi Abou Neïtal,Wadi Abu Naytal,Wādī Abū Naytal,Wādī Abū Nayţal,wady abw nytl,وادي أبو نيتل	35.2993	38.25592	H	WAD	SY		10				0		440	Asia/Damascus	2012-07-04
+3561730	El Cafetal	El Cafetal		23.01667	-81.71667	L	LCTY	CU		03				0		200	America/Havana	1994-01-12
+5424125	Gurley Dam	Gurley Dam		38.03555	-108.24591	S	DAM	US		CO	113			0	2514	2519	America/Denver	2006-01-15
+6895745	Chŏlgu-gol	Cholgu-gol	Cholgu-gol,Chŏlgu-gol,jeolgugol,절구골	36.8024	129.1565	P	PPL	KR		14				0		418	Asia/Seoul	2012-01-20
+5652975	Foster Creek Mine	Foster Creek Mine		46.19909	-113.13422	S	MN	US		MT	023			0	1949	1952	America/Denver	2006-01-15
+4633825	Jones School (historical)	Jones School (historical)		36.18424	-84.93523	S	SCH	US		TN	049			0	528	523	America/Chicago	2006-01-15
+2713704	Fridslund	Fridslund		57.35	16.36667	P	PPL	SE		09	0882			0		56	Europe/Stockholm	2011-10-30
+1912032	Zhuzhuang	Zhuzhuang		39.61667	116.58361	P	PPL	CN		22				0		26	Asia/Shanghai	2001-02-02
+7670838	Merir Freshwater Central Swamp	Merir Freshwater Central Swamp		4.31201	132.31067	H	SWMP	PW		16				0		16	Pacific/Palau	2011-03-04
+705602	Klymentove	Klymentove	Kliment'yevo,Klimentovo,Klimentovoye,Kliment’yevo,Klymentove	47.80518	29.28468	P	PPL	UA		17				0		205	Europe/Kiev	2012-01-18
+2285555	Kwaboukro	Kwaboukro		8.0587	-5.31909	P	PPL	CI		90				0		254	Africa/Abidjan	2012-02-28
+3911379	Llanaloma	Llanaloma		-21.6	-66.7	P	PPL	BO		07				0		4000	America/La_Paz	1993-12-12
+8557895	Åsen skole	Asen skole	Asen skole,Åsen skole	61.02675	10.75387	S	SCH	NO		06	0412			0		540	Europe/Oslo	2013-07-04
+3858124	Estancia El Duraznillo	Estancia El Duraznillo		-30.78333	-63.18333	S	RNCH	AR		05				0		92	America/Argentina/Cordoba	1993-12-21
+7099012	Grān	Gran		33.86514	73.63787	P	PPL	PK		06				0		1524	Asia/Karachi	2011-05-09
+3833964	Tralalhué	Tralalhue		-37.65018	-70.36231	P	PPL	AR		15				0		1248	America/Argentina/Salta	2011-04-19
+2603912	Auf den Wänden	Auf den Wanden		47.03333	12.81667	T	CLF	AT		02				0		2067	Europe/Vienna	2001-01-21
+7438510	Pahalawewa	Pahalawewa		8.5633	80.5585	V	FRST	LK		30				0		103	Asia/Colombo	2010-08-07
+5369896	Malapai Hill	Malapai Hill		33.93973	-116.08778	T	MT	US		CA	065			0	1304	1283	America/Los_Angeles	2006-01-15
+331702	Maisai	Maisai	Maisai,Maissai	7.23333	37.58333	P	PPL	ET		54				0		1668	Africa/Addis_Ababa	2012-01-19
+700321	Nemyriv	Nemyriv	Nemiriv,Nemirov,Nemiruv,Nemyriv,Niemirow,Niemirów,Немиров,Немирів	50.10463	23.43609	P	PPL	UA		15				0		270	Europe/Kiev	2013-01-10
+5435918	Recompense Mine	Recompense Mine		39.78054	-105.58444	S	MN	US		CO	019			0	2712	2730	America/Denver	2006-01-15
+2108377	Hura	Hura	Hura,Nura River	-8.28075	157.3607	H	STM	SB		00				0		13	Pacific/Guadalcanal	2012-01-18
+107265	Sha‘īb al Busaytīn	Sha`ib al Busaytin	Sha`ib Busaytin,Sha`ib al Busaytin,Shaib Bisaitin,Sha‘īb Busaytīn,Sha‘īb al Busaytīn	25.52222	46.2329	H	WAD	SA		10				0		587	Asia/Riyadh	2012-01-16
+381145	Abdullah Kyango	Abdullah Kyango	Abduilah Kyango,Abdullah Kyango,`Abd Allah Kyango,‘Abd Allāh Kyango	7.63086	27.76548	P	PPL	SS		09				0		513	Africa/Juba	2012-01-19
+2685480	Östra Ingelstad	Ostra Ingelstad	OEstra Ingelstad,Ostra Ingelstad,Östra Ingelstad,Østra Ingelstad	55.51667	14.1	P	PPL	SE		27	1270			0		65	Europe/Stockholm	2012-01-17
+2707139	Håven	Haven		61.51667	15.15	P	PPL	SE		10	2031			0		315	Europe/Stockholm	2011-10-30
+5442622	Uranium Girl Mine	Uranium Girl Mine		38.32527	-108.22036	S	MN	US		CO	085			0	2999	3020	America/Denver	2006-01-15
+2350747	Aladere Mogaji	Aladere Mogaji		8.33333	4.46667	P	PPL	NG		00				0		374	Africa/Lagos	1994-01-05
+1339031	Tsarobai Kār Hadīra	Tsarobai Kar Hadira		31.60778	69.55	S	CMTY	PK		02				0		1171	Asia/Karachi	2005-06-01
+6516625	Comfort Inn Grand Junction	COMFORT INN GRAND JUNCTION		39.11298	-108.5368	S	HTL	US		CO	077			0		1449	America/Denver	2007-06-28
+4789838	Totopotomoy	Totopotomoy		37.6932	-77.42276	P	PPL	US		VA	085			0	59	61	America/New_York	2006-01-15
+7633957	Hārinar	Harinar	Harinar,Hārinar	23.44975	89.00492	P	PPL	BD		82				0		15	Asia/Dhaka	2012-07-05
+5873143	Saddle Mountain	Saddle Mountain		62.10139	-159.09667	T	MT	US		AK	290			0	281	199	America/Anchorage	2010-01-30
+642337	Pelto	Pelto		66	24.75	S	HSE	FI		06	19	845		0		55	Europe/Helsinki	2011-12-31
+2625630	Tvísker	Tvisker	Tvisker,Tviskier,Tvísker	63.92752	-16.18527	T	ISL	IS		38				0		-9999	Atlantic/Reykjavik	2012-01-17
+7283730	Ekibastus 1150 kV Substation	Ekibastus 1150 kV Substation		51.88219	75.21513	S	PS	KZ						0		194	Asia/Almaty	2010-03-24
+5833378	Newton Hill	Newton Hill		44.54943	-104.54913	T	MT	US		WY	011			0	1599	1602	America/Denver	2006-01-15
+8547525	Yaotanhe	Yaotanhe	Yaotanhe,yao tan he,腰滩河	32.86368	110.03749	P	PPL	CN		12				0		264	Asia/Chongqing	2013-06-06
+6544287	Gemeente Noordenveld	Gemeente Noordenveld		53.11494	6.44622	A	ADM2	NL		01	1699			30808		1	Europe/Amsterdam	2011-06-04
+6349028	Point Lookout Trail	Point Lookout Trail		37.31222	-108.42	R	TRL	US		CO	083			0	2476	2465	America/Denver	2007-02-16
+8196006	Hacıaliler	Hacialiler		40.91037	32.05541	P	PPL	TR		14				0		816	Europe/Istanbul	2012-02-02
+787545	Osnić Bukova	Osnic Bukova	Novo Selo,Osnic Bukova,Osnić Bukova	43.8549	22.07353	P	PPL	RS		00				0		313	Europe/Belgrade	2012-09-07
+363490	Wādī az Zayn	Wadi az Zayn	Wadi az Zayn,Wadi ez Zein,Wādī az Zayn	17.96667	31.71667	H	WAD	SD		43				0		280	Africa/Khartoum	2012-01-19
+6884056	Wŏn’gak-sa	Won'gak-sa	Won'gak-sa,Wŏn’gak-sa,wongagsa,원각사	36.4264	126.7338	S	TMPL	KR		17				0		225	Asia/Seoul	2012-01-20
+2224156	Nkang	Nkang		6.7	10.4	T	HLL	CM		07				0		918	Africa/Douala	2011-03-06
+1768272	Kampung Ketoyong	Kampung Ketoyong	Kampong Keteyong,Kampung Ketoyong	3.6981	101.5092	P	PPL	MY		07				0		49	Asia/Kuala_Lumpur	2012-01-17
+6495423	Hôtel Résidence Aladin	Hotel Residence Aladin		42.8897	-0.1141	S	HTL	FR		B3	65	651	65138	0		922	Europe/Paris	2010-09-16
+1689026	San Miguel	San Miguel	San Miguel	6.48944	124.69528	P	PPL	PH		12	70			4345		120	Asia/Manila	2012-02-01
+652739	Kinnula	Kinnula		62.35	29.51667	P	PPL	FI		14	12	707		0		91	Europe/Helsinki	2011-12-31
+4825302	Tuttle Knob	Tuttle Knob		38.78203	-81.52846	T	MT	US		WV	035			0	343	344	America/New_York	2006-01-15
+4220200	Rutland Lake One	Rutland Lake One		33.7572	-84.14806	H	RSV	US		GA	089			0	271	274	America/New_York	2011-12-11
+6658942	Kūh-e Qal‘eh	Kuh-e Qal`eh	Kuh-e Qal`eh,Kūh-e Qal‘eh,کوه قلعه	36.4432	50.2622	T	MT	IR		38				0		1218	Asia/Tehran	2012-01-20
+1016557	Bowden	Bowden		-30.74334	28.21098	P	PPL	ZA		05	DC14	EC141		0		1898	Africa/Johannesburg	2012-07-11
+4334433	Mount Zion Church	Mount Zion Church		31.61073	-91.74068	S	CH	US		LA	029			0	18	21	America/Chicago	2006-01-15
+4707567	Long Branch	Long Branch		32.42736	-96.90167	H	STM	US		TX	139			0	173	183	America/Chicago	2006-01-15
+3312	Rūd-e Shekarbek	Rud-e Shekarbek	Rud-e Shekarbek,Rūd-e Shekarbek,Shekarbeyg,rwd shkrbk,shikarbig,رود شکربک,شِكَربِيگ	36.4894	45.5443	H	STM	IR		01				0	0	1645	Asia/Tehran	2012-01-16
+3377252	Maikwak Mountain	Maikwak Mountain		4.86667	-59.85	T	MT	GY		17				0		731	America/Guyana	1993-12-15
+1889503	Wŏnil-li	Wonil-li		39.21694	125.7175	P	PPL	KP		12				0		45	Asia/Pyongyang	2003-09-04
+7555757	Stio Irineu H. Aquino	Stio Irineu H. Aquino	Stio Irineu H. Aquino	-23.2838	-46.0289	P	PPL	BR		27	3524402			0		602	America/Sao_Paulo	2012-08-03
+1328701	Awlanbyin	Awlanbyin		20.9438	92.50008	P	PPL	MM		01				0		6	Asia/Rangoon	2012-12-06
+7795673	Xiaqingling	Xiaqingling	Xiaqingling,xia qing ling,下青岭	25.23806	113.6425	P	PPL	CN		30				0		581	Asia/Shanghai	2012-01-21
+3934768	Cerro Molino	Cerro Molino		-15.98486	-69.90882	T	MT	PE		21	2101	210112		0		4072	America/Lima	2012-11-08
+7764188	Muenangombe	Muenangombe		-8.94007	14.72243	P	PPL	AO		05				0		776	Africa/Luanda	2011-04-20
+679135	Dolina	Dolina		47.82775	26.45904	P	PPL	RO		07	37850			555		175	Europe/Bucharest	2013-04-21
+6299844	General José María Yáñez International Airport	General Jose Maria Yanez International Airport	Aeropuerto Internacional General Jose Maria Yanez,Aeropuerto Internacional General José María Yáñez,GYM,General Jose Maria Yanez International Airport,General José María Yáñez International Airport,Guaymas International Airport,MMGM	27.96924	-110.92376	S	AIRP	MX		26	029			0	17	9	America/Hermosillo	2013-11-24
+1733230	Sungai Watan	Sungai Watan	Sungai Watan	5.7325	118.3465	H	STM	MY		16				0		1	Asia/Kuching	2012-01-17
+1317925	Kunchaung	Kunchaung		19.49766	93.70783	P	PPL	MM		01				0		14	Asia/Rangoon	2012-12-06
+8484870	Hollandale Volunteer Fire Department	Hollandale Volunteer Fire Department		42.87388	-89.93571	S	BLDG	US		WI	049			0	268	272	America/Chicago	2013-03-08
+8286388	Thézy-Glimont Railway Station	Thezy-Glimont Railway Station		49.81189	2.43602	S	RSTN	FR		B6	80	802	80752	0		41	Europe/Paris	2012-05-12
+938431	Wolve Hoek	Wolve Hoek		-33.25913	21.58294	S	FRM	ZA		11	DC5	WC051		0		669	Africa/Johannesburg	2012-07-12
+4607675	Bone Hollow	Bone Hollow		36.01256	-87.92809	T	VAL	US		TN	085			0	122	122	America/Chicago	2006-01-15
+7700924	Sítio Ana Muskuvicz	Sitio Ana Muskuvicz	Sitio Ana Muskuvicz,Sítio Ana Muskuvicz	-26.0335	-49.8477	P	PPL	BR		18	4122305			0		784	America/Sao_Paulo	2012-08-03
+6399710	Sukahurang	Sukahurang	Sukahurang	-6.89083	108.30306	P	PPL	ID		30				0		588	Asia/Jakarta	2012-01-20
+6224345	Purakau	Purakau		-39.42824	175.05021	T	HLL	NZ		G2				0		301	Pacific/Auckland	2006-03-04
+491722	Smirnovka	Smirnovka	Smirnovka,Смирновка	52.75	45.2	P	PPL	RU		57				0		168	Europe/Moscow	2012-01-17
+5499890	Bellehelen Post Office (historical)	Bellehelen Post Office (historical)		38.06827	-116.46589	S	PO	US		NV	023			0	1980	1982	America/Los_Angeles	2006-01-15
+917098	Funta	Funta		-11.66667	31.25	H	STM	ZM		05				0		1344	Africa/Lusaka	1994-01-08
+6221098	Wairau River	Wairau River		-41.71827	173.05016	H	STM	NZ		F4				0		523	Pacific/Auckland	2006-03-04
+1111616	Narinji Bānda	Narinji Banda	Narinji Banda,Narinji Bānda	34.56124	71.68798	P	PPL	PK		03				0		1042	Asia/Karachi	2012-01-16
+6694117	Granarolo	Granarolo		44.35859	11.93459	P	PPLX	IT		05	RA	039010		0		18	Europe/Rome	2011-09-11
+3502563	La Granja	La Granja		19.888	-71.64318	L	LCTY	DO		15				0		32	America/Santo_Domingo	1994-03-11
+2728959	Sankt Hansholmane	Sankt Hansholmane	Green Ilands,Sankt Hans Islets,Sankt Hansholman,Sankt Hansholmane,Santhansholman,les Iles Saint-Jean,les Îles Saint-Jean	77.86371	13.63745	T	ISLS	SJ		00				0		-9999	Arctic/Longyearbyen	2012-01-17
+2156054	Lake Murteree	Lake Murteree	Lake Murteree	-28.56754	140.3597	H	LK	AU		05				0		30	Australia/Adelaide	2012-02-28
+1337643	Birē Lakêy	Bire Lakey	Bire Lakey,Birē Lakêy,Biṟē Lakey,Gora Biralakay,برې لکۍ	31.98248	69.29305	T	SLP	AF		29				0		1253	Asia/Kabul	2012-01-19
+5957993	Frenchman Butte No. 501	Frenchman Butte No. 501		53.58348	-109.50151	A	ADMD	CA		11				0		538	America/Regina	2006-01-18
+8048195	Pagrigarbo	Pagrigarbo	Pagrigarbo,Parigabo,pa ri ga bo,帕日嘎波	32.009	92.209	P	PPL	CN		14				0		4886	Asia/Urumqi	2012-01-21
+5159643	Killdeer Plains Wildlife Area	Killdeer Plains Wildlife Area		40.71589	-83.31492	L	PRK	US		OH	175			0	271	269	America/New_York	2006-01-15
+2477495	Passo Tcharchuri	Passo Tcharchuri	Passo Tcharchuri,Takhakhouri,Takharkhouri Gap	24.56667	10.66667	T	PASS	DZ		00				0		949	Africa/Algiers	2012-01-19
+735130	Mikrochóri	Mikrochori	Kuchuk-Koi,Kuchúk-Kóï,Makrikhori,Makrikhóri,Mikrochori,Mikrochorion,Mikrochóri,Mikrochórion,Mikrokhori,Mikrokhorion,Mikrokhóri,Mikrokhórion,Μικροχώρι,Μικροχώριον	41.31198	24.44825	P	PPL	GR		ESYE11	04	9004		0		454	Europe/Athens	2013-12-12
+251753	Vounókastron	Vounokastron	Malithana,Malithána,Vonokastro,Vonókastro,Vounokastron,Vounókastron	38.13333	21.78333	T	MT	GR		ESYE23				0		944	Europe/Athens	2012-01-18
+2921845	Geiging	Geiging		47.7973	12.18822	P	PPL	DE		02	091	09187	09187169	0		517	Europe/Berlin	2013-02-19
+798699	Souakvara	Souakvara	Souakvara,Soukvara,Sova-Kvara	42.85528	41.75389	H	STM	GE	GE	00				0		330	Asia/Tbilisi	2012-01-19
+7105487	Purba Borāgari	Purba Boragari	Purba Boragari,Purba Borāgari	26.12407	88.86313	P	PPL	BD		87				0		55	Asia/Dhaka	2012-07-05
+3816665	Río Los Amates	Rio Los Amates		16.24978	-93.22903	H	STM	MX		05				0		536	America/Mexico_City	2012-08-05
+1115499	Muang Rae Di Buk Bang Hing	Muang Rae Di Buk Bang Hing		9.78333	98.81667	S	MN	TH		58				0		318	Asia/Bangkok	1994-04-10
+2066764	Maya	Maya	Maya	-29.88489	116.50444	P	PPL	AU		08	57000			112		350	Australia/Perth	2013-12-11
+500375	Russkiy-Saskul’	Russkiy-Saskul'	Russkij Saskul,Russkij-Saskul',Russkiy Saskul',Russkiy Sasykul',Russkiy Sasykul’,Russkiy-Saskul',Russkiy-Saskul’,Русский-Саскуль	53.9013	56.2333	P	PPL	RU		08				0		114	Asia/Yekaterinburg	2012-01-17
+3729318	Boucan Taureau	Boucan Taureau		19.1	-71.83333	P	PPL	HT		07				0		267	America/Port-au-Prince	1993-10-14
+1948183	I-dong	I-dong		38.36528	126.14083	P	PPL	KP		07				0		131	Asia/Pyongyang	2006-07-17
+5213191	Spangler Hollow	Spangler Hollow		41.71173	-78.46002	T	VAL	US		PA	083			0	567	575	America/New_York	2010-09-05
+5397685	South Long Point	South Long Point		39.06073	-120.84716	T	RDGE	US		CA	061			0	731	737	America/Los_Angeles	2006-01-15
+7984853	Baddera	Baddera		28.26659	82.77064	P	PPLL	NP		MR	12	53	530049	0		1163	Asia/Kathmandu	2011-08-27
+7439870	Hutabalimbing	Hutabalimbing	Hutabalimbing	2.0315	98.6327	P	PPL	ID		26				0		147	Asia/Jakarta	2012-01-21
+7833788	Jima8	Jima8		29.6407	81.9655	A	ADM5	NP		MR	06	65	650006	0		2866	Asia/Kathmandu	2012-02-08
+7210852	Saint Michael and all Angels Church	Saint Michael and all Angels Church		45.53518	-122.61841	S	CH	US		OR	051			0	54	54	America/Los_Angeles	2010-02-06
+2413995	Zourouzia	Zourouzia		8.65194	-9.68639	H	STM	GN		N	21			0		592	Africa/Conakry	2012-06-14
+1914619	Jiadongkou	Jiadongkou		19.01972	110.16528	P	PPL	CN		31				0		111	Asia/Chongqing	2001-03-09
+8025371	Al Ma‘āmil	Al Ma`amil	Al Ma`amil,Al Ma‘āmil,المعامل	16.37417	44.0524	P	PPLX	YE		19				6		1619	Asia/Aden	2012-01-21
+3370817	Old Longwood	Old Longwood	Longwood Old House,Old House Longwood,Old Longwood	-15.95	-5.68333	S	BLDG	SH	SH	02				0		545	Atlantic/St_Helena	2012-01-18
+5742670	Netarts Bay Campground	Netarts Bay Campground		45.37066	-123.95957	S	CMP	US		OR	057			0	1	0	America/Los_Angeles	2010-02-17
+7423091	Setana-chōyakuba	Setana-choyakuba	Setana-choyakuba,Setana-chōyakuba,setana ding yi chang,setanachouyakuba,せたなちょうやくば,せたな町役場	42.41694	139.88333	S	ADMF	JP		12				0		12	Asia/Tokyo	2012-01-21
+2520792	Arroyo de Briján	Arroyo de Brijan	Arroyo de Brijan,Arroyo de Briján,Arroyo de las Bruja	36.47883	-5.05257	H	STM	ES		51	MA	29051		0		45	Europe/Madrid	2012-01-19
+3330517	Rönneskär	Ronneskar		56.76667	16.46667	T	ISL	SE		09				0		1	Europe/Stockholm	2001-06-27
+2526677	Tadaout n’ Tourhza	Tadaout n' Tourhza		30.98	-5.7	T	MT	MA		55				0		1574	Africa/Casablanca	2005-04-13
+1299260	Pyainggyun	Pyainggyun		18.96087	94.0504	P	PPLQ	MM		01				0		0	Asia/Rangoon	2012-12-06
+2388614	Boda	Boda	Boda	4.31887	17.46953	P	PPL	CF		07				16655		507	Africa/Bangui	2013-06-07
+6249399	KAWEKA FOREST	KAWEKA FOREST		-39.39824	176.48021	V	FRST	NZ		F2				0		505	Pacific/Auckland	2006-03-04
+7250939	Beverly Theater (historical)	Beverly Theater (historical)		40.75583	-73.97	S	BLDG	US		NY	061			0	11	36	America/New_York	2010-02-07
+1269432	Jalandhar	Jalandhar		23.9023	78.44784	P	PPL	IN		35				0		516	Asia/Kolkata	2012-09-06
+2510563	Arroyo de Tejadilla	Arroyo de Tejadilla		37.72808	-4.60321	H	STM	ES		51	CO	14021		0		164	Europe/Madrid	2011-10-11
+3273086	Kljuć	Kljuc		44.65333	15.59278	T	HLL	HR		08				0		962	Europe/Zagreb	2005-06-04
+6571804	Mongnyeon-gongwon	Mongnyeon-gongwon	Mongnyeon-gongwon,Mongnyon-gongwon,Mongnyŏn-gongwŏn,moglyeongong-won,목련공원	37.49889	127.13917	L	PRK	KR		11				0		30	Asia/Seoul	2012-01-20
+4456467	Blue Valley Campground	Blue Valley Campground		35.01203	-83.22987	S	CMP	US		NC	113			0	807	814	America/New_York	2010-02-16
+4444544	Saint Marys Church	Saint Marys Church		33.34706	-90.9101	S	CH	US		MS	151			0	34	41	America/Chicago	2010-02-16
+3897789	Loma del Buey	Loma del Buey		-33.21667	-71.51667	T	RDGE	CL		01				0		372	America/Santiago	1993-12-19
+296949	Yenipazar	Yenipazar		38.45	28.2	P	PPL	TR		45				0		208	Europe/Istanbul	1993-12-18
+2435107	Boari	Boari	Beary,Boari,Bore,Boré	9.65833	17.75222	P	PPL	TD		17				0		387	Africa/Ndjamena	2012-01-18
+4661169	Susong Spring	Susong Spring		36.33348	-82.46701	H	SPNG	US		TN	179			0	495	497	America/New_York	2011-12-11
+7903509	Candumba	Candumba		-11.57445	16.65538	P	PPL	AO		02				0		1640	Africa/Luanda	2011-07-11
+35879	Emāmzādeh Rāheb	Emamzadeh Raheb	Emamzadeh Raheb,Emāmzādeh Rāheb,amamzadh rahb,امامزاده راهب	35.2352	48.7208	S	SHRN	IR		09				0		1676	Asia/Tehran	2012-01-16
+3040596	Escobet	Escobet		42.46667	1.51667	L	LCTY	AD		00				0		1476	Europe/Andorra	1993-12-23
+7383188	Huai Pa Kuan	Huai Pa Kuan	Huai Pa Kuan,hwy pa k wn,ห้วยป่าก้วน	19.61258	100.27815	H	STMI	TH		41				0		387	Asia/Bangkok	2012-01-21
+4116331	Jacobs Slash	Jacobs Slash		34.49121	-91.10734	H	STM	US		AR	095			0	50	48	America/Chicago	2011-01-10
+4953255	Trains Creek	Trains Creek		41.60706	-69.98974	H	STM	US		MA	001			0	0	-1	America/New_York	2006-01-15
+8518395	Fengwangmiao	Fengwangmiao	Fengwangmiao,feng wang miao,蜂王庙	30.76444	110.46333	P	PPL	CN		12				0		1094	Asia/Shanghai	2013-04-06
+872969	Urochishche Vyrubki	Urochishche Vyrubki		57.28744	59.51666	L	AREA	RU		71				0		392	Asia/Yekaterinburg	2011-07-10
+3868845	Ucún	Ucun		-34.75594	-72.03576	S	FRM	CL		11	73	07309		0		18	America/Santiago	2013-01-11
+3876060	Piedras Lisas	Piedras Lisas		-30.52127	-71.20055	L	LCTY	CL		07				0		616	America/Santiago	2013-01-11
+2787380	Saint-Léger	Saint-Leger		49.61243	5.65581	A	ADM4	BE		WAL	WLX	85	85034	3337		272	Europe/Brussels	2012-03-01
+2560989	Taourirt el Ahras	Taourirt el Ahras	Taourirt el Ahras,Taourirt el Ahrass	33.95533	-3.83638	T	HLL	MA		58				0		845	Africa/Casablanca	2012-01-19
+5232680	Walgamuth School	Walgamuth School		45.04303	-99.2465	S	SCH	US		SD	049			0	529	526	America/Chicago	2010-02-17
+8099997	Welling Tri - Community Fire Department Station 2	Welling Tri - Community Fire Department Station 2		35.94069	-94.85054	S	BLDG	US		OK	021			0	301	301	America/Chicago	2011-12-13
+3421339	Nutugkat	Nutugkat		65.93333	-36.25	T	CAPE	GL		07				0		-9999	America/Godthab	1994-01-08
+3587600	Riachuelo Yulcastén	Riachuelo Yulcasten	Riachuelo Yulcasten,Riachuelo Yulcastén,Rio Yalcassen,Rio Yalcastan,Rio Yalcasten,Río Yalcassen,Río Yalcastán,Río Yalcastén	16.05	-91.58333	H	STM	GT	GT	08				0		1369	America/Guatemala	2012-01-18
+6268377	Stantsiya Pavlovo-na-Neve	Stantsiya Pavlovo-na-Neve	Pavlovo-na-Neve,Stantsiya Pavlovo-na-Neve	59.79278	30.87778	S	RSTN	RU		42				0		24	Europe/Moscow	2012-01-20
+6850352	Ni‘mat Muḩammad	Ni`mat Muhammad	Ni`mat Muhammad,Ni‘mat Muḩammad,نعمة محمد	31.80812	44.68986	P	PPL	IQ		04				0		22	Asia/Baghdad	2012-04-06
+5365843	Leighton Lake	Leighton Lake		38.14992	-119.76768	H	RSV	US		CA	109			0	2583	2587	America/Los_Angeles	2006-01-15
+2416738	Oundou	Oundou		9.2	-10.6	T	MT	GN		F	09			0		863	Africa/Conakry	2012-06-14
+7424442	Niigata-shiyakusho	Niigata-shiyakusho	Niigata-shiyakusho,niigatashiyakusho,xin xi shi yi suo,にいがたしやくしょ,新潟市役所	37.91611	139.03639	S	ADMF	JP		29				0		9	Asia/Tokyo	2012-01-21
+8336939	Phường Mỹ Xuyên	Phuong My Xuyen	Phuong My Xuyen,Phường Mỹ Xuyên	10.37641	105.43257	A	ADM3	VN		01		8336939		0		6	Asia/Ho_Chi_Minh	2012-07-05
+3802118	Nicolas Bravo Quinta Sección	Nicolas Bravo Quinta Seccion	Nicolas Bravo Quinta Seccion,Nicolas Bravo Quinta Sección	18.27468	-93.11762	P	PPL	MX		27				0		9	America/Mexico_City	2012-09-07
+5442713	Ute Mine	Ute Mine		39.44888	-104.96387	S	MN	US		CO	035			0	1816	1816	America/Denver	2006-01-15
+6541196	Trentinara	Trentinara	Comune di Trentinara,Trentinara	40.40071	15.11316	A	ADM3	IT		04	SA	065152		1716		572	Europe/Rome	2011-02-25
+2768411	Praxmarerkarspitze	Praxmarerkarspitze		47.35	11.4	T	MT	AT		07				0		2511	Europe/Vienna	1994-01-05
+5047829	Solway Cemetery	Solway Cemetery		46.80827	-92.35463	S	CMTY	US		MN	137			0	424	421	America/Chicago	2006-01-15
+6094560	Oscar Peak	Oscar Peak		54.9329	-129.05362	T	PK	CA		02				0		1903	America/Vancouver	2006-01-18
+896792	Tampwila	Tampwila		-14	23.95	P	PPL	ZM		01				0		1065	Africa/Lusaka	1994-01-08
+5273805	South Maine Cemetery	South Maine Cemetery		44.53304	-88.55177	S	CMTY	US		WI	087			0	239	240	America/Chicago	2006-01-15
+566154	Stantsiya Divnoye Novoye	Stantsiya Divnoye Novoye	Bahnhof Trakehnen,Divnoye Novoye,Stantsiya Divnoye Novoye,Stantsiya Trakenen	54.60556	22.39917	S	RSTN	RU	RU	23				0		48	Europe/Kaliningrad	2012-01-17
+1195260	Maqimpur	Maqimpur	Makimpur,Maqimpur	24.34959	89.70592	P	PPL	BD		83				0		19	Asia/Dhaka	2013-02-08
+1291904	Thē-aw	The-aw		12.04996	98.48266	P	PPL	MM		12				0		12	Asia/Rangoon	2012-12-06
+2137092	Éou	Eou		-15.58333	166.75	H	STMI	VU		13				0		-9999	Pacific/Efate	1994-01-05
+3311903	Cahermacnaghten	Cahermacnaghten		53.04944	-9.19333	P	PPLL	IE		M	03			0		172	Europe/Dublin	2010-08-14
+8141098	Ovrag Brekskiy	Ovrag Brekskiy	Ovrag Brekskij,Ovrag Brekskiy,Овраг Брекский	55.54498	48.90582	H	RVN	RU		73				0		149	Europe/Moscow	2012-01-22
+4948970	Rocky Hill	Rocky Hill		42.15148	-71.88285	T	MT	US		MA	027			0	197	198	America/New_York	2010-02-15
+4617204	Dark Hollow	Dark Hollow		35.86507	-87.11806	T	VAL	US		TN	187			0	225	221	America/Chicago	2006-01-15
+5705200	Ivanhoe Flat	Ivanhoe Flat		41.15574	-116.54454	T	PLN	US		NV	007			0	1774	1776	America/Los_Angeles	2006-01-15
+6182570	Wilmot Lake	Wilmot Lake		56.66273	-101.40236	H	LK	CA		03				0		341	America/Winnipeg	2006-01-18
+1985872	Rancabalok	Rancabalok		-6.24	106.545	P	PPL	ID		30				0		33	Asia/Jakarta	2004-10-29
+1546112	Vallée de la Plage Jaune	Vallee de la Plage Jaune		-49.68663	68.99369	T	VAL	TF		00				0		13	Indian/Kerguelen	2011-04-19
+3373199	Pico da Catarina Vieira	Pico da Catarina Vieira	Pico da Catarina Vieira,Pico de Catharina Vieira	38.71667	-27.31667	T	MT	PT	PT	23				0		638	Atlantic/Azores	2012-01-17
+2887626	Klixbüllhof	Klixbullhof		54.81667	8.88333	S	FRM	DE		10				0		1	Europe/Berlin	1994-01-08
+3485694	Quebrada Congorocho	Quebrada Congorocho		10.71667	-65.66	H	STMI	VE		02				0		-9999	America/Caracas	1998-11-20
+7651634	Lutian	Lutian	Lutian,lu tian,芦田	29.42375	117.11925	P	PPL	CN		03				0		50	Asia/Shanghai	2012-01-21
+6751389	Batulappa	Batulappa	Batulappa	-5.0248	120.2114	P	PPL	ID		38				0		63	Asia/Makassar	2012-01-20
+1604770	Amphoe Yaring	Amphoe Yaring	Amphoe Yamu,Amphoe Yaring,Jaring,xaphex yahring,อำเภอยะหริ่ง	6.83507	101.39073	A	ADM2	TH		69	1604770			0		9	Asia/Bangkok	2012-01-16
+3336355	Kapellbergen	Kapellbergen		60.07472	19.98389	T	HLLS	AX		01				0		1	Europe/Mariehamn	2010-09-27
+6983780	Isayédinga	Isayedinga		14.76446	15.08132	H	PNDI	TD		06				0		362	Africa/Ndjamena	2009-11-28
+607945	Tugyrakshan	Tugyrakshan		46.33333	55.3	P	PPL	KZ		09				0		18	Asia/Aqtau	2013-05-07
+5491933	Snake Tank	Snake Tank		34.58155	-107.47628	H	RSVT	US		NM	006			0	1990	1991	America/Denver	2011-12-11
+8394013	Buddh International Circuit	Buddh International Circuit		28.4072	77.5142	S	RECR	IN		36				0		191	Asia/Kolkata	2012-09-14
+4709419	Martinez Bayou	Martinez Bayou		31.59851	-93.87047	H	STM	US		TX	419			0	53	59	America/Chicago	2006-01-15
+1295326	Tabudām	Tabudam		27.29943	97.59844	P	PPL	MM		04				0		416	Asia/Rangoon	2012-09-06
+915520	Kakunumakuna	Kakunumakuna		-15.11667	29.35	P	PPL	ZM		09				0		1084	Africa/Lusaka	1994-01-08
+6123021	Rivière aux Bouleaux	Riviere aux Bouleaux		49.84929	-67.32409	H	STM	CA		10				0		97	America/Montreal	2006-01-18
+63189	Cago	Cago	Cago	10.99657	49.21989	P	PPL	SO		03				0		299	Africa/Mogadishu	2012-01-16
+7035407	Kharābah-ye Shtūrk	Kharabah-ye Shturk	Kharabah-ye Shturk,Kharābah-ye Shtūrk,خرابۀ شتورک	36.91156	73.41845	S	RUIN	AF		01				0		3436	Asia/Kabul	2012-01-20
+7633950	Mohanpur	Mohanpur	Mohanpur	23.45894	89.01026	P	PPL	BD		82				0		13	Asia/Dhaka	2012-07-05
+7518342	Zhaiziping	Zhaiziping	Zhaiziping,zhai zi ping,寨子坪	36.32733	107.05759	P	PPL	CN		15				0		1535	Asia/Chongqing	2012-01-21
+4347019	Agudas Achim Anshei Sphard Synagogue (historical)	Agudas Achim Anshei Sphard Synagogue (historical)		39.33816	-76.66469	S	CH	US		MD	510			0	127	128	America/New_York	2007-02-14
+3009116	Lageon	Lageon	Lageon	46.7318	-0.23514	P	PPL	FR		B7	79	793	79145	336		150	Europe/Paris	2012-01-18
+610464	Bakay	Bakay	Bakaj,Bakay,Бакай	50.13333	58	P	PPL	KZ		04				0		422	Asia/Aqtobe	2013-05-07
+7363780	Shi‘b Marāghiz	Shi`b Maraghiz	Shi`b Maraghiz,Shi‘b Marāghiz	13.66769	44.52141	H	WAD	YE		18				0		1078	Asia/Aden	2012-01-21
+7702061	Whiterik Field Airport	Whiterik Field Airport		48.01401	-118.36424	S	AIRF	US		WA	065			0	586	582	America/Los_Angeles	2012-04-10
+6683951	Maḩmūdīeh	Mahmudieh	Mahmudieh,Maḩmūdīeh,mhmwdyh,محمودیه	29.66802	52.49309	P	PPL	IR		07				0		1621	Asia/Tehran	2012-09-07
+4265392	Stones Crossing	Stones Crossing		39.57783	-86.15915	P	PPL	US		IN	081			0	243	244	America/Indiana/Indianapolis	2010-02-15
+5709757	Van Riper Spring	Van Riper Spring		41.03074	-119.01717	H	SPNG	US		NV	013			0	1211	1213	America/Los_Angeles	2011-12-11
+4529104	Adair	Adair		36.43676	-95.27136	P	PPL	US		OK	097			790	208	209	America/Chicago	2011-05-14
+3007610	Lannilis	Lannilis	Lannilis,Lanniliz	48.57091	-4.52233	P	PPL	FR		A2	29	291	29117	4686		43	Europe/Paris	2012-01-18
+368260	Jebel er Rabiyat	Jebel er Rabiyat		19.7	30.58333	T	HLL	SD		43				0		243	Africa/Khartoum	2009-08-18
+7149402	Heafy Law Library	Heafy Law Library		37.34889	-121.93972	S	LIBR	US		CA	085			0	25	25	America/Los_Angeles	2010-07-31
+5447145	00452 Water Well	00452 Water Well		32.7073	-108.25366	H	WLL	US		NM	017			0	1768	1757	America/Denver	2006-01-15
+4259918	Kingman	Kingman	Kingmen,Кингмен	39.96754	-87.27751	P	PPL	US		IN	045			511	214	217	America/Indiana/Indianapolis	2011-05-14
+5923859	Clendinning Range	Clendinning Range		50.41637	-123.91952	T	MT	CA		02				0		2225	America/Vancouver	2006-01-18
+8069474	Nekobida	Nekobida		3.16312	27.93463	P	PPL	CD		09				0		685	Africa/Lubumbashi	2011-12-08
+7365746	Wādī Labbādah	Wadi Labbadah	Wadi Labbadah,Wādī Labbādah	15.97973	43.24022	H	WAD	YE		22				0		217	Asia/Aden	2012-01-21
+1333784	Shilmān Khula	Shilman Khula		34.19417	71.28611	H	STMM	PK		01				0		408	Asia/Karachi	2005-01-26
+6056326	Little Lake	Little Lake		45.20083	-77.005	H	LK	CA		08	6119449			0		264	America/Toronto	2013-07-22
+8470425	Erdaowan	Erdaowan	Erdaowan,Erdaowan Zhen,er dao wan,er dao wan zhen,二道湾,二道湾镇	47.95882	124.53253	P	PPLA4	CN		08				0		195	Asia/Harbin	2013-03-06
+1998098	Xiazhai	Xiazhai	Xialiao,Xiazhai,xia liao,xia zhai,下寨,下寮	23.24683	116.48777	P	PPL	CN		30				0		8	Asia/Shanghai	2012-01-20
+608706	Novorossiyskoye	Novorossiyskoye	Novorossijskoe,Novorossiyskiy,Novorossiyskoe,Novorossiyskoye,Novorossīyskoe,Новороссийское	50.23776	57.99016	P	PPL	KZ		04				0		414	Asia/Aqtobe	2012-07-04
+3450232	Santa Fé do Sul	Santa Fe do Sul		-20.21111	-50.92583	P	PPL	BR		27	3546603			25802		402	America/Sao_Paulo	2012-08-03
+8411415	Nad Pat	Nad Pat	Nad Pat,Над Пат	40.91764	20.75364	V	VINS	MK		E2				0		698	Europe/Skopje	2012-11-10
+2850953	Rads-Berg	Rads-Berg		50.29236	6.34412	T	HLL	DE		08				0		569	Europe/Berlin	2012-09-06
+5078444	School Number 63 (historical)	School Number 63 (historical)		40.81529	-99.4026	S	SCH	US		NE	019			0	748	751	America/Chicago	2010-02-16
+7365616	Jabal ash Shaykh	Jabal ash Shaykh	Jabal ash Shaykh	15.88686	43.38255	P	PPL	YE		22	1721			0		1321	Asia/Aden	2012-01-21
+706186	Khrushchëvo	Khrushchevo	Khrushchevo,Khrushchëvo,Krestovozdvizhenka	46.98333	33.08333	P	PPL	UA	UA	08				0		55	Europe/Kiev	2012-01-18
+7919195	Rongrian Ban Nong Kung	Rongrian Ban Nong Kung	Rongrian Ban Nong Kung,rongreiyn ban hnxngkung,โรงเรียนบ้านหนองกุง	17.34509	103.34111	S	SCH	TH		20				0		193	Asia/Bangkok	2012-01-21
+1884194	Ban Dong Sawan	Ban Dong Sawan	Ban Dong Sawan,ban dng swrrkh,บ้านดงสวรรค์	17.45061	102.2005	P	PPL	TH		79				0		250	Asia/Bangkok	2013-02-09
+3897573	Punta Cabras	Punta Cabras		-41.2779	-72.87024	T	PT	CL		14	101	10109		0		53	America/Santiago	2013-01-11
+6312872	Vymchuk	Vymchuk		58.39606	40.7869	H	STM	RU		88				0		102	Europe/Moscow	2011-07-10
+8250418	Verkhopyul’ye	Verkhopyul'ye	Verkhopjul'e,Verkhopyul'ye,Verkhopyul’ye,Верхопюлье	63.3249	45.4729	H	STM	RU		06				0		216	Europe/Moscow	2012-04-06
+3073265	Kopce	Kopce		49.21917	18.03989	T	MT	CZ		90				0		693	Europe/Prague	2007-09-04
+2007339	Sidosari	Sidosari		-7.72361	110.52139	P	PPL	ID		07				0		199	Asia/Jakarta	2005-12-20
+2130270	Futamata	Futamata		40.98333	141.31667	P	PPL	JP		03				0		53	Asia/Tokyo	2001-09-25
+3882655	Lolol	Lolol		-34.7	-71.55	S	FRM	CL		08	63	06304		0		296	America/Santiago	2012-05-03
+4563309	Cayey Municipio	Cayey Municipio	Cayey	18.10357	-66.15378	A	ADM1	PR		035				0	613	599	America/Puerto_Rico	2013-05-22
+4291567	Faywood	Faywood		38.10285	-84.64161	P	PPL	US		KY	239			0	249	248	America/New_York	2006-01-15
+8312666	Phước Trinh	Phuoc Trinh	Phuoc Trinh,Phước Trinh	10.19904	105.9723	P	PPL	VN		69				0		1	Asia/Ho_Chi_Minh	2012-06-07
+332249	Lasa’ānot Bota	Lasa'anot Bota		9.96667	42.91667	L	LCTY	ET		52				0		1296	Africa/Addis_Ababa	2008-11-21
+3131904	Vevang	Vevang		63.0028	7.2884	P	PPL	NO		08	1551			0		3	Europe/Oslo	2010-10-14
+3300506	Kneževići	Knezevici		44.62852	17.52961	P	PPL	BA		02				0		570	Europe/Sarajevo	2012-05-06
+517550	Novoye Il’movo	Novoye Il'movo	Novoe Il'movo,Novoye Il'movo,Novoye Il’movo,Новое Ильмово	54.6704	47.6375	P	PPL	RU		73				0		151	Europe/Moscow	2012-01-17
+6615888	Bons-Tassilly	Bons-Tassilly		48.9591	-0.2305	A	ADM4	FR		99	14	142	14088	388		148	Europe/Paris	2012-05-10
+419595	‘Izbat ad Dunk	`Izbat ad Dunk	`Iz. ad-Dunk,`Izbat ad Dunk,ʿzbt aldnk,عزبة الدنك,‘Iz. ad-Dunk,‘Izbat ad Dunk	31.09772	31.66542	S	FRM	EG		01				0		4	Africa/Cairo	2013-07-07
+2048156	Chifeng	Chifeng		42.16556	118.84361	S	AIRP	CN		20				0		609	Asia/Harbin	1995-03-08
+3162638	Askrova	Askrova	Askrova	61.51449	4.94959	T	ISL	NO		15	1401			0		100	Europe/Oslo	2013-07-14
+3736238	Jamaica	Jamaica		3.01556	-75.32639	P	PPL	CO		16				0		475	America/Bogota	2007-02-02
+3637825	La Fundacion	La Fundacion		10.39429	-66.17568	P	PPL	VE		15				0		48	America/Caracas	2011-08-08
+670401	Ploscoş-Sat	Ploscos-Sat		46.56667	23.78333	P	PPLX	RO		00				787		324	Europe/Bucharest	2006-01-17
+315381	Ertuğrul	Ertugrul	Ertugrul,Ertugrulkoy,Ertuğrul,Ertuğrulköy,Yakapinar,Yakapınar	39.28778	31.58972	P	PPL	TR		26				0		868	Europe/Istanbul	2012-04-05
+7584609	Garkān	Garkan	Garkan,Garkān,grkan,گرکان	25.73306	59.23405	P	PPL	IR		04				0		31	Asia/Tehran	2012-01-21
+2129365	Kutchan	Kutchan	Kuchian,Kutchan,Kutchian,Kuttyan	42.90111	140.74056	P	PPL	JP	JP	12				0		185	Asia/Tokyo	2012-01-19
+204306	Wando	Wando		3.63263	29.15583	P	PPL	CD		09				0		752	Africa/Lubumbashi	2012-02-02
+2886826	Kögel	Kogel		47.91404	11.57122	S	FRM	DE		02	091	09173	09173118	0		703	Europe/Berlin	2013-02-19
+2728898	Sekken	Sekken		74.5	18.9	H	LK	SJ		21	2121			0		19	Arctic/Longyearbyen	2010-09-23
+6419086	Gora Pyat’ Sopok	Gora Pyat' Sopok	Gora Pjat' Sorok,Gora Pyat' Sopok,Gora Pyat’ Sopok,Гора Пять Сорок	43.8555	131.34444	T	MT	RU		59				0	341	321	Asia/Vladivostok	2012-10-07
+6611219	Keloğlu Kuyu	Keloglu Kuyu		37.23056	41.76472	H	WLL	TR		80				0		718	Europe/Istanbul	2007-07-25
+5050045	Lake Thorstad	Lake Thorstad		45.88817	-95.62987	H	LK	US		MN	041			0	402	399	America/Chicago	2011-12-11
+5613458	01N23E35DDBD01 Well	01N23E35DDBD01 Well		45.78606	-108.82209	H	WLL	US		MT	111			0	1074	1070	America/Denver	2006-01-15
+6948627	Liebfrauenkirche	Liebfrauenkirche	Notre-Dame de Laeken	50.8786	4.35528	S	CH	BE						0		29	Europe/Brussels	2009-09-02
+4053361	Camp Pushmataha	Camp Pushmataha		31.07518	-88.23084	S	CMP	US		AL	097			0	92	104	America/Chicago	2010-02-14
+4872982	Ridgeview Park	Ridgeview Park		41.59253	-90.60597	P	PPL	US		IA	163			0	224	227	America/Chicago	2006-01-15
+6356624	Tosantos	Tosantos		42.41261	-3.24234	A	ADM3	ES		55	BU	09392		53		824	Europe/Madrid	2010-11-08
+6732526	Limbangan	Limbangan	Limbangan	-6.908	110.1453	P	PPL	ID		07				0		11	Asia/Jakarta	2012-01-20
+8221827	Sosnovshchina	Sosnovshchina	Sosnovshchina,Sosnovshhina,Сосновщина	55.0137	27.3711	P	PPL	BY		07				0		184	Europe/Minsk	2012-02-29
+5238837	Mount Moosalamoo Trail	Mount Moosalamoo Trail		43.92812	-73.04261	R	TRL	US		VT	001			0	608	618	America/New_York	2010-02-18
+6434811	Larnagol	Larnagol		44.47611	1.7775	A	ADM4	FR		B3	46	462	46155	133		155	Europe/Paris	2012-05-10
+8497715	Nopah Peak	Nopah Peak		36.01752	-116.08429	T	MT	US		CA	027			0	1943	1921	America/Los_Angeles	2013-03-09
+4111291	Ford Hollow	Ford Hollow		36.44007	-93.91187	T	VAL	US		AR	007			0	343	344	America/Chicago	2006-01-15
+1527891	Kok-Bulak	Kok-Bulak		42.05	76.98333	H	STM	KG		07				0		2369	Asia/Bishkek	2011-10-08
+4764357	Hodges Creek	Hodges Creek		36.75876	-76.29522	H	STM	US		VA	550			0	5	1	America/New_York	2006-01-15
+6150557	Snare Lake Bogs	Snare Lake Bogs		45.58345	-63.46539	T	PLN	CA		07				0		338	America/Halifax	2006-01-18
+2704751	Hostsjön	Hostsjon	Hostsjoen,Hostsjon,Hostsjön,Hostsjøn	63.75	15.51667	H	LK	SE		07				0		255	Europe/Stockholm	2012-01-17
+5710556	Abiqua Creek	Abiqua Creek		45.03623	-122.83231	H	STM	US		OR	047			0	45	48	America/Los_Angeles	2010-09-05
+4245555	New Hope Cemetery	New Hope Cemetery		38.93921	-89.84204	S	CMTY	US		IL	119			0	173	173	America/Chicago	2006-01-15
+6778100	Diarètkwa	Diaretkwa		13.88896	11.09916	H	WLL	NE		02				0		354	Africa/Niamey	2009-01-04
+2680726	Sågkvarnen	Sagkvarnen		57.61667	16.48333	S	FRM	SE		09	0883			0		21	Europe/Stockholm	2011-10-30
+5563204	Egg Lake Butte	Egg Lake Butte		41.29766	-121.30304	T	MT	US		CA	049			0	1415	1411	America/Los_Angeles	2006-01-15
+3427708	Laguna Tork	Laguna Tork		-28.54705	-59.28133	H	LK	AR		21				0		38	America/Argentina/Cordoba	2011-04-19
+1012313	Cyferfontein	Cyferfontein		-24.83282	29.23984	S	FRM	ZA		07				0		930	Africa/Johannesburg	2011-04-19
+2493484	Adrar Ilassène	Adrar Ilassene		21.4497	4.17898	T	MTS	DZ		53				0		714	Africa/Algiers	2006-10-10
+3317012	Plijevor	Plijevor	Plijevor	42.37333	18.97111	P	PPL	ME		00				5		335	Europe/Podgorica	2013-07-07
+7562169	Ōnogō-eki	Onogo-eki	Onogo-eki,duono xiang yi,oonogoueki,Ōnogō-eki,おおのごうえき,多ノ郷駅	33.41068	133.29464	S	RSTN	JP		20				0		6	Asia/Tokyo	2012-01-21
+3052767	Felsőrajk	Felsorajk	Felsorajk,Felsőrajk	46.68104	16.987	P	PPL	HU		24				0		150	Europe/Budapest	2012-01-18
+2931414	Eislingen	Eislingen	Eislingen-Fils	48.69515	9.70676	P	PPL	DE		01	081	08117	08117019	20585		338	Europe/Berlin	2013-02-16
+581724	Anishkhiri	Anishkhiri	Anish-Kher,Anishkhiri,Anisjkhiri,Анишхири	55.81709	47.6683	P	PPL	RU		16				0		115	Europe/Moscow	2012-01-17
+1601758	Ban Lao Biat	Ban Lao Biat		16.76667	104.6	P	PPL	TH		78				0		186	Asia/Bangkok	1994-04-10
+2923955	Fuchsendorf	Fuchsendorf		49.91658	11.83112	P	PPL	DE		02	094	09472	09472156	0		523	Europe/Berlin	2013-02-19
+7714586	Aegis of Redmond Assisted Living Facility	Aegis of Redmond Assisted Living Facility		47.67101	-122.13143	S	BLDG	US		WA	033			0	13	14	America/Los_Angeles	2011-03-12
+5360690	Jess Martin Park	Jess Martin Park		33.07199	-116.5928	L	PRK	US		CA	073			0	1292	1294	America/Los_Angeles	2010-02-20
+1537920	Ozero Zhumay	Ozero Zhumay		50.69758	69.8188	H	LK	KZ		03				0		318	Asia/Almaty	2012-06-06
+8035761	Kandong Erzu	Kandong Erzu	Kandong Erzu,kan dong er zu,坎东二组	33.85107	119.79705	P	PPL	CN		04				0		-1	Asia/Shanghai	2012-01-21
+8235460	Kengtou	Kengtou	Kengtou,keng tou,坑头	24.50994	113.67561	P	PPL	CN		30				0		188	Asia/Shanghai	2012-04-06
+4761151	Glenwood Racetrack	Glenwood Racetrack		38.99372	-77.73749	S		US		VA	107			0	148	145	America/New_York	2010-02-18
+2108101	Kandova Point	Kandova Point		-6.88971	157.00418	T	PT	SB		00				0		25	Pacific/Guadalcanal	1994-01-05
+8542536	Shezaf	Shezaf	Shezaf,syzp,שיזף	29.55738	34.94395	R	RD	IL		01				0		87	Asia/Jerusalem	2013-06-06
+807424	Berezovyy Kust	Berezovyy Kust	Berezovyj Kust,Berezovyy Kust,Березовый Куст	51.43167	41.89194	P	PPL	RU		86				0		167	Europe/Moscow	2012-01-19
+7445187	Zhangjiagou	Zhangjiagou	Zhangjiagou,zhang jia gou,张家沟	33.24101	107.73216	P	PPL	CN		26				0		640	Asia/Chongqing	2012-01-21
+751809	Arzutu	Arzutu	Arzunti,Arzuti,Arzutu	40.06667	41.26667	P	PPL	TR	TR	25				0		2024	Europe/Istanbul	2012-01-18
+1981356	Chaxi	Chaxi		26.71556	110.05861	P	PPL	CN		11				0		354	Asia/Shanghai	2004-05-21
+8642530	Rincón el Mezquite	Rincon el Mezquite	Rincon el Mezquite,Rincón el Mezquite	28.84648	-105.15277	L	LCTY	MX		06				0		1785	America/Chihuahua	2013-11-14
+8318015	Ban Non Sam Liam	Ban Non Sam Liam	Ban Non Sam Liam,ban non samheliym,บ้านโนนสามเหลี่ยม	15.96431	105.23175	P	PPL	TH		75				0		164	Asia/Bangkok	2012-06-07
+7815725	Salyankot9	Salyankot9		28.0134	84.9105	A	ADM5	NP		CR	01	30	300040	0		841	Asia/Kathmandu	2012-02-08
+408713	Jaww Umm Da‘ah	Jaww Umm Da`ah	Jaww Umm Da`ah,Jaww Umm Da‘ah	26.57806	46.76694	T	DPR	SA		10				0		445	Asia/Riyadh	2012-01-19
+3110939	Río Samo	Rio Samo		42.96849	-8.34999	H	STM	ES		58	C	15066		0		250	Europe/Madrid	2011-09-11
+3562786	Arroyo Cupeyal	Arroyo Cupeyal		21.08472	-77.20306	H	STMI	CU		05				0		89	America/Havana	1996-03-12
+6615110	La Croixille	La Croixille		48.205	-1.05583	A	ADM4	FR		B5	53	532	53086	650		173	Europe/Paris	2012-05-10
+6679104	Guidan Katou	Guidan Katou	Gidan Katou,Guidan Katou	14.7709	5.5708	P	PPL	NE		06				0		374	Africa/Niamey	2012-01-20
+717613	Mikesz-tag	Mikesz-tag	Mikecz-tanya,Mikecztag,Mikesz-tag	48.08333	21.61667	L	AREA	HU	HU	18				0		101	Europe/Budapest	2012-01-18
+8210598	Southgate Lagoon	Southgate Lagoon	Southgate Lagoon	-29.6152	153.0096	H	LGN	AU		02				0		3	Australia/Sydney	2012-02-29
+4570680	Berean Church of Christ	Berean Church of Christ		34.33405	-79.43894	S	CH	US		SC	033			0	33	27	America/New_York	2010-09-05
+3038534	Aignerville	Aignerville	Aignerville	49.32083	-0.92036	P	PPL	FR		99	14	141	14004	129		14	Europe/Paris	2012-01-18
+3282291	Ðuzeli	Duzeli		43.47278	17.21833	P	PPL	HR		15				0		675	Europe/Zagreb	2005-06-04
+5292041	Darton Dome	Darton Dome		35.39417	-111.5196	T	MT	US		AZ	005			0	2563	2564	America/Phoenix	2010-02-14
+1788034	Xudaizhen	Xudaizhen	Hsu-tai,Hsü-tai,Xudai,Xudaizhen	30.68611	121.08167	P	PPL	CN	CN	02				0		6	Asia/Shanghai	2012-01-18
+7952870	Thali	Thali		28.96703	81.98054	P	PPLL	NP		MR	02	61	610004	0		2567	Asia/Kathmandu	2011-08-27
+8451127	Ban Noen Setthi	Ban Noen Setthi	Ban Noen Setthi,ban nein sersʹthi,บ้านเนินเศรษฐี	16.17311	100.26372	P	PPL	TH		13				0		35	Asia/Bangkok	2013-02-10
+3834425	Cuchilla del Tigre	Cuchilla del Tigre		-32.26249	-69.31706	T	MT	AR		13				0		2735	America/Argentina/Mendoza	2011-04-19
+5777486	Little Tree Hill	Little Tree Hill		40.77272	-111.75354	T	MT	US		UT	035			0	1762	1741	America/Denver	2006-01-15
+273036	Ouâdi Jraïbane	Ouadi Jraibane	Ouadi Jerbane,Ouadi Jraibane,Ouâdi Jerbâne,Ouâdi Jraïbane,Wadi Jurayban,Wādī Juraybān	33.97528	36.11833	H	WAD	LB		11				0		1037	Asia/Beirut	2012-01-18
+3152869	Herøya	Heroya	Heroen,Heroya,Heröen,Herøya	58.11669	8.08574	T	ISL	NO	NO	19	1001			0		14	Europe/Oslo	2013-07-14
+7849214	Datarpasang	Datarpasang	Datarpasang	-7.4636	107.4354	P	PPL	ID		30				0		269	Asia/Jakarta	2012-01-21
+306441	Körsarnıç Deresi	Korsarnic Deresi	Korsaric Deresi,Korsarnic Deresi,Kosaric Deresi,Körsarnıç Deresi,Körsarıç Deresi,Kösarıç Deresi,Pasa Deresi,Paşa Deresi	36.46667	34.18333	H	STM	TR	TR	32				0		-9999	Europe/Istanbul	2012-01-18
+1961900	Sadeng	Sadeng	Sadeng	-7.0382	110.3632	P	PPL	ID		07				0		197	Asia/Jakarta	2012-01-20
+8279310	Chenal Ukaturaka	Chenal Ukaturaka		1.8567	20.12367	H	CHN	CD		02				0		328	Africa/Kinshasa	2012-05-07
+1413289	Pār Batāla	Par Batala		32.90556	74.31667	P	PPL	PK		06				0		481	Asia/Karachi	2002-01-03
+2433373	Dogorérom	Dogorerom		13.45	14.43333	P	PPL	TD		07				0		288	Africa/Ndjamena	1993-12-18
+72974	Wādī Marbūn	Wadi Marbun	Wadi Marbun,Wādī Marbūn	14.32947	46.88065	H	WAD	YE		05	2112			0		1245	Asia/Aden	2012-01-16
+1840181	Norumok	Norumok	Norumegi,Norumok	37.54028	128.25917	P	PPL	KR	KR	06				0		588	Asia/Seoul	2012-01-18
+4721905	Red Lake	Red Lake		32.94706	-99.83209	H	RSV	US		TX	253			0	473	473	America/Chicago	2011-12-11
+2249651	Koudioubé	Koudioube		13.1	-16.66667	P	PPL	SN		12				0		19	Africa/Dakar	1994-01-06
+4716579	Oldham Lane Church of Christ	Oldham Lane Church of Christ		32.38541	-99.70814	S	CH	US		TX	441			0	542	543	America/Chicago	2007-02-14
+7457833	Haciyusuf	Haciyusuf		38.35157	38.48705	P	PPL	TR		44				0		1042	Europe/Istanbul	2010-08-08
+6727591	Xia Yu	Xia Yu	Xia Yu,xia yu,虾屿	25.20113	118.97732	T	ISL	CN		07				0		6	Asia/Shanghai	2012-01-20
+452470	Stora Lehtikari	Stora Lehtikari		65.76667	23.68333	T	ISL	SE		14				0		-9999	Europe/Stockholm	1998-03-20
+8201940	Tuanyuanfang	Tuanyuanfang	Tuanyuanfang,tuan yuan fang,团园坊	26.57007	113.43026	P	PPL	CN		11				0		136	Asia/Shanghai	2012-02-29
+3463649	Fagundes	Fagundes	Fagundes	-21.26667	-47.75	S	RSTN	BR		27	3543402			0		696	America/Sao_Paulo	2013-03-05
