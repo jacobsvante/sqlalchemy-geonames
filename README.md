@@ -5,7 +5,7 @@
 [![PyPI version](https://pypip.in/v/sqlalchemy-geonames/badge.png)](https://pypi.python.org/pypi/sqlalchemy-geonames)
 [![PyPI downloads](https://pypip.in/d/sqlalchemy-geonames/badge.png)](https://pypi.python.org/pypi/sqlalchemy-geonames)
 
-Created by [Jacob Magnusson](https://twitter.com/pyjacob), 2013. List of contributors can be found in [CONTRIBUTORS.md](blob/master/CONTRIBUTORS.md).
+Created by [Jacob Magnusson](https://twitter.com/pyjacob), 2013. List of contributors can be found in [CONTRIBUTORS.md](CONTRIBUTORS.md).
 
 
 ## About
