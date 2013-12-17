@@ -7,6 +7,7 @@ MANIFEST
 .env
 .venv
 .coverage
+.coveralls.yml
 *.DS_Store
 *.pyc
 *.sublime-project
