@@ -45,10 +45,10 @@ swedish_cities = session.query(Geoname).join(GeonameCountry)\
 
 ## Import performance
 
-*`cities15000.txt` (~23k rows)* 10 seconds
-*`cities5000.txt` (~47k rows)* 19 seconds
-*`cities1000.txt` (~138k rows)* 49 seconds
-*`allCountries.txt` (~8.5M rows)* 14 minutes 16 seconds
+* **cities15000.txt** (23k rows) ~ 10 seconds
+* **cities5000.txt** (47k rows) ~ 19 seconds
+* **cities1000.txt** (138k rows) ~ 49 seconds
+* **allCountries.txt** (8.5M rows) ~ 14 minutes 16 seconds
 
 Tested on my 2.7 GHz i7 + SSD Macbook Pro. The import process is very CPU bound, memory usage is about 20-40MB.
 
