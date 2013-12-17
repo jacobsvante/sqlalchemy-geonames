@@ -17,8 +17,8 @@ install:
   - sudo apt-get update
   - sudo apt-get install -q postgis
 
-  # Install flake8 style checker and the coverage module
-  - pip install flake8 coverage
+  # Test suite and
+  - pip install flake8 coverage coveralls
 
 before_script:
   # Create database user "sqla_geonames"
@@ -30,20 +30,22 @@ before_script:
   # Grant CREATE permission on database "sqla_geonames" to role "sqla_geonames"
   - psql -c 'GRANT CREATE ON DATABASE sqla_geonames TO "sqla_geonames";' -U postgres
 
-  # Grant USAGE and CREATE permission on schema "sqla_geonames" to role "sqla_geonames"
+  # Grant USAGE and CREATE permission on schema "public" to role "sqla_geonames"
   - psql -d sqla_geonames -c 'GRANT USAGE, CREATE ON SCHEMA public TO "sqla_geonames";' -U postgres
 
   # Add PostGIS extension to "sqla_geonames" database
   - psql -d sqla_geonames -U postgres -c "CREATE EXTENSION postgis;"
 
 script:
-  # Run the library through flake8
+  # PEP-8. Build fails if flake8 reports any PEP8 errors.
   - flake8 sqlalchemy_geonames
 
-  # Run the unit test suite
-  - python setup.py nosetests --verbosity=2 --with-coverage
+  # Run the tests
+  - python setup.py nosetests --verbosity=2
 
-after_script:
-  # Report coverage results to coveralls.io
-  - pip install coveralls
+  # Run test coverage
+  - coverage run --source=sqlalchemy_geonames setup.py nosetests
+
+after_success:
+  # Submit data from .coverage to coveralls on success
   - coveralls
