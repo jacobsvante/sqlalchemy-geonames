@@ -11,19 +11,11 @@ notifications:
 services:
   - postgresql
 
-env:
-  - POSTGIS_VERSION=2
-
 install:
-  # Add PPA for geos 3.3.x
-  - sudo apt-add-repository -y ppa:sharpie/for-science
-
-  # Add PPA for PostGIS 2.x
-  - sudo apt-add-repository -y ppa:sharpie/postgis-nightly
+  # Install PostGIS 2.x extension
+  - sudo apt-add-repository -y ppa:ubuntugis/ppa
   - sudo apt-get update
-
-  # Install PostGIS
-  - sudo apt-get install postgresql-9.1-postgis -q
+  - sudo apt-get install -q postgis
 
   # Install flake8 style checker and the coverage module
   - pip install flake8 coverage
