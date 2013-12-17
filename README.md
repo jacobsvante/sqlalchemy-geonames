@@ -38,7 +38,8 @@ from sqlalchemy_geonames import GeonameCountry, Geoname
 ...
 session = Session()
 countries = session.query(GeonameCountry).all()
-swedish_cities = session.query(Geoname).filter_by(country_code='SE').all()
+swedish_cities = session.query(Geoname).join(GeonameCountry)\
+                        .filter(GeonameCountry.country == 'Sweden').all()
 ```
 
 
