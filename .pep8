@@ -1,0 +1,3 @@
+[flake8]
+exclude = .tox,.svn,CVS,.bzr,.hg,.git,__pycache,tests/*
+ignore = F811
