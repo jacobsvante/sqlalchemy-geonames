@@ -13,8 +13,8 @@ if not PY2:
     implements_to_string = _identity
 else:
     import cdecimal as decimal
-    text_type = unicode
-    string_types = (str, unicode)
+    text_type = unicode  # noqa
+    string_types = (str, unicode)  # noqa
 
     def implements_to_string(cls):
         cls.__unicode__ = cls.__str__

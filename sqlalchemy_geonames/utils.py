@@ -1,4 +1,5 @@
 import os
+from functools import reduce
 from getpass import getpass
 from . import _compat
 
