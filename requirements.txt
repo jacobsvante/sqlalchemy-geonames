@@ -1,6 +1,6 @@
-# Don't support newer SQLAlchemy until GeoAlchemy2 fixes this:
+# Don't support newer SQLAlchemy until a GeoAlchemy2 release with this fix https://github.com/geoalchemy/geoalchemy2/pull/59 has been released.
 
-SQLAlchemy>=0.8
+SQLAlchemy>=0.8,<0.9
 GeoAlchemy2>=0.2.2
 requests>=2.0
 psycopg2>=2.5
@@ -9,3 +9,6 @@ psycopg2>=2.5
 # For pip 1.5+ you need to install with `pip install --allow-external cdecimal`
 # as external urls are no longer allowed by default.
 # cdecimal>=2.3
+
+# NOTE: progressbar is not yet py3.3 compatible as of 4 jan 2014. Use fixed release specified in setup.py dependency_links.
+# progressbar>2.2
