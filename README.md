@@ -19,6 +19,10 @@ Install using `pip`
 
     $ pip install sqlalchemy-geonames
 
+It's recommended to install `cdecimal` for optimal performance if you're on a python version lower than 3.3. With 3.3+ this is the default Decimal implementation.
+
+    $ pip install --allow-external cdecimal
+
 
 ## Usage
 

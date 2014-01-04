@@ -3,8 +3,9 @@
 SQLAlchemy>=0.8
 GeoAlchemy2>=0.2.2
 requests>=2.0
-cdecimal>=2.3
 psycopg2>=2.5
 
-# NOTE: Not py3.3 compatible, use fixed release in setup.py dependency_links
-# progressbar==2.3
+# This install is recommended for performance, but not required.
+# For pip 1.5+ you need to install with `pip install --allow-external cdecimal`
+# as external urls are no longer allowed by default.
+# cdecimal>=2.3

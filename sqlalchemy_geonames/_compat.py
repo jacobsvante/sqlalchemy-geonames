@@ -12,7 +12,6 @@ if not PY2:
     string_types = (str, )
     implements_to_string = _identity
 else:
-    import cdecimal as decimal
     text_type = unicode  # noqa
     string_types = (str, unicode)  # noqa
 
@@ -21,11 +20,16 @@ else:
         cls.__str__ = lambda x: x.__unicode__().encode('utf-8')
         return cls
 
-# Needed for sqlalchemy's active db library to use cdecimal
-# cdecimal is the standard implementation for 3.3 and higher
+# Use cdecimal if it's available as it offers much higher performance.
+# cdecimal is the standard implementation for 3.3 and higher so only apply
+# to versions lower than that.
 if sys.version_info[0:2] < (3, 3):
-    import cdecimal as decimal
-    sys.modules["decimal"] = decimal
+    try:
+        import cdecimal as decimal
+    except ImportError:
+        import decimal
+    else:
+        sys.modules["decimal"] = decimal
 else:
     import decimal
 

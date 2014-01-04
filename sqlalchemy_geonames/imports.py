@@ -1,8 +1,9 @@
 from __future__ import print_function
 from . import reader, models, settings
+from ._compat import implements_to_string
 
 # See note in _compat for why decimal is imported
-from ._compat import text_type, decimal, implements_to_string  # noqa
+from ._compat import decimal  # noqa
 
 
 @implements_to_string
