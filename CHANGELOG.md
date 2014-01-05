@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.2 (2014-01-04)
+
+* Download geoalchemy2 from GitHub instead so we can support SQLAlchemy 0.9.
+* Use progressbar2 (py3 compatible fork of python-progressbar)
+
 ## 0.1.1 (2014-01-04)
 
 * Make `cdecimal` install optional

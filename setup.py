@@ -33,10 +33,10 @@ setup(
             'sqlageonames = sqlalchemy_geonames.bin.sqlageonames:main',
         },
     },
-    # Until there's a py3.3 compatible progressbar release
-    dependency_links=['https://github.com/bradleyayers/python-progressbar/'
-                      'archive/c25e56619ca625344b71016c9dd7a7bbd5a67285.'
-                      'zip#egg=progressbar-2.3.dev'],
+    dependency_links=[
+        # Until an official release supports 0.9
+        'https://github.com/jmagnusson/geoalchemy2/'
+        'archive/27fd3eb.zip#egg=GeoAlchemy2-0.2.3'],
     author='Jacob Magnusson',
     author_email='m@jacobian.se',
     url='https://github.com/jmagnusson/sqlalchemy-geonames',
