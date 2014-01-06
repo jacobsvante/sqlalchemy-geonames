@@ -1,13 +1,5 @@
-# Don't support newer SQLAlchemy until a GeoAlchemy2 release with this fix https://github.com/geoalchemy/geoalchemy2/pull/59 has been released.
-
 SQLAlchemy>=0.8
-
-# NOTE: 0.2.3 is not yet released as of 2014-01-04. GitHub download URL
-#       specified in setup.py. Waiting for
-#       fix @ https://github.com/geoalchemy/geoalchemy2/pull/59 to be
-#       released to PyPi.
 GeoAlchemy2>=0.2.3
-
 requests>=2.0
 psycopg2>=2.5
 
@@ -16,6 +8,6 @@ psycopg2>=2.5
 # as external urls are no longer allowed by default.
 # cdecimal>=2.3
 
-# NOTE: progressbar is not yet py3.3 compatible as of 4 jan 2014.
+# NOTE: python-progressbar is not yet py3.3 compatible as of 4 jan 2014.
 #       Use progressbar2 instead (fork of progressbar).
 progressbar2>=2.6

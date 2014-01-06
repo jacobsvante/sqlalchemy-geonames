@@ -33,10 +33,6 @@ setup(
             'sqlageonames = sqlalchemy_geonames.bin.sqlageonames:main',
         },
     },
-    dependency_links=[
-        # Until an official release supports 0.9
-        'https://github.com/jmagnusson/geoalchemy2/'
-        'archive/27fd3eb.zip#egg=GeoAlchemy2-0.2.3'],
     author='Jacob Magnusson',
     author_email='m@jacobian.se',
     url='https://github.com/jmagnusson/sqlalchemy-geonames',
