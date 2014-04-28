@@ -1,3 +1,4 @@
+import errno
 import os
 from functools import reduce
 from getpass import getpass
@@ -156,3 +157,14 @@ def get_password(prompt_text,
         if password:
             return password
         print(empty_password_text)
+
+
+def mkdir_p(path):
+    """Like `mkdir -p` on *nix systems"""
+    try:
+        os.makedirs(path)
+    except OSError as exc:  # Python >2.5
+        if exc.errno == errno.EEXIST and os.path.isdir(path):
+            pass
+        else:
+            raise

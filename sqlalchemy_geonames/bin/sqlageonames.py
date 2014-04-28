@@ -24,7 +24,7 @@ from progressbar import ProgressBar, ETA, FileTransferSpeed, Percentage, Bar
 from sqlalchemy import engine, create_engine
 from sqlalchemy.orm import scoped_session, sessionmaker
 from .. import filename_config, get_importer_instances, GeonameBase
-from ..utils import get_password, normalize_path
+from ..utils import get_password, normalize_path, mkdir_p
 from ..imports import _import_options_map
 
 
@@ -85,6 +85,7 @@ def download(url, download_dir=DEFAULT_DOWNLOAD_DIR, use_cache=True,
     content_length = int(req.headers['content-length'])
     pbar = get_progress_bar(maxval=content_length)
     pbar.start()
+    mkdir_p(download_dir)  # Make sure path exists
     with open(local_filepath, 'wb') as fh:
         for chunk in req.iter_content(chunk_size=chunk_size):
             if not chunk:
