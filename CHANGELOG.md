@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.4 (2016-10-01)
+
+* Universal wheel
+
 ## 0.1.3 (2014-04-28)
 
 * `sqlageonames` now creates non-existing directories found in the specified `--download-dir`. Fixes #1. Thanks to @llazzaro for the report

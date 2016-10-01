@@ -5,7 +5,6 @@ sqlalchemy-geonames
 
 """
 from __future__ import print_function
-from pip.req import parse_requirements
 from setuptools import setup, find_packages
 
 
@@ -26,8 +25,20 @@ setup(
     description='',
     long_description=__doc__,
     packages=find_packages(exclude=('sqlalchemy_geonames.tests', )),
-    install_requires=[str(ir.req) for ir
-                      in parse_requirements('requirements.txt')],
+    install_requires=[
+        'SQLAlchemy>=0.8',
+        'GeoAlchemy2>=0.2.3',
+        'requests>=2.0',
+        'psycopg2>=2.5',
+        # This install is recommended for performance, but not required.
+        # For pip 1.5+ you need to install with `pip install --allow-external cdecimal`
+        # as external urls are no longer allowed by default.
+        # cdecimal>=2.3
+
+        # NOTE: python-progressbar is not yet py3.3 compatible as of 4 jan 2014.
+        #       Use progressbar2 instead (fork of progressbar).
+        'progressbar2>=2.6',
+    ],
     entry_points={
         'console_scripts': {
             'sqlageonames = sqlalchemy_geonames.bin.sqlageonames:main',
