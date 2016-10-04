@@ -1,51 +1,29 @@
+sudo: false
 language: python
-
-python:
-  - 2.7
-  - 3.3
-
-notifications:
-  email:
-    on_failure: change
+cache: pip
 
 services:
   - postgresql
 
+matrix:
+  include:
+    - python: 2.7
+      env: TOX_ENV=py27
+    - python: 3.3
+      env: TOX_ENV=py33
+    - python: 3.4
+      env: TOX_ENV=py34
+    - python: 3.5
+      env: TOX_ENV=py35
+    - python: 3.5
+      env: TOX_ENV=lint
+
 install:
-  # Install PostGIS 2.x extension
-  - sudo apt-add-repository -y ppa:ubuntugis/ppa
-  - sudo apt-get update
-  - sudo apt-get install -q postgis
+    - pip install tox
 
-  # Test suite and
-  - pip install flake8 coverage coveralls
-
-before_script:
-  # Create database user "sqla_geonames"
-  - psql -c "CREATE ROLE sqla_geonames PASSWORD 'sqla_geonames' SUPERUSER CREATEDB CREATEROLE INHERIT LOGIN;" -U postgres
-
-  # Create database "sqla_geonames"
-  - psql -c 'CREATE DATABASE sqla_geonames;' -U postgres
-
-  # Grant CREATE permission on database "sqla_geonames" to role "sqla_geonames"
-  - psql -c 'GRANT CREATE ON DATABASE sqla_geonames TO "sqla_geonames";' -U postgres
-
-  # Grant USAGE and CREATE permission on schema "public" to role "sqla_geonames"
-  - psql -d sqla_geonames -c 'GRANT USAGE, CREATE ON SCHEMA public TO "sqla_geonames";' -U postgres
-
-  # Add PostGIS extension to "sqla_geonames" database
-  - psql -d sqla_geonames -U postgres -c "CREATE EXTENSION postgis;"
-
-script:
-  # PEP-8. Build fails if flake8 reports any PEP8 errors.
-  - flake8 sqlalchemy_geonames
-
-  # Run the tests
-  - python setup.py nosetests --verbosity=2
-
-  # Run test coverage
-  - coverage run --source=sqlalchemy_geonames setup.py nosetests
+script: tox -e $TOX_ENV
 
 after_success:
   # Submit data from .coverage to coveralls on success
+  - pip install coveralls
   - coveralls

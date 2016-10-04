@@ -60,8 +60,10 @@ def get_download_config(primary_filename, language_code=DEFAULT_LANGUAGE_CODE):
                        if k in supported_filenames}
     for filename, opts in download_config.items():
         # Only download the selected primary primary_filename file
-        if (filename in PRIMARY_GEONAME_FILENAMES
-                and filename != primary_filename):
+        if (
+            filename in PRIMARY_GEONAME_FILENAMES and
+            filename != primary_filename
+        ):
             del download_config[filename]
         # If a file is bound to a specific language code and is not the
         # specified one then remove it.
