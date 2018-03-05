@@ -2,8 +2,8 @@
 
 [![Build status](https://travis-ci.org/jmagnusson/sqlalchemy-geonames.png?branch=master)](http://travis-ci.org/#!/jmagnusson/sqlalchemy-geonames)
 [![Code coverage](https://coveralls.io/repos/jmagnusson/sqlalchemy-geonames/badge.png?branch=master)](https://coveralls.io/r/jmagnusson/sqlalchemy-geonames)
-[![PyPI version](https://pypip.in/v/sqlalchemy-geonames/badge.png)](https://pypi.python.org/pypi/sqlalchemy-geonames)
-[![PyPI downloads](https://pypip.in/d/sqlalchemy-geonames/badge.png)](https://pypi.python.org/pypi/sqlalchemy-geonames)
+[![PyPI version](https://img.shields.io/pypi/v/sqlalchemy-geonames.svg)](https://pypi.python.org/pypi/sqlalchemy-geonames)
+[![PyPI downloads](https://img.shields.io/pypi/dm/sqlalchemy-geonames.svg)](https://pypi.python.org/pypi/sqlalchemy-geonames)
 
 Created by [Jacob Magnusson](https://twitter.com/jacobsvante_), 2013. List of contributors can be found in [CONTRIBUTORS.md](CONTRIBUTORS.md).
 
