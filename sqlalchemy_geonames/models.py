@@ -103,8 +103,8 @@ class Geoname(GeonameBase):
     country = relationship(GeonameCountry)
 
     # alternate country codes, comma separated, ISO-3166 2-letter country
-    # code, 60 characters
-    cc2 = Column(String(60), nullable=False)
+    # code, 200 characters
+    cc2 = Column(String(200), nullable=False)
 
     # fipscode (subject to change to iso code), see exceptions below, see
     # file admin1Codes.txt for display names of this code; varchar(20)
