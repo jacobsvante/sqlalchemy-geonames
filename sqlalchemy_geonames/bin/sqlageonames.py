@@ -17,7 +17,6 @@ from __future__ import print_function
 import argparse
 import os
 import sys
-from copy import deepcopy
 from zipfile import ZipFile
 import requests
 from progressbar import ProgressBar, ETA, FileTransferSpeed, Percentage, Bar
@@ -56,19 +55,12 @@ def get_local_filepath(filename, download_dir=DEFAULT_DOWNLOAD_DIR):
 
 
 def get_download_config(primary_filename, language_code=DEFAULT_LANGUAGE_CODE):
-    download_config = {k: v for k, v in deepcopy(filename_config).items()
-                       if k in supported_filenames}
-    for filename, opts in download_config.items():
-        # Only download the selected primary primary_filename file
-        if (
-            filename in PRIMARY_GEONAME_FILENAMES and
-            filename != primary_filename
-        ):
-            del download_config[filename]
-        # If a file is bound to a specific language code and is not the
-        # specified one then remove it.
-        if 'language_code' in opts and opts['language_code'] != language_code:
-            del download_config[filename]
+    download_config = {}
+    for filename, opts in filename_config.items():
+        if filename in supported_filenames and not (
+                (filename in PRIMARY_GEONAME_FILENAMES and filename != primary_filename) or 'language_code' in opts and
+                opts['language_code'] != language_code):
+            download_config[filename] = opts
     return download_config
 
 
