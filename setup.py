@@ -28,7 +28,7 @@ setup(
     install_requires=[
         'GeoAlchemy2',
         'ipdb',
-        'progressbar2',
+        'progressbar33',
         'psycopg2',
         'requests',
         'SQLAlchemy',

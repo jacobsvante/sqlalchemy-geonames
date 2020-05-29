@@ -3,6 +3,7 @@
 *.pyc
 *.sublime-project
 *.sublime-workspace
+.idea
 .cache
 .coverage
 .coveralls.yml
@@ -15,3 +16,4 @@
 build/
 dist/
 MANIFEST
+
